@@ -1,0 +1,25 @@
+  <div class="app-container">
+    <header>
+      <h1>Buscador de Verbos</h1>
+    </header>
+    <main>
+      <div class="search-box">
+        <input
+          type="text"
+          (input)="onInputChange($event)"
+          placeholder="Buscar verbo (inglés o español)..."
+        />
+      </div>
+      <ul *ngIf="filteredVerbs.length > 0" class="results-list">
+        <li *ngFor="let verb of filteredVerbs" class="verb-card">
+          <h3>{{ verb.infinitive }} <span>({{ verb.translation }})</span></h3>
+          <p><strong>Pasado:</strong> {{ verb.pastSimple }}</p>
+          <p><strong>Participio:</strong> {{ verb.pastParticiple }}</p>
+        </li>
+      </ul>
+      <p *ngIf="filteredVerbs.length === 0" class="no-results">
+        No se encontraron resultados.
+      </p>
+    </main>
+  </div>
+
