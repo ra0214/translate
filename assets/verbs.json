@@ -1,0 +1,7658 @@
+[
+  {
+    "infinitive": "ABASE",
+    "pastSimple": "ABASED",
+    "pastParticiple": "ABASED",
+    "translation": "HUMILLAR"
+  },
+  {
+    "infinitive": "ABASH",
+    "pastSimple": "ABASHED",
+    "pastParticiple": "ABASHED",
+    "translation": "AVERGONZAR"
+  },
+  {
+    "infinitive": "ABANDON",
+    "pastSimple": "ABANDONED",
+    "pastParticiple": "ABANDONED",
+    "translation": "ABANDONAR"
+  },
+  {
+    "infinitive": "ABIDE",
+    "pastSimple": "ABODE/ABIDED",
+    "pastParticiple": "ABODE",
+    "translation": "SOPORTAR"
+  },
+  {
+    "infinitive": "ABBREVIATE",
+    "pastSimple": "ABBREVIATED",
+    "pastParticiple": "ABBREVIATED",
+    "translation": "ABREVIAR"
+  },
+  {
+    "infinitive": "ABDICATE",
+    "pastSimple": "ABDICATED",
+    "pastParticiple": "ABDICATED",
+    "translation": "ABDICAR"
+  },
+  {
+    "infinitive": "ABOLISH",
+    "pastSimple": "ABOLISHED",
+    "pastParticiple": "ABOLISHED",
+    "translation": "ABOLIR"
+  },
+  {
+    "infinitive": "ABRADE",
+    "pastSimple": "ABRADED",
+    "pastParticiple": "ABRADED",
+    "translation": "RASPAR"
+  },
+  {
+    "infinitive": "ABHOR",
+    "pastSimple": "ABHORED",
+    "pastParticiple": "ABHORED",
+    "translation": "ABORRECER"
+  },
+  {
+    "infinitive": "ABOARD",
+    "pastSimple": "ABOARDED",
+    "pastParticiple": "ABOARDED",
+    "translation": "ABORDAR"
+  },
+  {
+    "infinitive": "ABORT",
+    "pastSimple": "ABORTED",
+    "pastParticiple": "ABORTED",
+    "translation": "ABORTAR"
+  },
+  {
+    "infinitive": "ABOMINATE",
+    "pastSimple": "ABOMINATED",
+    "pastParticiple": "ABOMINATED",
+    "translation": "ABORRECER"
+  },
+  {
+    "infinitive": "ABOUND",
+    "pastSimple": "ABOUNDED",
+    "pastParticiple": "ABOUNDED",
+    "translation": "ABUNDAR"
+  },
+  {
+    "infinitive": "ABSOLVE",
+    "pastSimple": "ABSOLVED",
+    "pastParticiple": "ABSOLVED",
+    "translation": "ABSOLVER"
+  },
+  {
+    "infinitive": "ABSORB",
+    "pastSimple": "ABSORBED",
+    "pastParticiple": "ABSORBED",
+    "translation": "ABSORBER"
+  },
+  {
+    "infinitive": "ABSTAIN",
+    "pastSimple": "ABSTAINED",
+    "pastParticiple": "ABTAINED",
+    "translation": "ABSTENERSE"
+  },
+  {
+    "infinitive": "ABUSE",
+    "pastSimple": "ABUSED",
+    "pastParticiple": "ABUSED",
+    "translation": "ABUSAR"
+  },
+  {
+    "infinitive": "ACCEPT",
+    "pastSimple": "ACCEPTED",
+    "pastParticiple": "ACCEPTED",
+    "translation": "ACEPTAR"
+  },
+  {
+    "infinitive": "ACCLAIM",
+    "pastSimple": "ACCLAIMED",
+    "pastParticiple": "ACCLAIMED",
+    "translation": "ACLAMAR"
+  },
+  {
+    "infinitive": "ACCLIMATIZE",
+    "pastSimple": "ACCLIMATIZED",
+    "pastParticiple": "ACCLIMATIZED",
+    "translation": "ACLIMATARSE"
+  },
+  {
+    "infinitive": "ACCOMPANY",
+    "pastSimple": "ACCOMPANIED",
+    "pastParticiple": "ACCOMPANIED",
+    "translation": "ACOMPA\u00d1AR"
+  },
+  {
+    "infinitive": "ACCUMULATE",
+    "pastSimple": "ACCUMULATED",
+    "pastParticiple": "ACCUMULATED",
+    "translation": "ACUMULAR"
+  },
+  {
+    "infinitive": "ACCUSE",
+    "pastSimple": "ACCUSED",
+    "pastParticiple": "ACCUSED",
+    "translation": "ACUSAR"
+  },
+  {
+    "infinitive": "ACQUAINT",
+    "pastSimple": "ACQUAINTED",
+    "pastParticiple": "ACQUAINTED",
+    "translation": "FAMILIARISARSE"
+  },
+  {
+    "infinitive": "ACT",
+    "pastSimple": "ACTED",
+    "pastParticiple": "ACTED",
+    "translation": "ACTUAR"
+  },
+  {
+    "infinitive": "ACTIVATE",
+    "pastSimple": "ACTIVATED",
+    "pastParticiple": "ACTIVATED",
+    "translation": "ACTIVAR"
+  },
+  {
+    "infinitive": "ADAPT",
+    "pastSimple": "ADAPTED",
+    "pastParticiple": "ADAPTED",
+    "translation": "ADAPTAR"
+  },
+  {
+    "infinitive": "ADD",
+    "pastSimple": "ADDED",
+    "pastParticiple": "ADDED",
+    "translation": "SUMAR,A\u00d1ADIR"
+  },
+  {
+    "infinitive": "ADDRESS",
+    "pastSimple": "ADDRESSED",
+    "pastParticiple": "ADDRESSED",
+    "translation": "DIRIGIR"
+  },
+  {
+    "infinitive": "ADJUDGE",
+    "pastSimple": "ADJUDGED",
+    "pastParticiple": "ADJUDGE",
+    "translation": "JUZGAR"
+  },
+  {
+    "infinitive": "ADJUST",
+    "pastSimple": "ADJUSTED",
+    "pastParticiple": "ADJUSTED",
+    "translation": "AJUSTAR"
+  },
+  {
+    "infinitive": "ADMINISTER",
+    "pastSimple": "ADMINISTERED",
+    "pastParticiple": "ADMINISTERED",
+    "translation": "ADMINISTRAR"
+  },
+  {
+    "infinitive": "ADMIRE",
+    "pastSimple": "ADMIRED",
+    "pastParticiple": "ADMIRED",
+    "translation": "ADMIRAR"
+  },
+  {
+    "infinitive": "ADMIT",
+    "pastSimple": "ADMITTED",
+    "pastParticiple": "ADMITTED",
+    "translation": "ADMITIR"
+  },
+  {
+    "infinitive": "ADOPT",
+    "pastSimple": "ADOPTED",
+    "pastParticiple": "ADOPTED",
+    "translation": "ADOPTAR"
+  },
+  {
+    "infinitive": "ADORE",
+    "pastSimple": "ADORED",
+    "pastParticiple": "ADORED",
+    "translation": "ADORAR"
+  },
+  {
+    "infinitive": "ADORN",
+    "pastSimple": "ADORNED",
+    "pastParticiple": "ADORNED",
+    "translation": "ADORNAR"
+  },
+  {
+    "infinitive": "ADULATE",
+    "pastSimple": "ADULATED",
+    "pastParticiple": "ADULATED",
+    "translation": "ADULAR"
+  },
+  {
+    "infinitive": "ADULTERATE",
+    "pastSimple": "ADULTERATED",
+    "pastParticiple": "ADULTERATED",
+    "translation": "ADULTERAR"
+  },
+  {
+    "infinitive": "ADVERTISE",
+    "pastSimple": "ADVERTISED",
+    "pastParticiple": "ADVERTISED",
+    "translation": "ANUNCIAR"
+  },
+  {
+    "infinitive": "ADVISE",
+    "pastSimple": "ADVISED",
+    "pastParticiple": "ADVISED",
+    "translation": "ACONSEJAR"
+  },
+  {
+    "infinitive": "AFFECT",
+    "pastSimple": "AFFECTED",
+    "pastParticiple": "AFFECTED",
+    "translation": "AFECTAR"
+  },
+  {
+    "infinitive": "AFFORD",
+    "pastSimple": "AFFORDED",
+    "pastParticiple": "AFFORDED",
+    "translation": "COSTEAR"
+  },
+  {
+    "infinitive": "AGGRAVATE",
+    "pastSimple": "AGGRAVATED",
+    "pastParticiple": "AGGRAVATED",
+    "translation": "AGRAVAR"
+  },
+  {
+    "infinitive": "AGREE",
+    "pastSimple": "AGREED",
+    "pastParticiple": "AGREED",
+    "translation": "ACORDAR"
+  },
+  {
+    "infinitive": "AIM",
+    "pastSimple": "AIMED",
+    "pastParticiple": "AIMED",
+    "translation": "APUNTAR"
+  },
+  {
+    "infinitive": "ALARM",
+    "pastSimple": "ALARMED",
+    "pastParticiple": "ALARMED",
+    "translation": "ALARMAR"
+  },
+  {
+    "infinitive": "ALLOW",
+    "pastSimple": "ALLOWED",
+    "pastParticiple": "ALLOWED",
+    "translation": "PERMITIR"
+  },
+  {
+    "infinitive": "ALLOY",
+    "pastSimple": "ALLOYED",
+    "pastParticiple": "ALLOYED",
+    "translation": "MEZCLAR"
+  },
+  {
+    "infinitive": "ALLUDE",
+    "pastSimple": "ALLUDED",
+    "pastParticiple": "ALLUDED",
+    "translation": "ALUDIR"
+  },
+  {
+    "infinitive": "ALTER",
+    "pastSimple": "ALTERED",
+    "pastParticiple": "ALTERED",
+    "translation": "ALTERAR"
+  },
+  {
+    "infinitive": "ALTERCATE",
+    "pastSimple": "ALTERCATED",
+    "pastParticiple": "ALTERCATED",
+    "translation": "ALTERCAR"
+  },
+  {
+    "infinitive": "ALTERNATE",
+    "pastSimple": "ALTERNATED",
+    "pastParticiple": "ALTERNATED",
+    "translation": "ALTERNAR"
+  },
+  {
+    "infinitive": "AMORTIZE",
+    "pastSimple": "AMORTIZED",
+    "pastParticiple": "AMORTIZED",
+    "translation": "AMORTIZAR"
+  },
+  {
+    "infinitive": "AMPUTATE",
+    "pastSimple": "AMPUTATED",
+    "pastParticiple": "AMPUTATED",
+    "translation": "AMPUTAR"
+  },
+  {
+    "infinitive": "AMUSE",
+    "pastSimple": "AMUSED",
+    "pastParticiple": "AMUSED",
+    "translation": "ENTRETENER"
+  },
+  {
+    "infinitive": "ANALYSE",
+    "pastSimple": "ANALYSED",
+    "pastParticiple": "ANALYSED",
+    "translation": "ANALIZAR"
+  },
+  {
+    "infinitive": "ANIMATE",
+    "pastSimple": "ANIMATED",
+    "pastParticiple": "ANIMATED",
+    "translation": "ANIMAR"
+  },
+  {
+    "infinitive": "ANNOUNCE",
+    "pastSimple": "ANNOUNCED",
+    "pastParticiple": "ANNOUNCED",
+    "translation": "ANUNCIAR"
+  },
+  {
+    "infinitive": "ANNOY",
+    "pastSimple": "ANNOYED",
+    "pastParticiple": "ANNOYED",
+    "translation": "FASTIDIAR"
+  },
+  {
+    "infinitive": "ANSWER",
+    "pastSimple": "ANSWERED",
+    "pastParticiple": "ANSWERED",
+    "translation": "CONSTESTAR"
+  },
+  {
+    "infinitive": "ANTECEDE",
+    "pastSimple": "ANTECEDED",
+    "pastParticiple": "ANTECEDED",
+    "translation": "ANTECEDER"
+  },
+  {
+    "infinitive": "ANTICIPATE",
+    "pastSimple": "ANTICIPATED",
+    "pastParticiple": "ANTICIPATED",
+    "translation": "ANTICIPAR"
+  },
+  {
+    "infinitive": "APOLOGIZE",
+    "pastSimple": "APOLOGIZED",
+    "pastParticiple": "APOLOGIZED",
+    "translation": "DISCULPARSE"
+  },
+  {
+    "infinitive": "APPALL",
+    "pastSimple": "APPALLED",
+    "pastParticiple": "APPALLED",
+    "translation": "ATERRAR"
+  },
+  {
+    "infinitive": "APPEAL",
+    "pastSimple": "APPEALED",
+    "pastParticiple": "APPEALED",
+    "translation": "APELAR"
+  },
+  {
+    "infinitive": "APPEAR",
+    "pastSimple": "APPEARED",
+    "pastParticiple": "APPEARED",
+    "translation": "APARECER"
+  },
+  {
+    "infinitive": "APPLAUD",
+    "pastSimple": "APPLAUDED",
+    "pastParticiple": "APPLAUDED",
+    "translation": "APLAUDIR"
+  },
+  {
+    "infinitive": "APPLY",
+    "pastSimple": "APLIED",
+    "pastParticiple": "APPLIED",
+    "translation": "APLICAR"
+  },
+  {
+    "infinitive": "APPRAISE",
+    "pastSimple": "APPRAISED",
+    "pastParticiple": "APPRAISED",
+    "translation": "TASAR/VALORAR"
+  },
+  {
+    "infinitive": "APPRECIATE",
+    "pastSimple": "APPRECIATED",
+    "pastParticiple": "APPRECIATED",
+    "translation": "AGRADECER"
+  },
+  {
+    "infinitive": "APPROACH",
+    "pastSimple": "APPROACHED",
+    "pastParticiple": "APPROACHED",
+    "translation": "ACERCARSE"
+  },
+  {
+    "infinitive": "APPROVE",
+    "pastSimple": "APPROVED",
+    "pastParticiple": "APPROVED",
+    "translation": "APROBAR"
+  },
+  {
+    "infinitive": "ARGUE",
+    "pastSimple": "ARGUED",
+    "pastParticiple": "ARGUED",
+    "translation": "DISCUTIR"
+  },
+  {
+    "infinitive": "ARM",
+    "pastSimple": "ARMED",
+    "pastParticiple": "ARMED",
+    "translation": "ARMARSE"
+  },
+  {
+    "infinitive": "ARRIVE",
+    "pastSimple": "ARRIVED",
+    "pastParticiple": "ARRIVED",
+    "translation": "ARRIBAR"
+  },
+  {
+    "infinitive": "ARRANGE",
+    "pastSimple": "ARRANGED",
+    "pastParticiple": "ARRANGED",
+    "translation": "ARREGLAR"
+  },
+  {
+    "infinitive": "ARREST",
+    "pastSimple": "ARRESTED",
+    "pastParticiple": "ARRESTED",
+    "translation": "ARRESTAR/DETENER"
+  },
+  {
+    "infinitive": "ARRIVE",
+    "pastSimple": "ARRIVED",
+    "pastParticiple": "ARRIVED",
+    "translation": "ARRIVAR/LLEGAR"
+  },
+  {
+    "infinitive": "ARTICULATE",
+    "pastSimple": "ARTICULATED",
+    "pastParticiple": "ARTICULATED",
+    "translation": "ARTICULAR"
+  },
+  {
+    "infinitive": "ASCEND",
+    "pastSimple": "ASCENDED",
+    "pastParticiple": "ASCENDED",
+    "translation": "ASCENDER"
+  },
+  {
+    "infinitive": "ASCRIBE",
+    "pastSimple": "ASCRIBED",
+    "pastParticiple": "ASCRIBED",
+    "translation": "ATRIBUIR"
+  },
+  {
+    "infinitive": "ASK",
+    "pastSimple": "ASKED",
+    "pastParticiple": "ASKED",
+    "translation": "PREGUNTAR"
+  },
+  {
+    "infinitive": "ASPIRE",
+    "pastSimple": "ASPIRED",
+    "pastParticiple": "ASPIRED",
+    "translation": "ASPIRAR"
+  },
+  {
+    "infinitive": "ASSAULT",
+    "pastSimple": "ASSAULTED",
+    "pastParticiple": "ASSAULTED",
+    "translation": "ASALTAR"
+  },
+  {
+    "infinitive": "ASSIST",
+    "pastSimple": "ASSISTED",
+    "pastParticiple": "ASSISTED",
+    "translation": "ASISTIR"
+  },
+  {
+    "infinitive": "ASSOCIATE",
+    "pastSimple": "ASSOCIATED",
+    "pastParticiple": "ASSOCIATED",
+    "translation": "ASOCIAR"
+  },
+  {
+    "infinitive": "ASSORT",
+    "pastSimple": "ASSORTED",
+    "pastParticiple": "ASSORTED",
+    "translation": "CLASIFICAR"
+  },
+  {
+    "infinitive": "ASSUME",
+    "pastSimple": "ASSUMED",
+    "pastParticiple": "ASSUMED",
+    "translation": "ASUMIR"
+  },
+  {
+    "infinitive": "ASSURE",
+    "pastSimple": "ASSURED",
+    "pastParticiple": "ASSURED",
+    "translation": "ASEGURAR"
+  },
+  {
+    "infinitive": "ASTONISH",
+    "pastSimple": "ASTONISHED",
+    "pastParticiple": "ASTONISHED",
+    "translation": "ASOMBRAR"
+  },
+  {
+    "infinitive": "ASTOUND",
+    "pastSimple": "ASTOUNDED",
+    "pastParticiple": "ASTOUNDED",
+    "translation": "ASOMBRAR"
+  },
+  {
+    "infinitive": "ATTACH",
+    "pastSimple": "ATTACHED",
+    "pastParticiple": "ATTACHED",
+    "translation": "PEGAR/ADHERIR"
+  },
+  {
+    "infinitive": "ATTACK",
+    "pastSimple": "ATTACKED",
+    "pastParticiple": "ATTACKED",
+    "translation": "ATACAR"
+  },
+  {
+    "infinitive": "ATTEMPT",
+    "pastSimple": "ATTEMPTED",
+    "pastParticiple": "ATTEMPTED",
+    "translation": "INTENTAR"
+  },
+  {
+    "infinitive": "ATTENUATE",
+    "pastSimple": "ATTENUATED",
+    "pastParticiple": "ATTENUATED",
+    "translation": "ATENUAR"
+  },
+  {
+    "infinitive": "ATTEST",
+    "pastSimple": "ATTESTED",
+    "pastParticiple": "ATTESTED",
+    "translation": "ATESTIGUAR"
+  },
+  {
+    "infinitive": "ATTRACT",
+    "pastSimple": "ATTRACTED",
+    "pastParticiple": "ATTRACTED",
+    "translation": "ATRAER"
+  },
+  {
+    "infinitive": "ATTRIBUTE",
+    "pastSimple": "ATTRIBUTED",
+    "pastParticiple": "ATTRIBUTED",
+    "translation": "ATRIBUIR"
+  },
+  {
+    "infinitive": "AUCTION",
+    "pastSimple": "AUCTIONED",
+    "pastParticiple": "AUCTIONED",
+    "translation": "SUBASTAR"
+  },
+  {
+    "infinitive": "AUGUR",
+    "pastSimple": "AUGURED",
+    "pastParticiple": "AUGURED",
+    "translation": "AUGURAR"
+  },
+  {
+    "infinitive": "AVOID",
+    "pastSimple": "AVOIDED",
+    "pastParticiple": "AVOIDED",
+    "translation": "EVITAR"
+  },
+  {
+    "infinitive": "AWAIT",
+    "pastSimple": "AWAITED",
+    "pastParticiple": "AWAITED",
+    "translation": "ESPERAR"
+  },
+  {
+    "infinitive": "AWAKE",
+    "pastSimple": "AWAKED",
+    "pastParticiple": "AWAKED",
+    "translation": "DESPERTAR"
+  },
+  {
+    "infinitive": "AWARD",
+    "pastSimple": "AWARDED",
+    "pastParticiple": "AWARDED",
+    "translation": "PREMIAR"
+  },
+  {
+    "infinitive": "ABIDE",
+    "pastSimple": "ABIDED",
+    "pastParticiple": "ABIDED",
+    "translation": "SOPORTAR"
+  },
+  {
+    "infinitive": "ARISE",
+    "pastSimple": "AROSE",
+    "pastParticiple": "ARISEN",
+    "translation": "LEVANTARSE"
+  },
+  {
+    "infinitive": "BAKE",
+    "pastSimple": "BAKED",
+    "pastParticiple": "BAKED",
+    "translation": "HORNEAR"
+  },
+  {
+    "infinitive": "BABLE",
+    "pastSimple": "BABLED",
+    "pastParticiple": "BABLED",
+    "translation": "BALBUCEAR"
+  },
+  {
+    "infinitive": "BAIT",
+    "pastSimple": "BAITED",
+    "pastParticiple": "BAITED",
+    "translation": "CEBAR/AZUZAR"
+  },
+  {
+    "infinitive": "BALANCE",
+    "pastSimple": "BALANCED",
+    "pastParticiple": "BALANCED",
+    "translation": "NIVELAR"
+  },
+  {
+    "infinitive": "BANDAGE",
+    "pastSimple": "BANDAGED",
+    "pastParticiple": "BANDAGED",
+    "translation": "VENDAR"
+  },
+  {
+    "infinitive": "BANISH",
+    "pastSimple": "BANISHED",
+    "pastParticiple": "BANISHED",
+    "translation": "AHUYENTAR"
+  },
+  {
+    "infinitive": "BAPTIZE",
+    "pastSimple": "BAPTIZED",
+    "pastParticiple": "BAPTIZED",
+    "translation": "BAUTIZAR"
+  },
+  {
+    "infinitive": "BARE",
+    "pastSimple": "BARED",
+    "pastParticiple": "BARED",
+    "translation": "DESNUDAR"
+  },
+  {
+    "infinitive": "BARK",
+    "pastSimple": "BARKED",
+    "pastParticiple": "BARKED",
+    "translation": "LADRAR"
+  },
+  {
+    "infinitive": "BARGAIN",
+    "pastSimple": "BARGAINED",
+    "pastParticiple": "BARGAINED",
+    "translation": "REGATEAR"
+  },
+  {
+    "infinitive": "BASTE",
+    "pastSimple": "BASTED",
+    "pastParticiple": "BASTED",
+    "translation": "HILVANAR"
+  },
+  {
+    "infinitive": "BASTE",
+    "pastSimple": "BASTED",
+    "pastParticiple": "BASTED",
+    "translation": "PRINGAR"
+  },
+  {
+    "infinitive": "BATTLE",
+    "pastSimple": "BATTLED",
+    "pastParticiple": "BATTLED",
+    "translation": "BATALLAR"
+  },
+  {
+    "infinitive": "BAT",
+    "pastSimple": "BATTED",
+    "pastParticiple": "BATTED",
+    "translation": "BATEAR"
+  },
+  {
+    "infinitive": "BATTER",
+    "pastSimple": "BATTERED",
+    "pastParticiple": "BATTERED",
+    "translation": "GOLPEAR"
+  },
+  {
+    "infinitive": "BANISH",
+    "pastSimple": "BANISHED",
+    "pastParticiple": "BANISHED",
+    "translation": "DESTERRAR"
+  },
+  {
+    "infinitive": "BEG",
+    "pastSimple": "BEGGED",
+    "pastParticiple": "BEGGED",
+    "translation": "ROGAR"
+  },
+  {
+    "infinitive": "BEHAVE",
+    "pastSimple": "BEHAVED",
+    "pastParticiple": "BEHAVED",
+    "translation": "COMPORTARSE"
+  },
+  {
+    "infinitive": "BEHEAD",
+    "pastSimple": "BEHEADED",
+    "pastParticiple": "BEHEADED",
+    "translation": "DECAPITAR"
+  },
+  {
+    "infinitive": "BELONG",
+    "pastSimple": "BELONGED",
+    "pastParticiple": "BELONGED",
+    "translation": "PERTENECER"
+  },
+  {
+    "infinitive": "BEREAVE",
+    "pastSimple": "BEREAVED",
+    "pastParticiple": "BEREAVED",
+    "translation": "PRIVAR"
+  },
+  {
+    "infinitive": "BESTREW",
+    "pastSimple": "BESTREWED",
+    "pastParticiple": "BESTREWED",
+    "translation": "ESPARCIR"
+  },
+  {
+    "infinitive": "BIKE",
+    "pastSimple": "BIKED",
+    "pastParticiple": "BIKED",
+    "translation": "MONTAR"
+  },
+  {
+    "infinitive": "BICYCLE",
+    "pastSimple": "BICYCLED",
+    "pastParticiple": "BICYCLED",
+    "translation": "MONTAR"
+  },
+  {
+    "infinitive": "BILK",
+    "pastSimple": "BILKED",
+    "pastParticiple": "BILKED",
+    "translation": "ESTAFAR"
+  },
+  {
+    "infinitive": "BILL",
+    "pastSimple": "BILLED",
+    "pastParticiple": "BILLED",
+    "translation": "FACTURA"
+  },
+  {
+    "infinitive": "BLAB",
+    "pastSimple": "BLABED",
+    "pastParticiple": "BLABED",
+    "translation": "DIVULGAR"
+  },
+  {
+    "infinitive": "BLAME",
+    "pastSimple": "BLAMED",
+    "pastParticiple": "BLAMED",
+    "translation": "CULPAR"
+  },
+  {
+    "infinitive": "BLAST",
+    "pastSimple": "BLASTED",
+    "pastParticiple": "BLASTED",
+    "translation": "EXPLOTAR"
+  },
+  {
+    "infinitive": "BLEACH",
+    "pastSimple": "BLEACHED",
+    "pastParticiple": "BLEACHED",
+    "translation": "BLANQUEAR"
+  },
+  {
+    "infinitive": "BLEND",
+    "pastSimple": "BLENDED",
+    "pastParticiple": "BLENDED",
+    "translation": "MEZCLAR"
+  },
+  {
+    "infinitive": "BLESS",
+    "pastSimple": "BLESSED",
+    "pastParticiple": "BLESSED",
+    "translation": "BENDECIR"
+  },
+  {
+    "infinitive": "BLIND",
+    "pastSimple": "BLINDED",
+    "pastParticiple": "BLINDED",
+    "translation": "CEGAR"
+  },
+  {
+    "infinitive": "BLINK",
+    "pastSimple": "BLINKED",
+    "pastParticiple": "BLINKED",
+    "translation": "PARPADEA"
+  },
+  {
+    "infinitive": "BLISTER",
+    "pastSimple": "BLISTERED",
+    "pastParticiple": "BLISTERED",
+    "translation": "AMPOLLAR"
+  },
+  {
+    "infinitive": "BLOCK",
+    "pastSimple": "BLOCKED",
+    "pastParticiple": "BLOCKED",
+    "translation": "BLOQUEAR"
+  },
+  {
+    "infinitive": "BLOOM",
+    "pastSimple": "BLOOMED",
+    "pastParticiple": "BLOOMED",
+    "translation": "FLORECER"
+  },
+  {
+    "infinitive": "BLOT",
+    "pastSimple": "BLOTTED",
+    "pastParticiple": "BLOTTED",
+    "translation": "MANCHAR"
+  },
+  {
+    "infinitive": "BLUFF",
+    "pastSimple": "BLUFFED",
+    "pastParticiple": "BLUFFED",
+    "translation": "ENGA\u00d1AR"
+  },
+  {
+    "infinitive": "BOARD",
+    "pastSimple": "BOARDED",
+    "pastParticiple": "BOARDED",
+    "translation": "EMBARCAR"
+  },
+  {
+    "infinitive": "BORROW",
+    "pastSimple": "BORROWED",
+    "pastParticiple": "BORROWED",
+    "translation": "PEDIR"
+  },
+  {
+    "infinitive": "BOTHER",
+    "pastSimple": "BOTHERED",
+    "pastParticiple": "BOTHERED",
+    "translation": "MOLESTAR"
+  },
+  {
+    "infinitive": "BOTTLE",
+    "pastSimple": "BOTTLED",
+    "pastParticiple": "BOTTLED",
+    "translation": "EMBOTELLAR"
+  },
+  {
+    "infinitive": "BOUNCE",
+    "pastSimple": "BOUNCED",
+    "pastParticiple": "BOUNCED",
+    "translation": "REBOTAR"
+  },
+  {
+    "infinitive": "BOSS",
+    "pastSimple": "BOSSED",
+    "pastParticiple": "BOSSED",
+    "translation": "MANDAR"
+  },
+  {
+    "infinitive": "BRACE",
+    "pastSimple": "BRACED",
+    "pastParticiple": "BRACED",
+    "translation": "REFORZAR"
+  },
+  {
+    "infinitive": "BRAID",
+    "pastSimple": "BRAIDED",
+    "pastParticiple": "BRAIDED",
+    "translation": "TRENZAR"
+  },
+  {
+    "infinitive": "BRAKE",
+    "pastSimple": "BRAKED",
+    "pastParticiple": "BRAKED",
+    "translation": "FRENAR"
+  },
+  {
+    "infinitive": "BRIBE",
+    "pastSimple": "BRIBED",
+    "pastParticiple": "BRIBED",
+    "translation": "SOBORNAR"
+  },
+  {
+    "infinitive": "BROADCAST",
+    "pastSimple": "BROADCASTED",
+    "pastParticiple": "BROADCASTED",
+    "translation": "TRANSMITIR"
+  },
+  {
+    "infinitive": "BUCKLE",
+    "pastSimple": "BUCKLED",
+    "pastParticiple": "BUCKLED",
+    "translation": "ABROCHAR"
+  },
+  {
+    "infinitive": "BURN",
+    "pastSimple": "BURNT/BURNED",
+    "pastParticiple": "BURNT/BURNED",
+    "translation": "QUEMAR"
+  },
+  {
+    "infinitive": "BRUSH",
+    "pastSimple": "BRUSHED",
+    "pastParticiple": "BRUSHED",
+    "translation": "CEPILLAR"
+  },
+  {
+    "infinitive": "BACKBITE",
+    "pastSimple": "BACKBIT",
+    "pastParticiple": "BACKBITTEN",
+    "translation": "MURMURAR"
+  },
+  {
+    "infinitive": "BACKSLIDE",
+    "pastSimple": "BACKSLID",
+    "pastParticiple": "BACKSLID",
+    "translation": "RECAER"
+  },
+  {
+    "infinitive": "BE",
+    "pastSimple": "WAS/WERE",
+    "pastParticiple": "BEEN",
+    "translation": "SER/ESTAR"
+  },
+  {
+    "infinitive": "BEAR",
+    "pastSimple": "BORE",
+    "pastParticiple": "BORN",
+    "translation": "NACER"
+  },
+  {
+    "infinitive": "BEAT",
+    "pastSimple": "BEAT",
+    "pastParticiple": "BEATEN",
+    "translation": "PALPITAR/DERROTAR"
+  },
+  {
+    "infinitive": "BECOME",
+    "pastSimple": "BECAME",
+    "pastParticiple": "BECOME",
+    "translation": "CONVERTIRSE"
+  },
+  {
+    "infinitive": "BEFALL",
+    "pastSimple": "BEFELL",
+    "pastParticiple": "BEFALLEN",
+    "translation": "ACONTECER"
+  },
+  {
+    "infinitive": "BEGIN",
+    "pastSimple": "BEGAN",
+    "pastParticiple": "BEGUN",
+    "translation": "EMPEZAR"
+  },
+  {
+    "infinitive": "BEHOLD",
+    "pastSimple": "BEHELD",
+    "pastParticiple": "BEHELD",
+    "translation": "CONTEMPLAR"
+  },
+  {
+    "infinitive": "BEND",
+    "pastSimple": "BENT",
+    "pastParticiple": "BENT",
+    "translation": "DOBLAR"
+  },
+  {
+    "infinitive": "BESEECH",
+    "pastSimple": "BESOUGHT",
+    "pastParticiple": "BESOUGHT",
+    "translation": "SUPLICAR"
+  },
+  {
+    "infinitive": "BESET",
+    "pastSimple": "BESET",
+    "pastParticiple": "BESET",
+    "translation": "ACOSAR"
+  },
+  {
+    "infinitive": "BESPEAK",
+    "pastSimple": "BESPOKE",
+    "pastParticiple": "BESPOKEN",
+    "translation": "ENCARGAR"
+  },
+  {
+    "infinitive": "BESTRIDE",
+    "pastSimple": "BESTRODE",
+    "pastParticiple": "BESTRIDDEN",
+    "translation": "MONTAR"
+  },
+  {
+    "infinitive": "BET",
+    "pastSimple": "BET",
+    "pastParticiple": "BET",
+    "translation": "APOSTAR"
+  },
+  {
+    "infinitive": "BIND",
+    "pastSimple": "BOUND",
+    "pastParticiple": "BOUND",
+    "translation": "ATAR/AMARRAR"
+  },
+  {
+    "infinitive": "BITE",
+    "pastSimple": "BIT",
+    "pastParticiple": "BITTEN",
+    "translation": "MORDER/PICAR"
+  },
+  {
+    "infinitive": "BLEED",
+    "pastSimple": "BLED",
+    "pastParticiple": "BLED",
+    "translation": "SANGRAR"
+  },
+  {
+    "infinitive": "BLOW",
+    "pastSimple": "BLEW",
+    "pastParticiple": "BLOWN",
+    "translation": "SOPLAR"
+  },
+  {
+    "infinitive": "BREAK",
+    "pastSimple": "BROKE",
+    "pastParticiple": "BROKEN",
+    "translation": "QUEBRAR"
+  },
+  {
+    "infinitive": "BREED",
+    "pastSimple": "BRED",
+    "pastParticiple": "BRED",
+    "translation": "CRIAR"
+  },
+  {
+    "infinitive": "BRING",
+    "pastSimple": "BROUGHT",
+    "pastParticiple": "BROUGHT",
+    "translation": "TRAER"
+  },
+  {
+    "infinitive": "BUILD",
+    "pastSimple": "BUILT",
+    "pastParticiple": "BUILT",
+    "translation": "CONSTRUIR"
+  },
+  {
+    "infinitive": "BURST",
+    "pastSimple": "BURST",
+    "pastParticiple": "BURST",
+    "translation": "ESTALLAR"
+  },
+  {
+    "infinitive": "BUY",
+    "pastSimple": "BOUGHT",
+    "pastParticiple": "BOUGHT",
+    "translation": "COMPRAR"
+  },
+  {
+    "infinitive": "CALIBRATE",
+    "pastSimple": "CALIBRATED",
+    "pastParticiple": "CALIBRATED",
+    "translation": "CALIBRAR"
+  },
+  {
+    "infinitive": "CALL",
+    "pastSimple": "CALLED",
+    "pastParticiple": "CALLED",
+    "translation": "LLAMAR"
+  },
+  {
+    "infinitive": "CALM",
+    "pastSimple": "CALMED",
+    "pastParticiple": "CALMED",
+    "translation": "CALMAR"
+  },
+  {
+    "infinitive": "CALUMNIATE",
+    "pastSimple": "CALUMNIATED",
+    "pastParticiple": "CALUMNIATED",
+    "translation": "CALUMNIAR"
+  },
+  {
+    "infinitive": "CAMOUFLAGE",
+    "pastSimple": "CAMOUFLAGED",
+    "pastParticiple": "CAMOUFLAGED",
+    "translation": "CAMUFLAR"
+  },
+  {
+    "infinitive": "CAMP",
+    "pastSimple": "CAMPED",
+    "pastParticiple": "CAMPED",
+    "translation": "ACAMPAR"
+  },
+  {
+    "infinitive": "CAMPAIGN",
+    "pastSimple": "CAMPAIGNED",
+    "pastParticiple": "CAMPAIGNED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "CANALIZE",
+    "pastSimple": "CANALIZED",
+    "pastParticiple": "CANALIZED",
+    "translation": "CANALIZAR"
+  },
+  {
+    "infinitive": "CANCEL",
+    "pastSimple": "CANCELED",
+    "pastParticiple": "CANCELED",
+    "translation": "CANCELAR"
+  },
+  {
+    "infinitive": "CAN",
+    "pastSimple": "CANNED",
+    "pastParticiple": "CANNED",
+    "translation": "ENLATAR"
+  },
+  {
+    "infinitive": "CARRY",
+    "pastSimple": "CARRIED",
+    "pastParticiple": "CARRIED",
+    "translation": "CARGAR"
+  },
+  {
+    "infinitive": "CASH",
+    "pastSimple": "CASHED",
+    "pastParticiple": "CASHED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "CEASE",
+    "pastSimple": "CEASED",
+    "pastParticiple": "CEASED",
+    "translation": "CESAR"
+  },
+  {
+    "infinitive": "CELEBRATE",
+    "pastSimple": "CELEBRATED",
+    "pastParticiple": "CELEBRATED",
+    "translation": "CELEBRAR"
+  },
+  {
+    "infinitive": "CENTER",
+    "pastSimple": "CENTERED",
+    "pastParticiple": "CENTERED",
+    "translation": "CENTRAR"
+  },
+  {
+    "infinitive": "CERTIFY",
+    "pastSimple": "CERTIFIED",
+    "pastParticiple": "CERTIFIED",
+    "translation": "CERTIFICAR"
+  },
+  {
+    "infinitive": "CHAIN",
+    "pastSimple": "CHAINED",
+    "pastParticiple": "CHAINED",
+    "translation": "ENCADENAR"
+  },
+  {
+    "infinitive": "CHANGE",
+    "pastSimple": "CHANGED",
+    "pastParticiple": "CHANGED",
+    "translation": "CAMBIAR"
+  },
+  {
+    "infinitive": "CHARGE",
+    "pastSimple": "CHARGED",
+    "pastParticiple": "CHARGED",
+    "translation": "CARGAR"
+  },
+  {
+    "infinitive": "CHASE",
+    "pastSimple": "CHASED",
+    "pastParticiple": "CHASED",
+    "translation": "PERSEGIR"
+  },
+  {
+    "infinitive": "CHEAT",
+    "pastSimple": "CHEATED",
+    "pastParticiple": "CHEATED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "CHECK",
+    "pastSimple": "CHECKED",
+    "pastParticiple": "CHECKED",
+    "translation": "CHEQUEAR"
+  },
+  {
+    "infinitive": "CHOP",
+    "pastSimple": "CHOPPED",
+    "pastParticiple": "CHOPPED",
+    "translation": "TAJAR"
+  },
+  {
+    "infinitive": "CIRCLE",
+    "pastSimple": "CIRCLED",
+    "pastParticiple": "CIRCLED",
+    "translation": "GIRAR"
+  },
+  {
+    "infinitive": "CIRCULATE",
+    "pastSimple": "CIRCULATED",
+    "pastParticiple": "CIRCULATED",
+    "translation": "CIRCULAR"
+  },
+  {
+    "infinitive": "CLAIM",
+    "pastSimple": "CLAIMED",
+    "pastParticiple": "CLAIMED",
+    "translation": "RECLAMAR"
+  },
+  {
+    "infinitive": "CLAP",
+    "pastSimple": "CLAPPED",
+    "pastParticiple": "CLAPPED",
+    "translation": "APLAUDIR"
+  },
+  {
+    "infinitive": "CLASS",
+    "pastSimple": "CLASSED",
+    "pastParticiple": "CLASSED",
+    "translation": "CLASIFICAR"
+  },
+  {
+    "infinitive": "CLASSIFY",
+    "pastSimple": "CLASSIFIED",
+    "pastParticiple": "CLASSIFY",
+    "translation": "CLASIFICAR"
+  },
+  {
+    "infinitive": "CLEAN",
+    "pastSimple": "CLEANED",
+    "pastParticiple": "CLEANED",
+    "translation": "LIMPIAR"
+  },
+  {
+    "infinitive": "CLEAR",
+    "pastSimple": "CLEARED",
+    "pastParticiple": "CLEARED",
+    "translation": "ACLARAR"
+  },
+  {
+    "infinitive": "CLIMB",
+    "pastSimple": "CLIMBED",
+    "pastParticiple": "CLIMBED",
+    "translation": "TREPAR"
+  },
+  {
+    "infinitive": "CLOSE",
+    "pastSimple": "CLOSED",
+    "pastParticiple": "CLOSED",
+    "translation": "CERRAR"
+  },
+  {
+    "infinitive": "COMB",
+    "pastSimple": "COMBED",
+    "pastParticiple": "COMBED",
+    "translation": "PEINAR"
+  },
+  {
+    "infinitive": "COMBINE",
+    "pastSimple": "COMBINED",
+    "pastParticiple": "COMBINED",
+    "translation": "COMBINAR"
+  },
+  {
+    "infinitive": "COMMUNICATE",
+    "pastSimple": "COMMUNICATED",
+    "pastParticiple": "COMMUNICATED",
+    "translation": "COMUNICAR"
+  },
+  {
+    "infinitive": "COMPARE",
+    "pastSimple": "COMPARED",
+    "pastParticiple": "COMPARED",
+    "translation": "COMPARAR"
+  },
+  {
+    "infinitive": "COMPENSATE",
+    "pastSimple": "COMPENSATED",
+    "pastParticiple": "COMPENSATED",
+    "translation": "COMPENSAR"
+  },
+  {
+    "infinitive": "COMPLAIN",
+    "pastSimple": "COMPLAINED",
+    "pastParticiple": "COMPLAINED",
+    "translation": "QUEJARSE"
+  },
+  {
+    "infinitive": "COMPILE",
+    "pastSimple": "COMPILED",
+    "pastParticiple": "COMPILED",
+    "translation": "RECOPILAR"
+  },
+  {
+    "infinitive": "COMPLICATE",
+    "pastSimple": "COMPLICATED",
+    "pastParticiple": "COMPLICATED",
+    "translation": "COMPLICAR"
+  },
+  {
+    "infinitive": "COMPOSE",
+    "pastSimple": "COMPOSED",
+    "pastParticiple": "COMPOSED",
+    "translation": "COMPONER"
+  },
+  {
+    "infinitive": "COMPREHEND",
+    "pastSimple": "COMPREHENDED",
+    "pastParticiple": "COMPREHENDED",
+    "translation": "COMPRENDER"
+  },
+  {
+    "infinitive": "COMPRESS",
+    "pastSimple": "COMPRESSED",
+    "pastParticiple": "COMPRESSED",
+    "translation": "COMPRIMIR"
+  },
+  {
+    "infinitive": "COMPROMISE",
+    "pastSimple": "COMPROMISED",
+    "pastParticiple": "COMPROMISED",
+    "translation": "COMPROMETER"
+  },
+  {
+    "infinitive": "COMPUTERIZE",
+    "pastSimple": "COMPUTERIZAED",
+    "pastParticiple": "COMPUTERIZED",
+    "translation": "COMPUTARIZAR"
+  },
+  {
+    "infinitive": "COMPOUND",
+    "pastSimple": "COMPOUNDED",
+    "pastParticiple": "COMPOUNDED",
+    "translation": "COMBINAR"
+  },
+  {
+    "infinitive": "CONCEDE",
+    "pastSimple": "CONCEDED",
+    "pastParticiple": "CONCEDED",
+    "translation": "CONCEDER"
+  },
+  {
+    "infinitive": "CONCEIVE",
+    "pastSimple": "CONCEIVED",
+    "pastParticiple": "CONCEIVED",
+    "translation": "CONCEBIR"
+  },
+  {
+    "infinitive": "CONCENTRATE",
+    "pastSimple": "CONCENTRATED",
+    "pastParticiple": "CONCENTRATED",
+    "translation": "CONCENTRAR"
+  },
+  {
+    "infinitive": "CONCERN",
+    "pastSimple": "CONCERNED",
+    "pastParticiple": "CONCERNED",
+    "translation": "CONCERNIR"
+  },
+  {
+    "infinitive": "CONCILIATE",
+    "pastSimple": "CONCILIATED",
+    "pastParticiple": "CONCILIATED",
+    "translation": "CONCILIAR"
+  },
+  {
+    "infinitive": "CONCLUDE",
+    "pastSimple": "CONCLUDED",
+    "pastParticiple": "CONCLUDED",
+    "translation": "CONCLUIR"
+  },
+  {
+    "infinitive": "CONDEMN",
+    "pastSimple": "CONDEMNED",
+    "pastParticiple": "CONDEMNED",
+    "translation": "CONDENAR"
+  },
+  {
+    "infinitive": "CONDENSE",
+    "pastSimple": "CONDENSED",
+    "pastParticiple": "CONDENSED",
+    "translation": "CONDENSAR"
+  },
+  {
+    "infinitive": "CONFESS",
+    "pastSimple": "CONFESSED",
+    "pastParticiple": "CONFESSED",
+    "translation": "CONFESAR"
+  },
+  {
+    "infinitive": "CONFIRM",
+    "pastSimple": "CONFIRMED",
+    "pastParticiple": "CONFIRMED",
+    "translation": "CONFIRMAR"
+  },
+  {
+    "infinitive": "CONFRONT",
+    "pastSimple": "CONFRONTED",
+    "pastParticiple": "CONFRONTED",
+    "translation": "CONFRONTAR"
+  },
+  {
+    "infinitive": "CONFUSE",
+    "pastSimple": "CONFUSED",
+    "pastParticiple": "CONFUSED",
+    "translation": "CONFUNDIR"
+  },
+  {
+    "infinitive": "CONGEST",
+    "pastSimple": "CONGESTED",
+    "pastParticiple": "CONGESTED",
+    "translation": "CONGESTIONAR"
+  },
+  {
+    "infinitive": "CONGRATULATE",
+    "pastSimple": "CONGRATULATED",
+    "pastParticiple": "CONGRATULATED",
+    "translation": "FELICITAR"
+  },
+  {
+    "infinitive": "CONGREGATE",
+    "pastSimple": "CONGREGATED",
+    "pastParticiple": "CONGREGATED",
+    "translation": "CONGREGAR"
+  },
+  {
+    "infinitive": "CONNECT",
+    "pastSimple": "CONNECTED",
+    "pastParticiple": "CONNECTED",
+    "translation": "CONECTAR"
+  },
+  {
+    "infinitive": "CONQUER",
+    "pastSimple": "CONQUERED",
+    "pastParticiple": "CONQUERED",
+    "translation": "CONQUISTAR"
+  },
+  {
+    "infinitive": "CONSECRATE",
+    "pastSimple": "CONSECRATED",
+    "pastParticiple": "CONSECRATED",
+    "translation": "CONSAGRAR"
+  },
+  {
+    "infinitive": "CONSIDER",
+    "pastSimple": "CONSIDERED",
+    "pastParticiple": "CONSIDERED",
+    "translation": "CONSIDERAR"
+  },
+  {
+    "infinitive": "CONSIST",
+    "pastSimple": "CONSISTED",
+    "pastParticiple": "CONSISTED",
+    "translation": "CONSISTIR"
+  },
+  {
+    "infinitive": "CONSOLE",
+    "pastSimple": "CONSOLED",
+    "pastParticiple": "CONSOLED",
+    "translation": "CONSOLAR"
+  },
+  {
+    "infinitive": "CONSOLIDATE",
+    "pastSimple": "CONSOLIDATED",
+    "pastParticiple": "CONSOLIDATED",
+    "translation": "CONSOLIDAR"
+  },
+  {
+    "infinitive": "CONSPIRE",
+    "pastSimple": "CONSPIRED",
+    "pastParticiple": "CONSPIRED",
+    "translation": "CONSPIRAR"
+  },
+  {
+    "infinitive": "CONSTIPATE",
+    "pastSimple": "CONSTIPATED",
+    "pastParticiple": "CONSTIPATED",
+    "translation": "ESTRE\u00d1IR"
+  },
+  {
+    "infinitive": "CONSTITUTE",
+    "pastSimple": "CONSTITUTED",
+    "pastParticiple": "CONSTITUTED",
+    "translation": "CONSTITUIR"
+  },
+  {
+    "infinitive": "CONSTRUCT",
+    "pastSimple": "CONSTRUCT",
+    "pastParticiple": "CONSTRUCTED",
+    "translation": "CONSTRUIR"
+  },
+  {
+    "infinitive": "CONSULT",
+    "pastSimple": "CONSULT",
+    "pastParticiple": "CONSULT",
+    "translation": "CONSULTAR"
+  },
+  {
+    "infinitive": "CONSUME",
+    "pastSimple": "CONSUMED",
+    "pastParticiple": "CONSUMED",
+    "translation": "CONSUMIR"
+  },
+  {
+    "infinitive": "CONSUMMATE",
+    "pastSimple": "CONSUMMATED",
+    "pastParticiple": "CONSUMMATED",
+    "translation": "CONSUMAR"
+  },
+  {
+    "infinitive": "CONTACT",
+    "pastSimple": "CONTACTED",
+    "pastParticiple": "CONTACTED",
+    "translation": "CONTACTAR"
+  },
+  {
+    "infinitive": "CONTAIN",
+    "pastSimple": "CONTAINED",
+    "pastParticiple": "CONTAINED",
+    "translation": "CONTENER"
+  },
+  {
+    "infinitive": "CONTEMPLATE",
+    "pastSimple": "CONTEMPLATED",
+    "pastParticiple": "CONTEMPLATED",
+    "translation": "CONTEMPLAR"
+  },
+  {
+    "infinitive": "CONTAMINATE",
+    "pastSimple": "CONTAMINATED",
+    "pastParticiple": "CONTAMINATED",
+    "translation": "CONTAMINAR"
+  },
+  {
+    "infinitive": "CONTINUE",
+    "pastSimple": "CONTINUED",
+    "pastParticiple": "CONTINUED",
+    "translation": "CONTINUAR"
+  },
+  {
+    "infinitive": "CONTRACT",
+    "pastSimple": "CONTRACTED",
+    "pastParticiple": "CONTRACTED",
+    "translation": "CONTRACTAR"
+  },
+  {
+    "infinitive": "CONTRADICT",
+    "pastSimple": "CONTRADICTED",
+    "pastParticiple": "CONTRADICTED",
+    "translation": "CONTRADECIR"
+  },
+  {
+    "infinitive": "CONTRAST",
+    "pastSimple": "CONTRASTED",
+    "pastParticiple": "CONTRASTED",
+    "translation": "CONTRASTAR"
+  },
+  {
+    "infinitive": "CONTRIBUTE",
+    "pastSimple": "CONTRIBUTED",
+    "pastParticiple": "CONTRIBUTED",
+    "translation": "CONTRIBUIR"
+  },
+  {
+    "infinitive": "CONTROL",
+    "pastSimple": "CONTROLLED",
+    "pastParticiple": "CONTROLLED",
+    "translation": "CONTROLAR"
+  },
+  {
+    "infinitive": "CONVINCE",
+    "pastSimple": "CONVINCED",
+    "pastParticiple": "CONVINCED",
+    "translation": "CONVENCER"
+  },
+  {
+    "infinitive": "CONVOKE",
+    "pastSimple": "CONVOKED",
+    "pastParticiple": "CONVOKED",
+    "translation": "CONVOCAR"
+  },
+  {
+    "infinitive": "COOK",
+    "pastSimple": "COOKED",
+    "pastParticiple": "COOKED",
+    "translation": "COCINAR"
+  },
+  {
+    "infinitive": "COOL",
+    "pastSimple": "COOLED",
+    "pastParticiple": "COOLED",
+    "translation": "ENFRIAR"
+  },
+  {
+    "infinitive": "CO-OPERATE",
+    "pastSimple": "CO-OPERATED",
+    "pastParticiple": "CO-OPERATED",
+    "translation": "COOPERAR"
+  },
+  {
+    "infinitive": "CO-ORDINATE",
+    "pastSimple": "CO-ORDINATED",
+    "pastParticiple": "CO-ORDINATED",
+    "translation": "COORDINATE"
+  },
+  {
+    "infinitive": "COPY",
+    "pastSimple": "COPIED",
+    "pastParticiple": "COPIED",
+    "translation": "COPIAR"
+  },
+  {
+    "infinitive": "CORRUPT",
+    "pastSimple": "CORRUPTED",
+    "pastParticiple": "CORRUPTED",
+    "translation": "CORROMPER"
+  },
+  {
+    "infinitive": "COUNT",
+    "pastSimple": "COUNTED",
+    "pastParticiple": "COUNTED",
+    "translation": "CONTAR"
+  },
+  {
+    "infinitive": "COUNTERFEIT",
+    "pastSimple": "COUNTERFEITED",
+    "pastParticiple": "COUNTERFEITED",
+    "translation": "FALSIFICAR"
+  },
+  {
+    "infinitive": "COUGH",
+    "pastSimple": "COUGHED",
+    "pastParticiple": "COUGHED",
+    "translation": "TOSER"
+  },
+  {
+    "infinitive": "CRASH",
+    "pastSimple": "CRASHED",
+    "pastParticiple": "CRASHED",
+    "translation": "ESTRELLARSE"
+  },
+  {
+    "infinitive": "CROWN",
+    "pastSimple": "CROWNED",
+    "pastParticiple": "CROWNED",
+    "translation": "CORONAR"
+  },
+  {
+    "infinitive": "CROW",
+    "pastSimple": "CROWED",
+    "pastParticiple": "CROWED",
+    "translation": "JACTARSE"
+  },
+  {
+    "infinitive": "CRY",
+    "pastSimple": "CRIED",
+    "pastParticiple": "CRIED",
+    "translation": "LLORAR"
+  },
+  {
+    "infinitive": "CUMULATE",
+    "pastSimple": "CUMULATED",
+    "pastParticiple": "CUMULATED",
+    "translation": "ACUMULAR"
+  },
+  {
+    "infinitive": "CURE",
+    "pastSimple": "CURED",
+    "pastParticiple": "CURED",
+    "translation": "CURAR"
+  },
+  {
+    "infinitive": "CATCH",
+    "pastSimple": "CAUGHT",
+    "pastParticiple": "CAUGHT",
+    "translation": "ATAJAR"
+  },
+  {
+    "infinitive": "CHIDE",
+    "pastSimple": "CHID",
+    "pastParticiple": "CHID",
+    "translation": "REPRENDER"
+  },
+  {
+    "infinitive": "CHOOSE",
+    "pastSimple": "CHOSE",
+    "pastParticiple": "CHOSEN",
+    "translation": "ESCOGER"
+  },
+  {
+    "infinitive": "CLING",
+    "pastSimple": "CLUNG",
+    "pastParticiple": "CLUNG",
+    "translation": "TREPAR"
+  },
+  {
+    "infinitive": "COME",
+    "pastSimple": "CAME",
+    "pastParticiple": "COME",
+    "translation": "VENIR"
+  },
+  {
+    "infinitive": "COST",
+    "pastSimple": "COST",
+    "pastParticiple": "COST",
+    "translation": "COSTAR"
+  },
+  {
+    "infinitive": "CREEP",
+    "pastSimple": "CREPT",
+    "pastParticiple": "CREPT",
+    "translation": "GATEAR"
+  },
+  {
+    "infinitive": "CUT",
+    "pastSimple": "CUT",
+    "pastParticiple": "CUT",
+    "translation": "CORTAR"
+  },
+  {
+    "infinitive": "DAMAGE",
+    "pastSimple": "DAMAGED",
+    "pastParticiple": "DAMAGED",
+    "translation": "DA\u00d1AR"
+  },
+  {
+    "infinitive": "DANCE",
+    "pastSimple": "DANCED",
+    "pastParticiple": "DANCED",
+    "translation": "BAILAR"
+  },
+  {
+    "infinitive": "DAMP",
+    "pastSimple": "DAMPED",
+    "pastParticiple": "DAMPED",
+    "translation": "MOJAR"
+  },
+  {
+    "infinitive": "DARN",
+    "pastSimple": "DARNED",
+    "pastParticiple": "DARNED",
+    "translation": "REMENDAR"
+  },
+  {
+    "infinitive": "DATE",
+    "pastSimple": "DATED",
+    "pastParticiple": "DATED",
+    "translation": "FECHAR"
+  },
+  {
+    "infinitive": "DEBARK",
+    "pastSimple": "DEBARKED",
+    "pastParticiple": "DEBARKED",
+    "translation": "DESEMBARCAR"
+  },
+  {
+    "infinitive": "DEBATE",
+    "pastSimple": "DEBATED",
+    "pastParticiple": "DEBATED",
+    "translation": "DEBATIR"
+  },
+  {
+    "infinitive": "DEBUNK",
+    "pastSimple": "DEBUNKED",
+    "pastParticiple": "DEBUNKED",
+    "translation": "DESENMASCARAR"
+  },
+  {
+    "infinitive": "DECAPITATE",
+    "pastSimple": "DECAPITATED",
+    "pastParticiple": "DECAPITATED",
+    "translation": "DECAPITAR"
+  },
+  {
+    "infinitive": "DECAY",
+    "pastSimple": "DECAYED",
+    "pastParticiple": "DECAYED",
+    "translation": "DECAER"
+  },
+  {
+    "infinitive": "DECEASE",
+    "pastSimple": "DECEASED",
+    "pastParticiple": "DECEASED",
+    "translation": "FALLECER"
+  },
+  {
+    "infinitive": "DECEIVE",
+    "pastSimple": "DECEIVED",
+    "pastParticiple": "DECEIVED",
+    "translation": "ENGA\u00d1AR"
+  },
+  {
+    "infinitive": "DECIDE",
+    "pastSimple": "DECIDED",
+    "pastParticiple": "DECIDED",
+    "translation": "DECIDIR"
+  },
+  {
+    "infinitive": "DECLAIM",
+    "pastSimple": "DECLAIMED",
+    "pastParticiple": "DECLAIMED",
+    "translation": "DECLAMAR"
+  },
+  {
+    "infinitive": "DECOLLATE",
+    "pastSimple": "DECOLLATED",
+    "pastParticiple": "DECOLLATED",
+    "translation": "DEGOLLAR"
+  },
+  {
+    "infinitive": "DECREASE",
+    "pastSimple": "DECREASED",
+    "pastParticiple": "DECREASED",
+    "translation": "DISMINUIR"
+  },
+  {
+    "infinitive": "DECREE",
+    "pastSimple": "DECREED",
+    "pastParticiple": "DECREED",
+    "translation": "DECRETAR"
+  },
+  {
+    "infinitive": "DECRY",
+    "pastSimple": "DECRIED",
+    "pastParticiple": "DECRIED",
+    "translation": "DESACREDITAR"
+  },
+  {
+    "infinitive": "DEDICATE",
+    "pastSimple": "DEDICATED",
+    "pastParticiple": "DEDICATED",
+    "translation": "DEDICAR"
+  },
+  {
+    "infinitive": "DEDUCE",
+    "pastSimple": "DEDUCED",
+    "pastParticiple": "DEDUCED",
+    "translation": "DEDUCIR"
+  },
+  {
+    "infinitive": "DEDUCT",
+    "pastSimple": "DEDUCTED",
+    "pastParticiple": "DEDUCTED",
+    "translation": "SUSTRAER"
+  },
+  {
+    "infinitive": "DEFEAT",
+    "pastSimple": "DEFEATED",
+    "pastParticiple": "DEFEATED",
+    "translation": "DERROTAR"
+  },
+  {
+    "infinitive": "DEFLATE",
+    "pastSimple": "DEFLATED",
+    "pastParticiple": "DEFLATED",
+    "translation": "DESINFLAR"
+  },
+  {
+    "infinitive": "DEFORM",
+    "pastSimple": "DEFORMED",
+    "pastParticiple": "DEFORMED",
+    "translation": "DEFORMAR"
+  },
+  {
+    "infinitive": "DEFROST",
+    "pastSimple": "DEFROSTED",
+    "pastParticiple": "DEFROSTED",
+    "translation": "DESCONGELAR"
+  },
+  {
+    "infinitive": "DELETE",
+    "pastSimple": "DELETED",
+    "pastParticiple": "DELETED",
+    "translation": "TACHAR"
+  },
+  {
+    "infinitive": "DELIVER",
+    "pastSimple": "DELIVERED",
+    "pastParticiple": "DELIVERED",
+    "translation": "REPARTIR"
+  },
+  {
+    "infinitive": "DEMOLISH",
+    "pastSimple": "DEMOLISHED",
+    "pastParticiple": "DEMOLISHED",
+    "translation": "DEMOLER"
+  },
+  {
+    "infinitive": "DEPART",
+    "pastSimple": "DEPARTED",
+    "pastParticiple": "DEPARTED",
+    "translation": "PARTIR"
+  },
+  {
+    "infinitive": "DEPEND",
+    "pastSimple": "DEPENDED",
+    "pastParticiple": "DEPEDED",
+    "translation": "DEPENDER"
+  },
+  {
+    "infinitive": "DEPORT",
+    "pastSimple": "DEPORTED",
+    "pastParticiple": "DEPORTED",
+    "translation": "DEPORTAR"
+  },
+  {
+    "infinitive": "DEPRECIATE",
+    "pastSimple": "DEPRECIATED",
+    "pastParticiple": "DEPRECIATED",
+    "translation": "DEPRECIAR"
+  },
+  {
+    "infinitive": "DESCRIBE",
+    "pastSimple": "DESCRIBED",
+    "pastParticiple": "DESCRIBED",
+    "translation": "DESCRIBIR"
+  },
+  {
+    "infinitive": "DESIGN",
+    "pastSimple": "DESIGNED",
+    "pastParticiple": "DESIGNED",
+    "translation": "DISE\u00d1AR"
+  },
+  {
+    "infinitive": "DESPISE",
+    "pastSimple": "DESPISED",
+    "pastParticiple": "DESPISED",
+    "translation": "DESPRECIAR"
+  },
+  {
+    "infinitive": "DESPOIL",
+    "pastSimple": "DESPOILED",
+    "pastParticiple": "DESPOILED",
+    "translation": "DESPOJAR"
+  },
+  {
+    "infinitive": "DESTROY",
+    "pastSimple": "DESTROYED",
+    "pastParticiple": "DESTROYED",
+    "translation": "DESTRUIR"
+  },
+  {
+    "infinitive": "DETACH",
+    "pastSimple": "DETACHED",
+    "pastParticiple": "DETACHED",
+    "translation": "DESPEGAR"
+  },
+  {
+    "infinitive": "DETONATE",
+    "pastSimple": "DETONATED",
+    "pastParticiple": "DETONATED",
+    "translation": "DETONAR"
+  },
+  {
+    "infinitive": "DEVALUATE",
+    "pastSimple": "DEVALUATED",
+    "pastParticiple": "DEVALUATED",
+    "translation": "DEVALUAR"
+  },
+  {
+    "infinitive": "DETECT",
+    "pastSimple": "DETECTED",
+    "pastParticiple": "DETECTED",
+    "translation": "DETECTAR"
+  },
+  {
+    "infinitive": "DEVELOP",
+    "pastSimple": "DEVELOPED",
+    "pastParticiple": "DEVELOPED",
+    "translation": "REVELAR/DESARROLLAR"
+  },
+  {
+    "infinitive": "DEVOTE",
+    "pastSimple": "DEVOTED",
+    "pastParticiple": "DEVOTED",
+    "translation": "DEDICAR"
+  },
+  {
+    "infinitive": "DIAL",
+    "pastSimple": "DIALED",
+    "pastParticiple": "DIALED",
+    "translation": "DISCAR"
+  },
+  {
+    "infinitive": "DIE",
+    "pastSimple": "DIED",
+    "pastParticiple": "DIED",
+    "translation": "MORIR"
+  },
+  {
+    "infinitive": "DIGEST",
+    "pastSimple": "DIGESTED",
+    "pastParticiple": "DIGESTED",
+    "translation": "DIGERIR"
+  },
+  {
+    "infinitive": "DILUTE",
+    "pastSimple": "DILUTED",
+    "pastParticiple": "DILUTED",
+    "translation": "DILUIR"
+  },
+  {
+    "infinitive": "DINE",
+    "pastSimple": "DINED",
+    "pastParticiple": "DINED",
+    "translation": "CENAR"
+  },
+  {
+    "infinitive": "DIRT",
+    "pastSimple": "DIRTED",
+    "pastParticiple": "DIRTED",
+    "translation": "ENSUCIAR"
+  },
+  {
+    "infinitive": "DISAGREE",
+    "pastSimple": "DISAGREED",
+    "pastParticiple": "DISAGREED",
+    "translation": "ESTAR"
+  },
+  {
+    "infinitive": "DISAPPEAR",
+    "pastSimple": "DISAPPEAED",
+    "pastParticiple": "DISAPPEARDED",
+    "translation": "DESAPARECER"
+  },
+  {
+    "infinitive": "DISINFECT",
+    "pastSimple": "DISINFECTED",
+    "pastParticiple": "DISINFECTED",
+    "translation": "DESINFECTAR"
+  },
+  {
+    "infinitive": "DISLOCATE",
+    "pastSimple": "DISLOCATED",
+    "pastParticiple": "DISLOCATED",
+    "translation": "DISLOCAR"
+  },
+  {
+    "infinitive": "DISOBEY",
+    "pastSimple": "DISOBEYED",
+    "pastParticiple": "DISOBEYED",
+    "translation": "DESOBEDECER"
+  },
+  {
+    "infinitive": "DISSUADE",
+    "pastSimple": "DISSUADED",
+    "pastParticiple": "DISSUADED",
+    "translation": "DISUADIR"
+  },
+  {
+    "infinitive": "DISTRIBUTE",
+    "pastSimple": "DISTRIBUTED",
+    "pastParticiple": "DISTRIBUTED",
+    "translation": "DISTRIBUIR"
+  },
+  {
+    "infinitive": "DARE",
+    "pastSimple": "DARED",
+    "pastParticiple": "DARED",
+    "translation": "ATREVERSE"
+  },
+  {
+    "infinitive": "DEAL",
+    "pastSimple": "DEALT",
+    "pastParticiple": "DEALT",
+    "translation": "NEGOCIAR"
+  },
+  {
+    "infinitive": "DIVIDE",
+    "pastSimple": "DIVIDED",
+    "pastParticiple": "DIVIDED",
+    "translation": "DIVIDIR"
+  },
+  {
+    "infinitive": "DRAG",
+    "pastSimple": "DRAGGED",
+    "pastParticiple": "DRAGGED",
+    "translation": "DRAGAR"
+  },
+  {
+    "infinitive": "DROWN",
+    "pastSimple": "DROWNED",
+    "pastParticiple": "DROWNED",
+    "translation": "AHOGAR"
+  },
+  {
+    "infinitive": "DRAIN",
+    "pastSimple": "DRAINED",
+    "pastParticiple": "DRAINED",
+    "translation": "DRENAR"
+  },
+  {
+    "infinitive": "DRY",
+    "pastSimple": "DRIED",
+    "pastParticiple": "DRIED",
+    "translation": "SECAR"
+  },
+  {
+    "infinitive": "DIG",
+    "pastSimple": "DUG",
+    "pastParticiple": "DUG",
+    "translation": "EXCAVAR"
+  },
+  {
+    "infinitive": "DIVE",
+    "pastSimple": "DIVED",
+    "pastParticiple": "DIVED",
+    "translation": "BUCEAR"
+  },
+  {
+    "infinitive": "DO",
+    "pastSimple": "DID",
+    "pastParticiple": "DONE",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "DRAW",
+    "pastSimple": "DREW",
+    "pastParticiple": "DRAWN",
+    "translation": "DIBUJAR"
+  },
+  {
+    "infinitive": "DREAM",
+    "pastSimple": "DREAMT/ED",
+    "pastParticiple": "DREAMT/ED",
+    "translation": "SO\u00d1AR"
+  },
+  {
+    "infinitive": "DRINK",
+    "pastSimple": "DRANK",
+    "pastParticiple": "DRUNK",
+    "translation": "BEBER"
+  },
+  {
+    "infinitive": "DRIVE",
+    "pastSimple": "DROVE",
+    "pastParticiple": "DRIVEN",
+    "translation": "MANEJAR"
+  },
+  {
+    "infinitive": "DWELL",
+    "pastSimple": "DWELT",
+    "pastParticiple": "DWELT",
+    "translation": "RESIDIR"
+  },
+  {
+    "infinitive": "DYE",
+    "pastSimple": "DYED",
+    "pastParticiple": "DYED",
+    "translation": "TE\u00d1IR"
+  },
+  {
+    "infinitive": "EARN",
+    "pastSimple": "EARNED",
+    "pastParticiple": "EARNED",
+    "translation": "GANAR"
+  },
+  {
+    "infinitive": "EASE",
+    "pastSimple": "EASED",
+    "pastParticiple": "EASED",
+    "translation": "ALIVIAR"
+  },
+  {
+    "infinitive": "EJECT",
+    "pastSimple": "EJECTED",
+    "pastParticiple": "EJECTED",
+    "translation": "EXPULSAR"
+  },
+  {
+    "infinitive": "ELEVATE",
+    "pastSimple": "ELEVATED",
+    "pastParticiple": "ELEVATED",
+    "translation": "ELEVAR"
+  },
+  {
+    "infinitive": "EMANATE",
+    "pastSimple": "EMANATED",
+    "pastParticiple": "EMANATED",
+    "translation": "EMANAR"
+  },
+  {
+    "infinitive": "EMBARK",
+    "pastSimple": "EMBARKED",
+    "pastParticiple": "EMBARKED",
+    "translation": "EMBARCAR"
+  },
+  {
+    "infinitive": "EMPLOY",
+    "pastSimple": "EMPLOYED",
+    "pastParticiple": "EMPLOYED",
+    "translation": "EMPLEAR"
+  },
+  {
+    "infinitive": "ENCASE",
+    "pastSimple": "ENCASED",
+    "pastParticiple": "ENCASED",
+    "translation": "ENCAJONAR"
+  },
+  {
+    "infinitive": "ENCLOSE",
+    "pastSimple": "ENCLOSED",
+    "pastParticiple": "ENCLOSED",
+    "translation": "INCLUIR/ANEXAR"
+  },
+  {
+    "infinitive": "ENCOURAGE",
+    "pastSimple": "ENCOURAGED",
+    "pastParticiple": "ENCOURAGED",
+    "translation": "ANIMAR"
+  },
+  {
+    "infinitive": "END",
+    "pastSimple": "ENDED",
+    "pastParticiple": "ENDED",
+    "translation": "FINALIZAR"
+  },
+  {
+    "infinitive": "ENDORSE",
+    "pastSimple": "ENDORSED",
+    "pastParticiple": "ENDORSED",
+    "translation": "ENDOSAR"
+  },
+  {
+    "infinitive": "ENLARGE",
+    "pastSimple": "ENLARGED",
+    "pastParticiple": "ENLARGED",
+    "translation": "AMPLIAR"
+  },
+  {
+    "infinitive": "ENTERTAIN",
+    "pastSimple": "ENTERTAINED",
+    "pastParticiple": "ENTERTAINED",
+    "translation": "ENTRETENER"
+  },
+  {
+    "infinitive": "ENVY",
+    "pastSimple": "ENVIED",
+    "pastParticiple": "ENVIED",
+    "translation": "ENVIDIAR"
+  },
+  {
+    "infinitive": "EQUIP",
+    "pastSimple": "EQUIPPED",
+    "pastParticiple": "EQUIPPED",
+    "translation": "EQUIPAR"
+  },
+  {
+    "infinitive": "ERASE",
+    "pastSimple": "ERASED",
+    "pastParticiple": "ERASED",
+    "translation": "BORRAR"
+  },
+  {
+    "infinitive": "ERECT",
+    "pastSimple": "ERECTED",
+    "pastParticiple": "ERECTED",
+    "translation": "ERIGIR"
+  },
+  {
+    "infinitive": "ESCORT",
+    "pastSimple": "ESCORTED",
+    "pastParticiple": "ESCORTED",
+    "translation": "ESCOLTAR"
+  },
+  {
+    "infinitive": "ESTABLISH",
+    "pastSimple": "ESTABLISHED",
+    "pastParticiple": "ESTABLISHED",
+    "translation": "ESTABLECER"
+  },
+  {
+    "infinitive": "ESTIMATE",
+    "pastSimple": "ESTIMATED",
+    "pastParticiple": "ESTIMATED",
+    "translation": "ESTIMAR"
+  },
+  {
+    "infinitive": "EVACUATE",
+    "pastSimple": "EVACUATED",
+    "pastParticiple": "EVACUATED",
+    "translation": "EVACUAR"
+  },
+  {
+    "infinitive": "EVADE",
+    "pastSimple": "EVADED",
+    "pastParticiple": "EVADED",
+    "translation": "EVADIR"
+  },
+  {
+    "infinitive": "EVALUATE",
+    "pastSimple": "EVALUATED",
+    "pastParticiple": "EVALUATED",
+    "translation": "EVALUAR"
+  },
+  {
+    "infinitive": "EVICT",
+    "pastSimple": "EVICTED",
+    "pastParticiple": "EVICTED",
+    "translation": "DESAHUCIAR"
+  },
+  {
+    "infinitive": "EXAGGERATE",
+    "pastSimple": "EXAGGERATED",
+    "pastParticiple": "EXAGGERATED",
+    "translation": "EXAGERAR"
+  },
+  {
+    "infinitive": "EXALT",
+    "pastSimple": "EXALTED",
+    "pastParticiple": "EXALTED",
+    "translation": "EXALTAR"
+  },
+  {
+    "infinitive": "EXAMINE",
+    "pastSimple": "EXAMINED",
+    "pastParticiple": "EXAMINED",
+    "translation": "EXAMINAR"
+  },
+  {
+    "infinitive": "EXCEED",
+    "pastSimple": "EXCEEDED",
+    "pastParticiple": "EXCEEDED",
+    "translation": "EXCEDER"
+  },
+  {
+    "infinitive": "EXCHANGE",
+    "pastSimple": "EXCHANGED",
+    "pastParticiple": "EXCHANGED",
+    "translation": "INTERCAMBIAR"
+  },
+  {
+    "infinitive": "EXCLUDE",
+    "pastSimple": "EXCLUDED",
+    "pastParticiple": "EXCLUDED",
+    "translation": "EXCLUIR"
+  },
+  {
+    "infinitive": "EXERCISE",
+    "pastSimple": "EXERCISED",
+    "pastParticiple": "EXERCISED",
+    "translation": "EJERCITAR"
+  },
+  {
+    "infinitive": "EXHORT",
+    "pastSimple": "EXHORTED",
+    "pastParticiple": "EXHORTED",
+    "translation": "EXHORTAR"
+  },
+  {
+    "infinitive": "EXHUME",
+    "pastSimple": "EXHUMED",
+    "pastParticiple": "EXHUMED",
+    "translation": "EXHUMAR"
+  },
+  {
+    "infinitive": "EXILE",
+    "pastSimple": "EXILED",
+    "pastParticiple": "EXILED",
+    "translation": "EXILAR"
+  },
+  {
+    "infinitive": "EXONERATE",
+    "pastSimple": "EXONERATED",
+    "pastParticiple": "EXONERATED",
+    "translation": "EXONERAR"
+  },
+  {
+    "infinitive": "EXPAND",
+    "pastSimple": "EXPANDED",
+    "pastParticiple": "EXPANDED",
+    "translation": "EXPANDERSE"
+  },
+  {
+    "infinitive": "EXPECT",
+    "pastSimple": "EXPECTED",
+    "pastParticiple": "EXPECTED",
+    "translation": "ESPARAR"
+  },
+  {
+    "infinitive": "EXPEND",
+    "pastSimple": "EXPENDED",
+    "pastParticiple": "EXPENDED",
+    "translation": "GASTAR-DINERO"
+  },
+  {
+    "infinitive": "EXPORT",
+    "pastSimple": "EXPORTED",
+    "pastParticiple": "EXPORTED",
+    "translation": "EXPORTAR"
+  },
+  {
+    "infinitive": "EXPROPRIATE",
+    "pastSimple": "EXPROPRIATED",
+    "pastParticiple": "EXPROPRIATED",
+    "translation": "EXPROPIAR"
+  },
+  {
+    "infinitive": "EXTIRPATE",
+    "pastSimple": "EXTIRPATED",
+    "pastParticiple": "EXTIRPATED",
+    "translation": "EXTIRPAR"
+  },
+  {
+    "infinitive": "EXTRACT",
+    "pastSimple": "ECTRACTED",
+    "pastParticiple": "EXTRACTED",
+    "translation": "EXTRAER"
+  },
+  {
+    "infinitive": "EAT",
+    "pastSimple": "ATE",
+    "pastParticiple": "EATEN",
+    "translation": "COMER"
+  },
+  {
+    "infinitive": "FABRICATE",
+    "pastSimple": "FABRICATED",
+    "pastParticiple": "FABRICATED",
+    "translation": "FABRICAR"
+  },
+  {
+    "infinitive": "FACE",
+    "pastSimple": "FACED",
+    "pastParticiple": "FACED",
+    "translation": "ENFRENTAR"
+  },
+  {
+    "infinitive": "FADE",
+    "pastSimple": "FADED",
+    "pastParticiple": "FADED",
+    "translation": "DECOLORAR"
+  },
+  {
+    "infinitive": "FAIL",
+    "pastSimple": "FAILED",
+    "pastParticiple": "FAILED",
+    "translation": "FALLAR"
+  },
+  {
+    "infinitive": "FAINT",
+    "pastSimple": "FAINTED",
+    "pastParticiple": "FAINTED",
+    "translation": "DESMAYARSE"
+  },
+  {
+    "infinitive": "FAKE",
+    "pastSimple": "FAKED",
+    "pastParticiple": "FAKED",
+    "translation": "FINGIR"
+  },
+  {
+    "infinitive": "FALL",
+    "pastSimple": "(DOWN)",
+    "pastParticiple": "FELL",
+    "translation": "FALLEN"
+  },
+  {
+    "infinitive": "FAN",
+    "pastSimple": "FANNED",
+    "pastParticiple": "FANNED",
+    "translation": "ABANICAR"
+  },
+  {
+    "infinitive": "FILE",
+    "pastSimple": "FILED",
+    "pastParticiple": "FILED",
+    "translation": "ARCHIVAR"
+  },
+  {
+    "infinitive": "FILL",
+    "pastSimple": "FILLED",
+    "pastParticiple": "FILLED",
+    "translation": "LLENAR"
+  },
+  {
+    "infinitive": "FILM",
+    "pastSimple": "FILMED",
+    "pastParticiple": "FILMED",
+    "translation": "FILMAR"
+  },
+  {
+    "infinitive": "FINANCE",
+    "pastSimple": "FINANCED",
+    "pastParticiple": "FINANCED",
+    "translation": "FINANCIAR"
+  },
+  {
+    "infinitive": "FINE",
+    "pastSimple": "FINED",
+    "pastParticiple": "FINED",
+    "translation": "MULTAR"
+  },
+  {
+    "infinitive": "FINISH",
+    "pastSimple": "FINISHED",
+    "pastParticiple": "FINISHED",
+    "translation": "FINALIZAR"
+  },
+  {
+    "infinitive": "FIRE",
+    "pastSimple": "FIRED",
+    "pastParticiple": "FIRED",
+    "translation": "QUEMAR,DESPEDIR"
+  },
+  {
+    "infinitive": "FISH",
+    "pastSimple": "FISHED",
+    "pastParticiple": "FISHED",
+    "translation": "PESCAR"
+  },
+  {
+    "infinitive": "FIT",
+    "pastSimple": "FIT",
+    "pastParticiple": "FIT",
+    "translation": "QUEDAR"
+  },
+  {
+    "infinitive": "FIX",
+    "pastSimple": "FIXED",
+    "pastParticiple": "FIXED",
+    "translation": "FIJAR,REPARAR"
+  },
+  {
+    "infinitive": "FLINCH",
+    "pastSimple": "FLINCHED",
+    "pastParticiple": "FLINCHED",
+    "translation": "ACOBARDARSE"
+  },
+  {
+    "infinitive": "FLIP",
+    "pastSimple": "FLIPPED",
+    "pastParticiple": "FLIPPED",
+    "translation": "VOLTEAR"
+  },
+  {
+    "infinitive": "FLIRT",
+    "pastSimple": "FLIRTED",
+    "pastParticiple": "FLIRTED",
+    "translation": "COQUETEAR"
+  },
+  {
+    "infinitive": "FLOAT",
+    "pastSimple": "FLOATED",
+    "pastParticiple": "FLOATED",
+    "translation": "FLOTAR"
+  },
+  {
+    "infinitive": "FLOOD",
+    "pastSimple": "FLOODED",
+    "pastParticiple": "FLOODED",
+    "translation": "INUNDAR"
+  },
+  {
+    "infinitive": "FLOW",
+    "pastSimple": "FLOWED",
+    "pastParticiple": "FLOWED",
+    "translation": "FLUIR"
+  },
+  {
+    "infinitive": "FLUCTUATE",
+    "pastSimple": "FLUCTUATED",
+    "pastParticiple": "FLUCTUATED",
+    "translation": "FLUCTUAR"
+  },
+  {
+    "infinitive": "FLUNK",
+    "pastSimple": "FLUNKED",
+    "pastParticiple": "FLUNKED",
+    "translation": "REPROBAR"
+  },
+  {
+    "infinitive": "FLUTTER",
+    "pastSimple": "FLUTTERED",
+    "pastParticiple": "FLUTTERED",
+    "translation": "ALETEAR"
+  },
+  {
+    "infinitive": "FOLLOW",
+    "pastSimple": "FOLLOWED",
+    "pastParticiple": "FOLLOWED",
+    "translation": "SEGUIR"
+  },
+  {
+    "infinitive": "FREE",
+    "pastSimple": "FREED",
+    "pastParticiple": "FREED",
+    "translation": "LIBERAR"
+  },
+  {
+    "infinitive": "FRY",
+    "pastSimple": "FRIED",
+    "pastParticiple": "FRIED",
+    "translation": "FREIR"
+  },
+  {
+    "infinitive": "FRIGHT",
+    "pastSimple": "FRIGHTED",
+    "pastParticiple": "FRIGHTED",
+    "translation": "ASUSTAR"
+  },
+  {
+    "infinitive": "FROWN",
+    "pastSimple": "FROWNED",
+    "pastParticiple": "FROWNED",
+    "translation": "FRUNCIR"
+  },
+  {
+    "infinitive": "FRUSTRATE",
+    "pastSimple": "FRUSTRATED",
+    "pastParticiple": "FRUSTRATED",
+    "translation": "FRUSTRAR"
+  },
+  {
+    "infinitive": "FURNISH",
+    "pastSimple": "FURNISHED",
+    "pastParticiple": "FURNISHED",
+    "translation": "AMOBLAR"
+  },
+  {
+    "infinitive": "FALL",
+    "pastSimple": "FELL",
+    "pastParticiple": "FALLEN",
+    "translation": "CAER"
+  },
+  {
+    "infinitive": "FEED",
+    "pastSimple": "FED",
+    "pastParticiple": "FED",
+    "translation": "ALIMENTAR"
+  },
+  {
+    "infinitive": "FEEL",
+    "pastSimple": "FELT",
+    "pastParticiple": "FELT",
+    "translation": "SENTIR"
+  },
+  {
+    "infinitive": "FIGHT",
+    "pastSimple": "FOUGHT",
+    "pastParticiple": "FOUGHT",
+    "translation": "PELEAR"
+  },
+  {
+    "infinitive": "FIND",
+    "pastSimple": "FOUND",
+    "pastParticiple": "FOUND",
+    "translation": "ENCONTAR"
+  },
+  {
+    "infinitive": "FLEE",
+    "pastSimple": "FLED",
+    "pastParticiple": "FLED",
+    "translation": "HUIR"
+  },
+  {
+    "infinitive": "FLY",
+    "pastSimple": "FLEW",
+    "pastParticiple": "FLOWN",
+    "translation": "VOLAR"
+  },
+  {
+    "infinitive": "FORBEAR",
+    "pastSimple": "FORBORE",
+    "pastParticiple": "FORBORN",
+    "translation": "ABSTENERSE"
+  },
+  {
+    "infinitive": "FORBID",
+    "pastSimple": "FORBADE",
+    "pastParticiple": "FORBIDDEN",
+    "translation": "PROHIBIR"
+  },
+  {
+    "infinitive": "FORECAST",
+    "pastSimple": "FORECASTED",
+    "pastParticiple": "FORCASTED",
+    "translation": "TRANSMITIR"
+  },
+  {
+    "infinitive": "FORGET",
+    "pastSimple": "FORGOT",
+    "pastParticiple": "FORGOTTEN",
+    "translation": "OLVIDAR"
+  },
+  {
+    "infinitive": "FORGIVE",
+    "pastSimple": "FORGAVE",
+    "pastParticiple": "FORGIVEN",
+    "translation": "PERDONAR"
+  },
+  {
+    "infinitive": "FORSAKE",
+    "pastSimple": "FORSOOH",
+    "pastParticiple": "FORSAKEN",
+    "translation": "RENUNCIAR"
+  },
+  {
+    "infinitive": "FREEZE",
+    "pastSimple": "FROZE",
+    "pastParticiple": "FROZEN",
+    "translation": "CONGELAR"
+  },
+  {
+    "infinitive": "FULFIL",
+    "pastSimple": "FULFILLED",
+    "pastParticiple": "FULFILLED",
+    "translation": "REALIZAR"
+  },
+  {
+    "infinitive": "GAIN",
+    "pastSimple": "GAINED",
+    "pastParticiple": "GAINED",
+    "translation": "GANAR(PESO)"
+  },
+  {
+    "infinitive": "GARGLE",
+    "pastSimple": "GARGLED",
+    "pastParticiple": "GARGLED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "GATHER",
+    "pastSimple": "GATHERED",
+    "pastParticiple": "GATHERED",
+    "translation": "REUNIRSE"
+  },
+  {
+    "infinitive": "GEAR",
+    "pastSimple": "GEARED",
+    "pastParticiple": "GEARED",
+    "translation": "ENGRANAR"
+  },
+  {
+    "infinitive": "GENERATE",
+    "pastSimple": "GENERATED",
+    "pastParticiple": "GENERATED",
+    "translation": "GENERAR"
+  },
+  {
+    "infinitive": "GLANCE",
+    "pastSimple": "GLANCED",
+    "pastParticiple": "GLANCED",
+    "translation": "ECHAR"
+  },
+  {
+    "infinitive": "GLARE",
+    "pastSimple": "GLARED",
+    "pastParticiple": "GLARED",
+    "translation": "MIRAR"
+  },
+  {
+    "infinitive": "GLAZE",
+    "pastSimple": "GLAZED",
+    "pastParticiple": "GLAZED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "GLEAM",
+    "pastSimple": "GLEAMED",
+    "pastParticiple": "GLEAMED",
+    "translation": "BRILLAR,RELUCIR"
+  },
+  {
+    "infinitive": "GLIDE",
+    "pastSimple": "GLIDED",
+    "pastParticiple": "GLIDED",
+    "translation": "DESLIZARSE,RESBALAR"
+  },
+  {
+    "infinitive": "GLUE",
+    "pastSimple": "GLUED",
+    "pastParticiple": "GLUED",
+    "translation": "PEGAR,ENCOLAR"
+  },
+  {
+    "infinitive": "GLUT",
+    "pastSimple": "GLUTTED",
+    "pastParticiple": "GLUTTED",
+    "translation": "SACIAR,HARTAR"
+  },
+  {
+    "infinitive": "GNASH",
+    "pastSimple": "GNASHED",
+    "pastParticiple": "GNASHED",
+    "translation": "RECHINAR"
+  },
+  {
+    "infinitive": "GNAW",
+    "pastSimple": "GNAWED",
+    "pastParticiple": "GNAWED",
+    "translation": "ROER,CORROER,CONCOMER"
+  },
+  {
+    "infinitive": "GOSSIP",
+    "pastSimple": "GOSSIPED",
+    "pastParticiple": "GOSSIPED",
+    "translation": "CHARLAR,CONTAR"
+  },
+  {
+    "infinitive": "GRAB",
+    "pastSimple": "GRABBED",
+    "pastParticiple": "GRABBED",
+    "translation": "AGARRAR,ASIR,ARREBATAR"
+  },
+  {
+    "infinitive": "GRAFT",
+    "pastSimple": "GRAFTED",
+    "pastParticiple": "GRAFTED",
+    "translation": "INGERTAR,SOBORNAR"
+  },
+  {
+    "infinitive": "GRATE",
+    "pastSimple": "GRATED",
+    "pastParticiple": "GRATED",
+    "translation": "RALLAR(QUESO)"
+  },
+  {
+    "infinitive": "GRAZE",
+    "pastSimple": "GRAZED",
+    "pastParticiple": "GRAZED",
+    "translation": "RASPARSE(LA"
+  },
+  {
+    "infinitive": "GREASE",
+    "pastSimple": "GREASED",
+    "pastParticiple": "GREASED",
+    "translation": "ENGRASAR"
+  },
+  {
+    "infinitive": "GREET",
+    "pastSimple": "GREETED",
+    "pastParticiple": "GREETED",
+    "translation": "SALUDAR"
+  },
+  {
+    "infinitive": "GRILL",
+    "pastSimple": "GRILLED",
+    "pastParticiple": "GRILLED",
+    "translation": "ASAR"
+  },
+  {
+    "infinitive": "GRIPE",
+    "pastSimple": "GRIPED",
+    "pastParticiple": "GRIPED",
+    "translation": "TENER"
+  },
+  {
+    "infinitive": "GROAN",
+    "pastSimple": "GROANED",
+    "pastParticiple": "GROANED",
+    "translation": "GEMIR,CRUJIR"
+  },
+  {
+    "infinitive": "GROUP",
+    "pastSimple": "GROUPED",
+    "pastParticiple": "GROUPED",
+    "translation": "AGRUPAR"
+  },
+  {
+    "infinitive": "GROWL",
+    "pastSimple": "GROWLED",
+    "pastParticiple": "GROWLED",
+    "translation": "REFUNFU\u00d1AR"
+  },
+  {
+    "infinitive": "GUARANTEE",
+    "pastSimple": "GUARANTEED",
+    "pastParticiple": "GUARANTEED",
+    "translation": "GARANTIZAR"
+  },
+  {
+    "infinitive": "GUESS",
+    "pastSimple": "GUESSED",
+    "pastParticiple": "GUESSED",
+    "translation": "ADIVINAR"
+  },
+  {
+    "infinitive": "GET",
+    "pastSimple": "GOT",
+    "pastParticiple": "GOT/GOTTEN",
+    "translation": "OBTENER"
+  },
+  {
+    "infinitive": "GIVE",
+    "pastSimple": "GAVE",
+    "pastParticiple": "GIVEN",
+    "translation": "DAR,ENTREGAR"
+  },
+  {
+    "infinitive": "GO",
+    "pastSimple": "WENT",
+    "pastParticiple": "GONE",
+    "translation": "IR"
+  },
+  {
+    "infinitive": "GRIND",
+    "pastSimple": "GRINDED",
+    "pastParticiple": "GRINDED",
+    "translation": "MOLER"
+  },
+  {
+    "infinitive": "GROW",
+    "pastSimple": "GREW",
+    "pastParticiple": "GROWN",
+    "translation": "CRECER"
+  },
+  {
+    "infinitive": "HALT",
+    "pastSimple": "HALTED",
+    "pastParticiple": "HALTED",
+    "translation": "DETENER,PARAR"
+  },
+  {
+    "infinitive": "HAMMER",
+    "pastSimple": "HAMMERED",
+    "pastParticiple": "HAMMERED",
+    "translation": "MARTILLAR"
+  },
+  {
+    "infinitive": "HAND",
+    "pastSimple": "HANDED",
+    "pastParticiple": "HANDED",
+    "translation": "DAR,PASAR,ENTREGAR"
+  },
+  {
+    "infinitive": "HANDLE",
+    "pastSimple": "HANDLED",
+    "pastParticiple": "HANDLED",
+    "translation": "MANIPULAR"
+  },
+  {
+    "infinitive": "HAPPEN",
+    "pastSimple": "HAPPENED",
+    "pastParticiple": "HAPPENED",
+    "translation": "SUCEDER,PASAR"
+  },
+  {
+    "infinitive": "HARASS",
+    "pastSimple": "HARASSED",
+    "pastParticiple": "HARASSED",
+    "translation": "ACOSAR,HOSTIGAR"
+  },
+  {
+    "infinitive": "HAZE",
+    "pastSimple": "HAZED",
+    "pastParticiple": "HAZED",
+    "translation": "INTIMIDAR"
+  },
+  {
+    "infinitive": "HEAD",
+    "pastSimple": "HEADED",
+    "pastParticiple": "HEADED",
+    "translation": "DIRIGIR,IR"
+  },
+  {
+    "infinitive": "HEAT",
+    "pastSimple": "HEATED",
+    "pastParticiple": "HEATED",
+    "translation": "CALENTAR"
+  },
+  {
+    "infinitive": "HEDGE",
+    "pastSimple": "HEDGED",
+    "pastParticiple": "HEDGED",
+    "translation": "CERCAR"
+  },
+  {
+    "infinitive": "HELP",
+    "pastSimple": "HELPED",
+    "pastParticiple": "HELPED",
+    "translation": "AYUDAR"
+  },
+  {
+    "infinitive": "HESITATE",
+    "pastSimple": "HESITATED",
+    "pastParticiple": "HESITATED",
+    "translation": "TITUBIAR,BASILAR"
+  },
+  {
+    "infinitive": "HIJACK",
+    "pastSimple": "HIJACKED",
+    "pastParticiple": "HIJACKED",
+    "translation": "SECUESTRAR(AVION)"
+  },
+  {
+    "infinitive": "HIKE",
+    "pastSimple": "HIKED",
+    "pastParticiple": "HIKED",
+    "translation": "CAMINAR(MONTA\u00d1A)"
+  },
+  {
+    "infinitive": "HINT",
+    "pastSimple": "HINTED",
+    "pastParticiple": "HINTED",
+    "translation": "INSINUAR"
+  },
+  {
+    "infinitive": "HIRE",
+    "pastSimple": "HIRED",
+    "pastParticiple": "HIRED",
+    "translation": "CONTRATAR"
+  },
+  {
+    "infinitive": "HITCHHIKE",
+    "pastSimple": "HITCHHIKED",
+    "pastParticiple": "HITCHHIKED",
+    "translation": "PEDIR"
+  },
+  {
+    "infinitive": "HOOK",
+    "pastSimple": "HOOKED",
+    "pastParticiple": "HOOKED",
+    "translation": "ENGANCHAR"
+  },
+  {
+    "infinitive": "HUG",
+    "pastSimple": "HUGGED",
+    "pastParticiple": "HUGGED",
+    "translation": "ABRAZAR,ESTRECHAR"
+  },
+  {
+    "infinitive": "HUSH",
+    "pastSimple": "HUSHED",
+    "pastParticiple": "HUSHED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "HAMSTRING",
+    "pastSimple": "HAMSTRUNG/ED",
+    "pastParticiple": "HAMSTRUNG/ED",
+    "translation": "INUTILIZAR"
+  },
+  {
+    "infinitive": "HANG",
+    "pastSimple": "HUNG/ED",
+    "pastParticiple": "HUNG/ED",
+    "translation": "COLGAR"
+  },
+  {
+    "infinitive": "HAVE",
+    "pastSimple": "HAD",
+    "pastParticiple": "HAD",
+    "translation": "TENER/HABER"
+  },
+  {
+    "infinitive": "HEAR",
+    "pastSimple": "HEARD",
+    "pastParticiple": "HEARD",
+    "translation": "OIR"
+  },
+  {
+    "infinitive": "HEAVE",
+    "pastSimple": "HOVE/ED",
+    "pastParticiple": "HOVE/ED",
+    "translation": "IZAR/LEVANTAR"
+  },
+  {
+    "infinitive": "HIDE",
+    "pastSimple": "HID",
+    "pastParticiple": "HIDDEN",
+    "translation": "OCULTAR/ESCONDER"
+  },
+  {
+    "infinitive": "HIT",
+    "pastSimple": "HIT",
+    "pastParticiple": "HIT",
+    "translation": "GOLPEAR"
+  },
+  {
+    "infinitive": "HOLD",
+    "pastSimple": "HELD",
+    "pastParticiple": "HELD",
+    "translation": "AGUANTAR/TENER"
+  },
+  {
+    "infinitive": "HURT",
+    "pastSimple": "HURT",
+    "pastParticiple": "HURT",
+    "translation": "HERIR/PERJUDICAR"
+  },
+  {
+    "infinitive": "IDLE",
+    "pastSimple": "IDLED",
+    "pastParticiple": "IDLED",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "ILLUMINATE",
+    "pastSimple": "ILLUMINATED",
+    "pastParticiple": "ILLUMINATED",
+    "translation": "ILUMINAR"
+  },
+  {
+    "infinitive": "ILLUSTRATE",
+    "pastSimple": "ILLUSTRATED",
+    "pastParticiple": "ILLUSTRATED",
+    "translation": "ILUSTRAR"
+  },
+  {
+    "infinitive": "IMAGINE",
+    "pastSimple": "IMAGINED",
+    "pastParticiple": "IMAGINED",
+    "translation": "IMAGINAR"
+  },
+  {
+    "infinitive": "IMITATE",
+    "pastSimple": "IMITATED",
+    "pastParticiple": "IMITATED",
+    "translation": "IMITAR"
+  },
+  {
+    "infinitive": "IMMIGRATE",
+    "pastSimple": "IMMIGRATED",
+    "pastParticiple": "IMMIGRATED",
+    "translation": "IMIGRAR"
+  },
+  {
+    "infinitive": "IMMUNIZE",
+    "pastSimple": "IMMUNIZED",
+    "pastParticiple": "IMMUNIZED",
+    "translation": "INMUNIZAR"
+  },
+  {
+    "infinitive": "IMPART",
+    "pastSimple": "IMPARTED",
+    "pastParticiple": "IMPARTED",
+    "translation": "IMPARTIR"
+  },
+  {
+    "infinitive": "IMPLANT",
+    "pastSimple": "IMPLANTED",
+    "pastParticiple": "IMPLANTED",
+    "translation": "IMPLANTAR/FIJAR"
+  },
+  {
+    "infinitive": "IMPLICATE",
+    "pastSimple": "IMPLICATED",
+    "pastParticiple": "IMPLICATED",
+    "translation": "IMPLICAR"
+  },
+  {
+    "infinitive": "IMPLY",
+    "pastSimple": "IMPLIED",
+    "pastParticiple": "IMPLIED",
+    "translation": "IMPLICAR"
+  },
+  {
+    "infinitive": "IMPORT",
+    "pastSimple": "IMPORTED",
+    "pastParticiple": "IMPORTED",
+    "translation": "IMPORTAR"
+  },
+  {
+    "infinitive": "IMPOSE",
+    "pastSimple": "IMPOSED",
+    "pastParticiple": "IMPOSED",
+    "translation": "IMPONER"
+  },
+  {
+    "infinitive": "IMPOUND",
+    "pastSimple": "IMPOUNDED",
+    "pastParticiple": "IMPOUNDED",
+    "translation": "CONFISCAR"
+  },
+  {
+    "infinitive": "IMPRECATE",
+    "pastSimple": "IMPRECATED",
+    "pastParticiple": "IMPRECATED",
+    "translation": "MALDECIR"
+  },
+  {
+    "infinitive": "IMPRESS",
+    "pastSimple": "IMPRESSED",
+    "pastParticiple": "IMPRESSED",
+    "translation": "IMPRESIONAR"
+  },
+  {
+    "infinitive": "IMPUTE",
+    "pastSimple": "IMPUTED",
+    "pastParticiple": "IMPUTED",
+    "translation": "IMPUTAR"
+  },
+  {
+    "infinitive": "INCINERATE",
+    "pastSimple": "INCINERATED",
+    "pastParticiple": "INCINERATED",
+    "translation": "INCINERAR"
+  },
+  {
+    "infinitive": "INCITE",
+    "pastSimple": "INCITED",
+    "pastParticiple": "INCITED",
+    "translation": "INCITAR"
+  },
+  {
+    "infinitive": "INCLINE",
+    "pastSimple": "INCLINED",
+    "pastParticiple": "INCLINED",
+    "translation": "INCLINAR"
+  },
+  {
+    "infinitive": "INCUBATE",
+    "pastSimple": "INCUBATED",
+    "pastParticiple": "INCUBATED",
+    "translation": "INCUBAR"
+  },
+  {
+    "infinitive": "INCULCATE",
+    "pastSimple": "INCULCATED",
+    "pastParticiple": "INCULCATED",
+    "translation": "INCULCAR"
+  },
+  {
+    "infinitive": "INCUR",
+    "pastSimple": "INCURRED",
+    "pastParticiple": "INCURRED",
+    "translation": "INCURRIR"
+  },
+  {
+    "infinitive": "INDICATE",
+    "pastSimple": "INDICATED",
+    "pastParticiple": "INDICATED",
+    "translation": "INDICAR"
+  },
+  {
+    "infinitive": "INFECT",
+    "pastSimple": "INFECTED",
+    "pastParticiple": "INFECTED",
+    "translation": "INFECTAR"
+  },
+  {
+    "infinitive": "INFEST",
+    "pastSimple": "INFESTED",
+    "pastParticiple": "INFESTED",
+    "translation": "INFESTAR"
+  },
+  {
+    "infinitive": "INFILTRATE",
+    "pastSimple": "INFILTRATED",
+    "pastParticiple": "INFILTRATED",
+    "translation": "INFILTRARSE"
+  },
+  {
+    "infinitive": "INFLATE",
+    "pastSimple": "INFLATED",
+    "pastParticiple": "INFLATED",
+    "translation": "INFLAR"
+  },
+  {
+    "infinitive": "INFORM",
+    "pastSimple": "INFORMED",
+    "pastParticiple": "INFORMED",
+    "translation": "INFORMAR"
+  },
+  {
+    "infinitive": "INFRINGE",
+    "pastSimple": "INFRINGED",
+    "pastParticiple": "INFRINGED",
+    "translation": "INFRINGIR"
+  },
+  {
+    "infinitive": "INGEST",
+    "pastSimple": "INGESTED",
+    "pastParticiple": "INGESTED",
+    "translation": "INGERIR"
+  },
+  {
+    "infinitive": "INHALE",
+    "pastSimple": "INHALED",
+    "pastParticiple": "INHALED",
+    "translation": "INHALAR"
+  },
+  {
+    "infinitive": "INQUIRE",
+    "pastSimple": "INQUIRED",
+    "pastParticiple": "INQUIRED",
+    "translation": "INDAGAR"
+  },
+  {
+    "infinitive": "INSPECT",
+    "pastSimple": "INSPECTED",
+    "pastParticiple": "INSPECTED",
+    "translation": "INSPECCIONAR"
+  },
+  {
+    "infinitive": "INSPIRE",
+    "pastSimple": "INSPIRED",
+    "pastParticiple": "INSPIRED",
+    "translation": "INSPIRAR"
+  },
+  {
+    "infinitive": "INSTALL",
+    "pastSimple": "INSTALLED",
+    "pastParticiple": "INSTALLED",
+    "translation": "INSTALAR"
+  },
+  {
+    "infinitive": "INSTIGATE",
+    "pastSimple": "INSTIGATED",
+    "pastParticiple": "INSTIGATED",
+    "translation": "INSTIGAR"
+  },
+  {
+    "infinitive": "INSTITUTE",
+    "pastSimple": "INSTITUTED",
+    "pastParticiple": "INSTITUTED",
+    "translation": "INSTITUIR"
+  },
+  {
+    "infinitive": "INSTRUCT",
+    "pastSimple": "INSTRUCTED",
+    "pastParticiple": "INSTRUCTED",
+    "translation": "INSTRUIR"
+  },
+  {
+    "infinitive": "INTRODUCE",
+    "pastSimple": "INTRODUCED",
+    "pastParticiple": "INTRODUCED",
+    "translation": "INTRODUCIR"
+  },
+  {
+    "infinitive": "INTERFERE",
+    "pastSimple": "INTERFERED",
+    "pastParticiple": "INTERFERED",
+    "translation": "INTERFERIR"
+  },
+  {
+    "infinitive": "INTERN",
+    "pastSimple": "INTERNED",
+    "pastParticiple": "INTERNED",
+    "translation": "INTERNAR"
+  },
+  {
+    "infinitive": "INTERPELLATE",
+    "pastSimple": "INTERPELLATED",
+    "pastParticiple": "INTERPELLATED",
+    "translation": "INTERPELAR"
+  },
+  {
+    "infinitive": "INTERCEPT",
+    "pastSimple": "INTERCEPTED",
+    "pastParticiple": "INTERCEPTED",
+    "translation": "INTERCEPTAR"
+  },
+  {
+    "infinitive": "INTERRUPT",
+    "pastSimple": "INTERRUPTED",
+    "pastParticiple": "INTERRUPTED",
+    "translation": "INTERRUMPIR"
+  },
+  {
+    "infinitive": "INTERVENE",
+    "pastSimple": "INTERVENED",
+    "pastParticiple": "INTERVENED",
+    "translation": "INTERVENIR"
+  },
+  {
+    "infinitive": "INTERVIEW",
+    "pastSimple": "INTERVIEWED",
+    "pastParticiple": "INTERVIEWED",
+    "translation": "ENTREVISTAR"
+  },
+  {
+    "infinitive": "INTIMIDATE",
+    "pastSimple": "INTIMIDATED",
+    "pastParticiple": "INTIMIDATED",
+    "translation": "INTIMIDAR"
+  },
+  {
+    "infinitive": "INTRIGUE",
+    "pastSimple": "INTRIGUED",
+    "pastParticiple": "INTRIGUED",
+    "translation": "INTRIGAR"
+  },
+  {
+    "infinitive": "INTRODUCE",
+    "pastSimple": "INTRODUCED",
+    "pastParticiple": "INTRODUCED",
+    "translation": "INTRODUCIR"
+  },
+  {
+    "infinitive": "INVADE",
+    "pastSimple": "INVADED",
+    "pastParticiple": "INVADED",
+    "translation": "INVADIR"
+  },
+  {
+    "infinitive": "INVENT",
+    "pastSimple": "INVENTED",
+    "pastParticiple": "INVENTED",
+    "translation": "INVENTAR"
+  },
+  {
+    "infinitive": "INVEST",
+    "pastSimple": "INVESTED",
+    "pastParticiple": "INVESTED",
+    "translation": "INVERTIR"
+  },
+  {
+    "infinitive": "INVITE",
+    "pastSimple": "INVITED",
+    "pastParticiple": "INVITED",
+    "translation": "INVITAR"
+  },
+  {
+    "infinitive": "INVOICE",
+    "pastSimple": "INVOICED",
+    "pastParticiple": "INVOICED",
+    "translation": "FACTURAR"
+  },
+  {
+    "infinitive": "IRON",
+    "pastSimple": "IRONNED",
+    "pastParticiple": "IRONNED",
+    "translation": "PLANCHAR"
+  },
+  {
+    "infinitive": "IRRADIATE",
+    "pastSimple": "IRRADIATED",
+    "pastParticiple": "IRRADIATED",
+    "translation": "IRRADIAR"
+  },
+  {
+    "infinitive": "ISSUE",
+    "pastSimple": "ISSUED",
+    "pastParticiple": "ISSUED",
+    "translation": "EMITIR"
+  },
+  {
+    "infinitive": "ITCH",
+    "pastSimple": "ITCHED",
+    "pastParticiple": "ITCHED",
+    "translation": "PICAR(EL"
+  },
+  {
+    "infinitive": "JAB",
+    "pastSimple": "JABBED",
+    "pastParticiple": "JABBED",
+    "translation": "GOLPEAR"
+  },
+  {
+    "infinitive": "JAIL",
+    "pastSimple": "JAILED",
+    "pastParticiple": "JAILED",
+    "translation": "ENCARCELAR"
+  },
+  {
+    "infinitive": "JOKE",
+    "pastSimple": "JOKED",
+    "pastParticiple": "JOKED",
+    "translation": "BROMEAR"
+  },
+  {
+    "infinitive": "JUMP",
+    "pastSimple": "JUMPED",
+    "pastParticiple": "JUMPED",
+    "translation": "SALTAR"
+  },
+  {
+    "infinitive": "KICK",
+    "pastSimple": "KICKED",
+    "pastParticiple": "KICKED",
+    "translation": "PATEAR"
+  },
+  {
+    "infinitive": "KIDNAP",
+    "pastSimple": "KIDNAPPED",
+    "pastParticiple": "KIDNAPPED",
+    "translation": "SECUESTRAR"
+  },
+  {
+    "infinitive": "KID",
+    "pastSimple": "KIDDED",
+    "pastParticiple": "KIDDED",
+    "translation": "BROMEAR/ENGA\u00d1AR"
+  },
+  {
+    "infinitive": "KILL",
+    "pastSimple": "KILLED",
+    "pastParticiple": "KILLED",
+    "translation": "MATAR/ANIQUILAR"
+  },
+  {
+    "infinitive": "KISS",
+    "pastSimple": "KISSED",
+    "pastParticiple": "KISSED",
+    "translation": "BESAR"
+  },
+  {
+    "infinitive": "KNEAD",
+    "pastSimple": "KNEADED",
+    "pastParticiple": "KNEADED",
+    "translation": "AMASAR"
+  },
+  {
+    "infinitive": "KNEE(1)",
+    "pastSimple": "KNEED",
+    "pastParticiple": "KNEED",
+    "translation": "ARRODILLARSE"
+  },
+  {
+    "infinitive": "KNEE(2)",
+    "pastSimple": "KNEED",
+    "pastParticiple": "KNEED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "KEEP",
+    "pastSimple": "KEPT",
+    "pastParticiple": "KEPT",
+    "translation": "MANTENER/DEJAR"
+  },
+  {
+    "infinitive": "KNOCK",
+    "pastSimple": "KNOCKED",
+    "pastParticiple": "KNOCKED",
+    "translation": "TOCAR(PUERTA)"
+  },
+  {
+    "infinitive": "KNEEL",
+    "pastSimple": "KNELT",
+    "pastParticiple": "KNELT",
+    "translation": "ARRODILLARSE"
+  },
+  {
+    "infinitive": "KNOW",
+    "pastSimple": "KNEW",
+    "pastParticiple": "KNOWN",
+    "translation": "SABER/CONOCER"
+  },
+  {
+    "infinitive": "LACK",
+    "pastSimple": "LACKED",
+    "pastParticiple": "LACKED",
+    "translation": "CARECER"
+  },
+  {
+    "infinitive": "LAG",
+    "pastSimple": "LAGGED",
+    "pastParticiple": "LAGGED",
+    "translation": "REZAGARSE"
+  },
+  {
+    "infinitive": "LAM",
+    "pastSimple": "LAMMED",
+    "pastParticiple": "LAMMED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "LAST",
+    "pastSimple": "LASTED",
+    "pastParticiple": "LASTED",
+    "translation": "DURAR"
+  },
+  {
+    "infinitive": "LAUGH",
+    "pastSimple": "LAUGHED",
+    "pastParticiple": "LAUGHED",
+    "translation": "REIR"
+  },
+  {
+    "infinitive": "LAUNCH",
+    "pastSimple": "LAUNCHED",
+    "pastParticiple": "LAUNCHED",
+    "translation": "LANZAR"
+  },
+  {
+    "infinitive": "LEAK",
+    "pastSimple": "LEAKED",
+    "pastParticiple": "LEAKED",
+    "translation": "GOTEAR"
+  },
+  {
+    "infinitive": "LEARN",
+    "pastSimple": "LEARNED",
+    "pastParticiple": "LEARNED",
+    "translation": "APRENDER"
+  },
+  {
+    "infinitive": "LEASE",
+    "pastSimple": "LEASED",
+    "pastParticiple": "LEASED",
+    "translation": "ARRENDAR"
+  },
+  {
+    "infinitive": "LEGISLATE",
+    "pastSimple": "LEGISLATED",
+    "pastParticiple": "LEGISLATED",
+    "translation": "LEGISLAR"
+  },
+  {
+    "infinitive": "LIFT",
+    "pastSimple": "LIFTED",
+    "pastParticiple": "LIFTED",
+    "translation": "LEVANTAR"
+  },
+  {
+    "infinitive": "LIKE",
+    "pastSimple": "LIKED",
+    "pastParticiple": "LIKED",
+    "translation": "QUERER/GUSTAR"
+  },
+  {
+    "infinitive": "LIMIT",
+    "pastSimple": "LIMITED",
+    "pastParticiple": "LIMITED",
+    "translation": "LIMITAR"
+  },
+  {
+    "infinitive": "LIMP",
+    "pastSimple": "LIMPED",
+    "pastParticiple": "LIMPED",
+    "translation": "COJEAR"
+  },
+  {
+    "infinitive": "LIST",
+    "pastSimple": "LISTED",
+    "pastParticiple": "LISTED",
+    "translation": "LISTAR"
+  },
+  {
+    "infinitive": "LISTEN",
+    "pastSimple": "LISTENED",
+    "pastParticiple": "LISTENED",
+    "translation": "OIR/ESCUCHAR"
+  },
+  {
+    "infinitive": "LITTER",
+    "pastSimple": "LITTERED",
+    "pastParticiple": "LITTERED",
+    "translation": "ENSUCIAR(BASURA)"
+  },
+  {
+    "infinitive": "LIVE",
+    "pastSimple": "LIVED",
+    "pastParticiple": "LIVED",
+    "translation": "VIVIR"
+  },
+  {
+    "infinitive": "LOAD",
+    "pastSimple": "LOADED",
+    "pastParticiple": "LOADED",
+    "translation": "CARGAR"
+  },
+  {
+    "infinitive": "LOCK",
+    "pastSimple": "LOCKED",
+    "pastParticiple": "LOCKED",
+    "translation": "CERRAR"
+  },
+  {
+    "infinitive": "LODGE",
+    "pastSimple": "LODGED",
+    "pastParticiple": "LODGED",
+    "translation": "ALOJARSE"
+  },
+  {
+    "infinitive": "LOOK",
+    "pastSimple": "LOOKED",
+    "pastParticiple": "LOOKED",
+    "translation": "MIRAR"
+  },
+  {
+    "infinitive": "LOVE",
+    "pastSimple": "LOVED",
+    "pastParticiple": "LOVED",
+    "translation": "AMAR"
+  },
+  {
+    "infinitive": "LOW",
+    "pastSimple": "LOWED",
+    "pastParticiple": "LOWED",
+    "translation": "BAJAR"
+  },
+  {
+    "infinitive": "LAY",
+    "pastSimple": "LAID",
+    "pastParticiple": "LAID",
+    "translation": "POSAR/DEJAR(ALGO)"
+  },
+  {
+    "infinitive": "LEAD",
+    "pastSimple": "LED",
+    "pastParticiple": "LED",
+    "translation": "DIRIGIR"
+  },
+  {
+    "infinitive": "LEAN",
+    "pastSimple": "LEANT/ED",
+    "pastParticiple": "LEANT/ED",
+    "translation": "INCLINARSE"
+  },
+  {
+    "infinitive": "LEAP",
+    "pastSimple": "LEAPT/ED",
+    "pastParticiple": "LEAPT/ED",
+    "translation": "SALTAR"
+  },
+  {
+    "infinitive": "LEAVE",
+    "pastSimple": "LEFT",
+    "pastParticiple": "LEAFT",
+    "translation": "SALIR/DEJAR(LUGAR)"
+  },
+  {
+    "infinitive": "LEND",
+    "pastSimple": "LENT",
+    "pastParticiple": "LENT",
+    "translation": "PRESTAR"
+  },
+  {
+    "infinitive": "LET",
+    "pastSimple": "LET",
+    "pastParticiple": "LET",
+    "translation": "PERMITIR"
+  },
+  {
+    "infinitive": "LIE",
+    "pastSimple": "LAY",
+    "pastParticiple": "LAIN",
+    "translation": "RECOSTARSE"
+  },
+  {
+    "infinitive": "LIE",
+    "pastSimple": "LIED",
+    "pastParticiple": "LAID",
+    "translation": "MENTIR"
+  },
+  {
+    "infinitive": "LIHGT",
+    "pastSimple": "LIT",
+    "pastParticiple": "LIT",
+    "translation": "PRENDER/ENCENDER"
+  },
+  {
+    "infinitive": "LOSE",
+    "pastSimple": "LOST",
+    "pastParticiple": "LOST",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "MAIL",
+    "pastSimple": "MAILED",
+    "pastParticiple": "MAILED",
+    "translation": "ENVIAR"
+  },
+  {
+    "infinitive": "MAINTAIN",
+    "pastSimple": "MAINTAINED",
+    "pastParticiple": "MAINTAINED",
+    "translation": "MANTENER"
+  },
+  {
+    "infinitive": "MANAGE",
+    "pastSimple": "MANAGED",
+    "pastParticiple": "MANAGED",
+    "translation": "DIRIGIR"
+  },
+  {
+    "infinitive": "MANGLE",
+    "pastSimple": "MANGLED",
+    "pastParticiple": "MANGLED",
+    "translation": "DESFIGURAR/MUTILAR"
+  },
+  {
+    "infinitive": "MARK",
+    "pastSimple": "MARKED",
+    "pastParticiple": "MARKED",
+    "translation": "MARCAR/SE\u00d1ALAR"
+  },
+  {
+    "infinitive": "MARRY",
+    "pastSimple": "MARRIED",
+    "pastParticiple": "MARRIED",
+    "translation": "CASARSE/UNIRSE"
+  },
+  {
+    "infinitive": "MASSAGE",
+    "pastSimple": "MASSAGED",
+    "pastParticiple": "MASSAGED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "MATCH",
+    "pastSimple": "MATCHED",
+    "pastParticiple": "MATCHED",
+    "translation": "COMBINAR"
+  },
+  {
+    "infinitive": "MEASURE",
+    "pastSimple": "MEASURED",
+    "pastParticiple": "MEASURED",
+    "translation": "MEDIR"
+  },
+  {
+    "infinitive": "MEDDLE",
+    "pastSimple": "MEDDLED",
+    "pastParticiple": "MEDDLED",
+    "translation": "ENTROMETERSE"
+  },
+  {
+    "infinitive": "MELT",
+    "pastSimple": "MELTED",
+    "pastParticiple": "MELTED",
+    "translation": "DERRETIR/FUNDIR"
+  },
+  {
+    "infinitive": "MEND",
+    "pastSimple": "MENDED",
+    "pastParticiple": "MENDED",
+    "translation": "REMENDAR"
+  },
+  {
+    "infinitive": "MENTION",
+    "pastSimple": "MENTIONED",
+    "pastParticiple": "MENTIONED",
+    "translation": "MENCIONAR"
+  },
+  {
+    "infinitive": "MESS",
+    "pastSimple": "MESSED",
+    "pastParticiple": "MESSED",
+    "translation": "DESORDENAR"
+  },
+  {
+    "infinitive": "MINCE",
+    "pastSimple": "MINCED",
+    "pastParticiple": "MINCED",
+    "translation": "DESMENUZAR"
+  },
+  {
+    "infinitive": "MIND",
+    "pastSimple": "MINDED",
+    "pastParticiple": "MINDED",
+    "translation": "IMPORTAR(IMPORTANCIA)"
+  },
+  {
+    "infinitive": "MINGLE",
+    "pastSimple": "MINGLED",
+    "pastParticiple": "MINGLED",
+    "translation": "MEZCLARSE"
+  },
+  {
+    "infinitive": "MINT",
+    "pastSimple": "MINTED",
+    "pastParticiple": "MINTED",
+    "translation": "ACU\u00d1AR(MONEDA)"
+  },
+  {
+    "infinitive": "MISMANAGE",
+    "pastSimple": "MISMANGED",
+    "pastParticiple": "MISMANAGED",
+    "translation": "MAL"
+  },
+  {
+    "infinitive": "MISS",
+    "pastSimple": "MISSED",
+    "pastParticiple": "MISSED",
+    "translation": "EXTRA\u00d1AR"
+  },
+  {
+    "infinitive": "MISS",
+    "pastSimple": "MISSED",
+    "pastParticiple": "MISSEED",
+    "translation": "ERRAR/FALLAR"
+  },
+  {
+    "infinitive": "MISS",
+    "pastSimple": "MISSED",
+    "pastParticiple": "MISSED",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "MISTRUST",
+    "pastSimple": "MISTRUSTED",
+    "pastParticiple": "MISTRUSTED",
+    "translation": "DESCONFIAR"
+  },
+  {
+    "infinitive": "MISUNDERSTAN",
+    "pastSimple": "MISUNDERSTOOD",
+    "pastParticiple": "MISUNDERSTOOD",
+    "translation": "MAL"
+  },
+  {
+    "infinitive": "MIX",
+    "pastSimple": "MIXED",
+    "pastParticiple": "MIXED",
+    "translation": "MEZCLAR"
+  },
+  {
+    "infinitive": "MODERN",
+    "pastSimple": "MODERNED",
+    "pastParticiple": "MODERNED",
+    "translation": "MODERNIZAR"
+  },
+  {
+    "infinitive": "MOTIVATE",
+    "pastSimple": "MOTIVATED",
+    "pastParticiple": "MOTIVATED",
+    "translation": "MOTIVAR"
+  },
+  {
+    "infinitive": "MOVE",
+    "pastSimple": "MOVED",
+    "pastParticiple": "MOVED",
+    "translation": "MOVER"
+  },
+  {
+    "infinitive": "MURDER",
+    "pastSimple": "MURDERED",
+    "pastParticiple": "MURDERED",
+    "translation": "ASESINAR"
+  },
+  {
+    "infinitive": "MURMUR",
+    "pastSimple": "MURMURED",
+    "pastParticiple": "MURMURED",
+    "translation": "MURMURAR"
+  },
+  {
+    "infinitive": "MAKE",
+    "pastSimple": "MADE",
+    "pastParticiple": "MADE",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "MEAN",
+    "pastSimple": "MEANT",
+    "pastParticiple": "MEANT",
+    "translation": "SIGNIFICAR"
+  },
+  {
+    "infinitive": "MEET",
+    "pastSimple": "MET",
+    "pastParticiple": "MET",
+    "translation": "CONOCER"
+  },
+  {
+    "infinitive": "MISDEAL",
+    "pastSimple": "MISDEALT",
+    "pastParticiple": "MISDEALT",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "MISTAKE",
+    "pastSimple": "MISTOOK",
+    "pastParticiple": "MISTAKEN",
+    "translation": "ERRAR/EQUIVOCAR"
+  },
+  {
+    "infinitive": "MISPLACE",
+    "pastSimple": "MISPLACED",
+    "pastParticiple": "MISPLACED",
+    "translation": "COLOCAR"
+  },
+  {
+    "infinitive": "MOW",
+    "pastSimple": "MOWED",
+    "pastParticiple": "MOWN",
+    "translation": "SEGAR/CORTAR"
+  },
+  {
+    "infinitive": "NAIL",
+    "pastSimple": "NAILED",
+    "pastParticiple": "NAILED",
+    "translation": "CLAVAR"
+  },
+  {
+    "infinitive": "NAME",
+    "pastSimple": "NAMED",
+    "pastParticiple": "NAMED",
+    "translation": "NOMBRAR"
+  },
+  {
+    "infinitive": "NARRATE",
+    "pastSimple": "NARRATED",
+    "pastParticiple": "NARRATED",
+    "translation": "NARRAR"
+  },
+  {
+    "infinitive": "NEED",
+    "pastSimple": "NEEEDED",
+    "pastParticiple": "NEEDED",
+    "translation": "NECESITAR"
+  },
+  {
+    "infinitive": "NEGATE",
+    "pastSimple": "NEGATED",
+    "pastParticiple": "NEGATED",
+    "translation": "NEGAR"
+  },
+  {
+    "infinitive": "NEGLECT",
+    "pastSimple": "NEGLECTED",
+    "pastParticiple": "NEGLECTED",
+    "translation": "DESCUIDAR"
+  },
+  {
+    "infinitive": "NEGOTIATE",
+    "pastSimple": "NEGOTIATED",
+    "pastParticiple": "NEGOTIATED",
+    "translation": "NEGOCIAR"
+  },
+  {
+    "infinitive": "NEST",
+    "pastSimple": "NESTED",
+    "pastParticiple": "NESTED",
+    "translation": "ANIDAR"
+  },
+  {
+    "infinitive": "NIGGLE",
+    "pastSimple": "NIGGLED",
+    "pastParticiple": "NIGGLED",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "NOD",
+    "pastSimple": "NODDED",
+    "pastParticiple": "NODDED",
+    "translation": "DECIR"
+  },
+  {
+    "infinitive": "OBEY",
+    "pastSimple": "OBEYED",
+    "pastParticiple": "OBEYED",
+    "translation": "OBEDECER"
+  },
+  {
+    "infinitive": "OBJECT",
+    "pastSimple": "OBJECTED",
+    "pastParticiple": "OBJECTED",
+    "translation": "OBJETAR"
+  },
+  {
+    "infinitive": "OBLIGATE",
+    "pastSimple": "OBLIGATED",
+    "pastParticiple": "OBLIGATED",
+    "translation": "OBLIGAR"
+  },
+  {
+    "infinitive": "OBSERVE",
+    "pastSimple": "OBSERVED",
+    "pastParticiple": "OBSERVED",
+    "translation": "OBSERVAR"
+  },
+  {
+    "infinitive": "OBTAIN",
+    "pastSimple": "OBTAINED",
+    "pastParticiple": "OBTAINED",
+    "translation": "OBTENER"
+  },
+  {
+    "infinitive": "OBVIATE",
+    "pastSimple": "OBVIATED",
+    "pastParticiple": "OBVIATED",
+    "translation": "OBVIAR"
+  },
+  {
+    "infinitive": "OBSESS",
+    "pastSimple": "OBSESSED",
+    "pastParticiple": "OBSESSED",
+    "translation": "OBSESIONAR"
+  },
+  {
+    "infinitive": "OBSTRUCT",
+    "pastSimple": "OBSTRUCTED",
+    "pastParticiple": "OBSTRUCTED",
+    "translation": "OBSTRUIR"
+  },
+  {
+    "infinitive": "OCCUPY",
+    "pastSimple": "OCCUPIED",
+    "pastParticiple": "OCCUPIED",
+    "translation": "OCUPAR"
+  },
+  {
+    "infinitive": "OCCUR",
+    "pastSimple": "OCCURED",
+    "pastParticiple": "OCCURED",
+    "translation": "OCURRIR"
+  },
+  {
+    "infinitive": "OFFEND",
+    "pastSimple": "OFFENDED",
+    "pastParticiple": "OFFENDED",
+    "translation": "OFENDER"
+  },
+  {
+    "infinitive": "OFFER",
+    "pastSimple": "OFFERED",
+    "pastParticiple": "OFFERED",
+    "translation": "OFRECER"
+  },
+  {
+    "infinitive": "OPINE",
+    "pastSimple": "OPINED",
+    "pastParticiple": "OPINED",
+    "translation": "OPINAR"
+  },
+  {
+    "infinitive": "ORDER",
+    "pastSimple": "ORDERED",
+    "pastParticiple": "ORDERED",
+    "translation": "ORDENAR/PEDIR"
+  },
+  {
+    "infinitive": "OUTRAGE",
+    "pastSimple": "OUTRAGED",
+    "pastParticiple": "OUTRAGED",
+    "translation": "ATROPELLAR"
+  },
+  {
+    "infinitive": "OVEREAT",
+    "pastSimple": "OVERATE",
+    "pastParticiple": "OVEREATTEN",
+    "translation": "HARTARSE"
+  },
+  {
+    "infinitive": "OWE",
+    "pastSimple": "OWED",
+    "pastParticiple": "OWED",
+    "translation": "DEBER(DINERO/ALGO)"
+  },
+  {
+    "infinitive": "OWN",
+    "pastSimple": "OWNED",
+    "pastParticiple": "OWNED",
+    "translation": "POSEER(SOMETHING)"
+  },
+  {
+    "infinitive": "PACK",
+    "pastSimple": "PACKED",
+    "pastParticiple": "PACKED",
+    "translation": "EMPACAR"
+  },
+  {
+    "infinitive": "PAINT",
+    "pastSimple": "PAINTED",
+    "pastParticiple": "PAINTED",
+    "translation": "PINTAR"
+  },
+  {
+    "infinitive": "PALE",
+    "pastSimple": "PALED",
+    "pastParticiple": "PALED",
+    "translation": "PALIDECER"
+  },
+  {
+    "infinitive": "PALL",
+    "pastSimple": "PALLED",
+    "pastParticiple": "PALLED",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "PAMPER",
+    "pastSimple": "PAMPERED",
+    "pastParticiple": "PAMPERED",
+    "translation": "MIMAR/CONSENTIR"
+  },
+  {
+    "infinitive": "PANIC",
+    "pastSimple": "PANICED",
+    "pastParticiple": "PANICED",
+    "translation": "ATERRAR"
+  },
+  {
+    "infinitive": "PAT",
+    "pastSimple": "PATTED",
+    "pastParticiple": "PATTED",
+    "translation": "ACARICIAR"
+  },
+  {
+    "infinitive": "PARACHUTE",
+    "pastSimple": "PARACHUTED",
+    "pastParticiple": "PARACHUTED",
+    "translation": "LANZARSE(PARACAIDAS)"
+  },
+  {
+    "infinitive": "PARDON",
+    "pastSimple": "PARDONED",
+    "pastParticiple": "PARDONED",
+    "translation": "PERDONAR"
+  },
+  {
+    "infinitive": "PARE",
+    "pastSimple": "PARED",
+    "pastParticiple": "PARED",
+    "translation": "PELAR"
+  },
+  {
+    "infinitive": "PARK",
+    "pastSimple": "PARKED",
+    "pastParticiple": "PARKED",
+    "translation": "ESTACIONAR"
+  },
+  {
+    "infinitive": "PARRY",
+    "pastSimple": "PARRIED",
+    "pastParticiple": "PARRIED",
+    "translation": "PARAR"
+  },
+  {
+    "infinitive": "PARTICIPATE",
+    "pastSimple": "PARTICIPATED",
+    "pastParticiple": "PARTICIPATED",
+    "translation": "PARTICIPAR"
+  },
+  {
+    "infinitive": "PATCH",
+    "pastSimple": "PATCHED",
+    "pastParticiple": "PATCHED",
+    "translation": "REMENDAR"
+  },
+  {
+    "infinitive": "PAUSE",
+    "pastSimple": "PAUSED",
+    "pastParticiple": "PAUSED",
+    "translation": "PAUSAR"
+  },
+  {
+    "infinitive": "PAVE",
+    "pastSimple": "PAVED",
+    "pastParticiple": "PAVED",
+    "translation": "PAVIMENTAR"
+  },
+  {
+    "infinitive": "PAY",
+    "pastSimple": "PAID",
+    "pastParticiple": "PAID",
+    "translation": "PAGAR"
+  },
+  {
+    "infinitive": "PECK",
+    "pastSimple": "PECKED",
+    "pastParticiple": "PECKED",
+    "translation": "PICOTEAR"
+  },
+  {
+    "infinitive": "PAWWN",
+    "pastSimple": "PAWNED",
+    "pastParticiple": "PAWNED",
+    "translation": "EMPE\u00d1AR"
+  },
+  {
+    "infinitive": "PEDAL",
+    "pastSimple": "PEDALED",
+    "pastParticiple": "PADALED",
+    "translation": "PEDALEAR"
+  },
+  {
+    "infinitive": "PEE",
+    "pastSimple": "PEED",
+    "pastParticiple": "PEED",
+    "translation": "ORINAR"
+  },
+  {
+    "infinitive": "PEEL",
+    "pastSimple": "PEELED",
+    "pastParticiple": "PEELED",
+    "translation": "PELAR"
+  },
+  {
+    "infinitive": "PEEVE",
+    "pastSimple": "PEEVED",
+    "pastParticiple": "PEEVED",
+    "translation": "IRRITAR"
+  },
+  {
+    "infinitive": "PERFORM",
+    "pastSimple": "PERFORMED",
+    "pastParticiple": "PERFORMED",
+    "translation": "REALIZAR/ACTUAR"
+  },
+  {
+    "infinitive": "PERFUME",
+    "pastSimple": "PERFUMED",
+    "pastParticiple": "PERFUMED",
+    "translation": "PERFUMAR"
+  },
+  {
+    "infinitive": "PERSUADE",
+    "pastSimple": "PERSUADED",
+    "pastParticiple": "PERSUADED",
+    "translation": "PERSUADIR"
+  },
+  {
+    "infinitive": "PERVERT",
+    "pastSimple": "PERVERTED",
+    "pastParticiple": "PERVERTED",
+    "translation": "PERVERTIR"
+  },
+  {
+    "infinitive": "PHONE",
+    "pastSimple": "PHONED",
+    "pastParticiple": "PHONED",
+    "translation": "LLAMAR"
+  },
+  {
+    "infinitive": "PHOTOCOPY",
+    "pastSimple": "PHOTOCOPIED",
+    "pastParticiple": "PHOTOCOPIED",
+    "translation": "FOTOCOPIAR"
+  },
+  {
+    "infinitive": "PICK",
+    "pastSimple": "PICKED",
+    "pastParticiple": "PICKED",
+    "translation": "ESCOGER"
+  },
+  {
+    "infinitive": "PICKLE",
+    "pastSimple": "PICKLED",
+    "pastParticiple": "PICKLED",
+    "translation": "ESCABECHAR/ENCURTIR"
+  },
+  {
+    "infinitive": "PICTURE",
+    "pastSimple": "PICTURED",
+    "pastParticiple": "PICTURED",
+    "translation": "IMAGINAR/PINTAR"
+  },
+  {
+    "infinitive": "PILE",
+    "pastSimple": "PILED",
+    "pastParticiple": "PILED",
+    "translation": "AMONTONAR/APILAR"
+  },
+  {
+    "infinitive": "PILOT",
+    "pastSimple": "PILOTED",
+    "pastParticiple": "PILOTED",
+    "translation": "PILOTEAR"
+  },
+  {
+    "infinitive": "PINCH",
+    "pastSimple": "PINCHED",
+    "pastParticiple": "PINCHED",
+    "translation": "PELLIZCAR/PINCHAR"
+  },
+  {
+    "infinitive": "PITCH",
+    "pastSimple": "PITCHED",
+    "pastParticiple": "PITCHED",
+    "translation": "LANZAR/TIRAR"
+  },
+  {
+    "infinitive": "PISS",
+    "pastSimple": "PISSED",
+    "pastParticiple": "PISSED",
+    "translation": "ORINAR/MEAR"
+  },
+  {
+    "infinitive": "PLACE",
+    "pastSimple": "PLACED",
+    "pastParticiple": "PLACED",
+    "translation": "COLOCAR"
+  },
+  {
+    "infinitive": "PLAN",
+    "pastSimple": "PLANNED",
+    "pastParticiple": "PLANNED",
+    "translation": "PLANEAR"
+  },
+  {
+    "infinitive": "PLANE",
+    "pastSimple": "PLANED",
+    "pastParticiple": "PLANED",
+    "translation": "PLANEAR"
+  },
+  {
+    "infinitive": "PLANT",
+    "pastSimple": "PLANTED",
+    "pastParticiple": "PLANTED",
+    "translation": "PLANTAR"
+  },
+  {
+    "infinitive": "PLASH",
+    "pastSimple": "PLASHED",
+    "pastParticiple": "PLASHED",
+    "translation": "CHAPOTEAR"
+  },
+  {
+    "infinitive": "PLAY",
+    "pastSimple": "PLAYED",
+    "pastParticiple": "PLAYED",
+    "translation": "JUGAR/TOCAR(PIANO)"
+  },
+  {
+    "infinitive": "PLEAD",
+    "pastSimple": "PLEADED",
+    "pastParticiple": "PLEADED",
+    "translation": "DECLARAR"
+  },
+  {
+    "infinitive": "PLEASE",
+    "pastSimple": "PLEASED",
+    "pastParticiple": "PLEASED",
+    "translation": "COMPLACER"
+  },
+  {
+    "infinitive": "POISON",
+    "pastSimple": "POISINED",
+    "pastParticiple": "POISONED",
+    "translation": "ENVENENAR"
+  },
+  {
+    "infinitive": "POLISH",
+    "pastSimple": "POLISHED",
+    "pastParticiple": "POLISHED",
+    "translation": "SACAR"
+  },
+  {
+    "infinitive": "POLLUTE",
+    "pastSimple": "POLLUTED",
+    "pastParticiple": "POLLUTED",
+    "translation": "CONTAMINAR"
+  },
+  {
+    "infinitive": "PLOT",
+    "pastSimple": "PLOTTED",
+    "pastParticiple": "PLOTTED",
+    "translation": "TRAMAR"
+  },
+  {
+    "infinitive": "PLUCK",
+    "pastSimple": "PLUCKED",
+    "pastParticiple": "PLUCKED",
+    "translation": "DESPLUMAR"
+  },
+  {
+    "infinitive": "PLUG",
+    "pastSimple": "PLUGGED",
+    "pastParticiple": "PLUGGED",
+    "translation": "TAPONEAR"
+  },
+  {
+    "infinitive": "PLUNDER",
+    "pastSimple": "PLUNDERED",
+    "pastParticiple": "PLUNDERED",
+    "translation": "SAQUEAR"
+  },
+  {
+    "infinitive": "POISON",
+    "pastSimple": "POISONED",
+    "pastParticiple": "POISONED",
+    "translation": "ENVENENAR"
+  },
+  {
+    "infinitive": "POLISH",
+    "pastSimple": "POLISHED",
+    "pastParticiple": "POLISHED",
+    "translation": "SACAR"
+  },
+  {
+    "infinitive": "POLLUTE",
+    "pastSimple": "POLLUTED",
+    "pastParticiple": "POLLUTED",
+    "translation": "CONTAMINAR"
+  },
+  {
+    "infinitive": "POSE",
+    "pastSimple": "POSED",
+    "pastParticiple": "POSED",
+    "translation": "POSAR"
+  },
+  {
+    "infinitive": "POSSESS",
+    "pastSimple": "POSSESSED",
+    "pastParticiple": "POSSESSED",
+    "translation": "POSEER"
+  },
+  {
+    "infinitive": "POUR",
+    "pastSimple": "POURED",
+    "pastParticiple": "POURED",
+    "translation": "VERTIR/ECHAR"
+  },
+  {
+    "infinitive": "POST",
+    "pastSimple": "POSTED",
+    "pastParticiple": "POSTED",
+    "translation": "ANUNCIAR/ENVIAR"
+  },
+  {
+    "infinitive": "PRAISE",
+    "pastSimple": "PRAISED",
+    "pastParticiple": "PRAISED",
+    "translation": "ELOGIAR/ALABAR"
+  },
+  {
+    "infinitive": "PRAY",
+    "pastSimple": "PRAYED",
+    "pastParticiple": "PRAYED",
+    "translation": "REZAR/SUPLICAR"
+  },
+  {
+    "infinitive": "PRECEDE",
+    "pastSimple": "PRECEDED",
+    "pastParticiple": "PRECEDED",
+    "translation": "PRECEDER"
+  },
+  {
+    "infinitive": "PREDICT",
+    "pastSimple": "PREDICTED",
+    "pastParticiple": "PREDICTED",
+    "translation": "PREDECIR"
+  },
+  {
+    "infinitive": "PREFACE",
+    "pastSimple": "PREFACED",
+    "pastParticiple": "PREFACED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "PREFER",
+    "pastSimple": "PREFERED",
+    "pastParticiple": "PREFERED",
+    "translation": "PREFERIR"
+  },
+  {
+    "infinitive": "PREHEAT",
+    "pastSimple": "PREHEATED",
+    "pastParticiple": "PREHEATED",
+    "translation": "RECALENTAR"
+  },
+  {
+    "infinitive": "PREPARE",
+    "pastSimple": "PREPARED",
+    "pastParticiple": "PREPARED",
+    "translation": "PREPARAR"
+  },
+  {
+    "infinitive": "PREPAY",
+    "pastSimple": "PREPAID",
+    "pastParticiple": "PREPAID",
+    "translation": "PAGAR"
+  },
+  {
+    "infinitive": "PRESAGE",
+    "pastSimple": "PRESAGED",
+    "pastParticiple": "PRESAGED",
+    "translation": "PRESAGIAR"
+  },
+  {
+    "infinitive": "PRESCRIBE",
+    "pastSimple": "PRESCRIBED",
+    "pastParticiple": "PRESCRIBED",
+    "translation": "PRESCRIBIR"
+  },
+  {
+    "infinitive": "PRESIDE",
+    "pastSimple": "PRESIDED",
+    "pastParticiple": "PRESIDED",
+    "translation": "PRESIDIR"
+  },
+  {
+    "infinitive": "PRESS",
+    "pastSimple": "PRESSED",
+    "pastParticiple": "PRESSED",
+    "translation": "APRETAR"
+  },
+  {
+    "infinitive": "PRETEND",
+    "pastSimple": "PRETENDED",
+    "pastParticiple": "PRETENDED",
+    "translation": "PRETENDER"
+  },
+  {
+    "infinitive": "PREVAIL",
+    "pastSimple": "PREVAILED",
+    "pastParticiple": "PREVAILED",
+    "translation": "PREVALECER"
+  },
+  {
+    "infinitive": "PREVENT",
+    "pastSimple": "PREVENTED",
+    "pastParticiple": "PREVENTED",
+    "translation": "PREVENIR"
+  },
+  {
+    "infinitive": "PROCEED",
+    "pastSimple": "PROCEEDED",
+    "pastParticiple": "PROCEEDED",
+    "translation": "PROSEGUIR"
+  },
+  {
+    "infinitive": "PROCESS",
+    "pastSimple": "PROCESSED",
+    "pastParticiple": "PROCESSED",
+    "translation": "PROCESAR"
+  },
+  {
+    "infinitive": "PROCRASTINATE",
+    "pastSimple": "PROCRASTINATED",
+    "pastParticiple": "PROCRASTINATED",
+    "translation": "DILATAR"
+  },
+  {
+    "infinitive": "PROCREATE",
+    "pastSimple": "PROCREATED",
+    "pastParticiple": "PROCREATED",
+    "translation": "PROCREAR"
+  },
+  {
+    "infinitive": "PRODUCE",
+    "pastSimple": "PRODUCED",
+    "pastParticiple": "PRODUCED",
+    "translation": "PRODUCIR"
+  },
+  {
+    "infinitive": "PROFANE",
+    "pastSimple": "PROFANED",
+    "pastParticiple": "PROFANED",
+    "translation": "PROFANAR"
+  },
+  {
+    "infinitive": "PROHIBIT",
+    "pastSimple": "PROHIBITED",
+    "pastParticiple": "PROHIBITED",
+    "translation": "PROHIBIR"
+  },
+  {
+    "infinitive": "PROGRESS",
+    "pastSimple": "PROGRESSED",
+    "pastParticiple": "PROGRESSED",
+    "translation": "PROGRESAR"
+  },
+  {
+    "infinitive": "PROJECT",
+    "pastSimple": "PROJECTED",
+    "pastParticiple": "PROJECTED",
+    "translation": "PROJECTAR"
+  },
+  {
+    "infinitive": "PROLONG",
+    "pastSimple": "PROLONGED",
+    "pastParticiple": "PROLONGED",
+    "translation": "PROLONGAR"
+  },
+  {
+    "infinitive": "PROMENADE",
+    "pastSimple": "PROMENADED",
+    "pastParticiple": "PROMENADED",
+    "translation": "PASEAR"
+  },
+  {
+    "infinitive": "PROMISE",
+    "pastSimple": "PROMISED",
+    "pastParticiple": "PROMISED",
+    "translation": "PROMETER"
+  },
+  {
+    "infinitive": "PROMOTE",
+    "pastSimple": "PROMOTED",
+    "pastParticiple": "PROMOTED",
+    "translation": "ASCENDER"
+  },
+  {
+    "infinitive": "PROMULGATE",
+    "pastSimple": "PROMULGATED",
+    "pastParticiple": "PROMULGATED",
+    "translation": "PROMULGAR"
+  },
+  {
+    "infinitive": "PRONOUNCE",
+    "pastSimple": "PRONOUNCED",
+    "pastParticiple": "PRONOUNCED",
+    "translation": "PRONUNCIAR"
+  },
+  {
+    "infinitive": "PROPAGATE",
+    "pastSimple": "PROPAGATED",
+    "pastParticiple": "PROPAGATED",
+    "translation": "PROPAGAR"
+  },
+  {
+    "infinitive": "PROPOSE",
+    "pastSimple": "PROPOSED",
+    "pastParticiple": "PROPOSED",
+    "translation": "PROPONER"
+  },
+  {
+    "infinitive": "PROTECT",
+    "pastSimple": "PROTECTED",
+    "pastParticiple": "PROTECTED",
+    "translation": "PROTEGER"
+  },
+  {
+    "infinitive": "PROTEST",
+    "pastSimple": "PROTESTED",
+    "pastParticiple": "PROTESTED",
+    "translation": "PROTESTAR"
+  },
+  {
+    "infinitive": "PROVE",
+    "pastSimple": "PROVED",
+    "pastParticiple": "PROVED",
+    "translation": "COMPROBAR"
+  },
+  {
+    "infinitive": "PROVIDE",
+    "pastSimple": "PROVIDED",
+    "pastParticiple": "PROVIDED",
+    "translation": "SUMINISTRAR"
+  },
+  {
+    "infinitive": "PROWL",
+    "pastSimple": "PROWLED",
+    "pastParticiple": "PROWLED",
+    "translation": "RONDAR"
+  },
+  {
+    "infinitive": "PRY",
+    "pastSimple": "PRIED",
+    "pastParticiple": "PRIED",
+    "translation": "CURIOSAR"
+  },
+  {
+    "infinitive": "PULL",
+    "pastSimple": "PULLED",
+    "pastParticiple": "PULLED",
+    "translation": "HALAR"
+  },
+  {
+    "infinitive": "PULSE",
+    "pastSimple": "PULSED",
+    "pastParticiple": "PULSED",
+    "translation": "PULSAR"
+  },
+  {
+    "infinitive": "PUMP",
+    "pastSimple": "PUMPED",
+    "pastParticiple": "PUMPED",
+    "translation": "BOMBEAR"
+  },
+  {
+    "infinitive": "PUNCH",
+    "pastSimple": "PUNCHED",
+    "pastParticiple": "PUNCHED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "PUNCTUATE",
+    "pastSimple": "PUNCTUATED",
+    "pastParticiple": "PUNCTUATED",
+    "translation": "PUNTUALIZAR"
+  },
+  {
+    "infinitive": "PURCHASE",
+    "pastSimple": "PURCHASED",
+    "pastParticiple": "PURCHASED",
+    "translation": "COMPRAR"
+  },
+  {
+    "infinitive": "PUSH",
+    "pastSimple": "PUSHED",
+    "pastParticiple": "PUSHED",
+    "translation": "EMPUJAR"
+  },
+  {
+    "infinitive": "PUZZLE",
+    "pastSimple": "PUZZLED",
+    "pastParticiple": "PUZZLED",
+    "translation": "DEJAR"
+  },
+  {
+    "infinitive": "PAY",
+    "pastSimple": "PAID",
+    "pastParticiple": "PAID",
+    "translation": "PAGAR"
+  },
+  {
+    "infinitive": "PUT",
+    "pastSimple": "PUT",
+    "pastParticiple": "PUT",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "QUAIL",
+    "pastSimple": "QUAILED",
+    "pastParticiple": "QUAILED",
+    "translation": "ACOBARDARSE"
+  },
+  {
+    "infinitive": "QUAKE",
+    "pastSimple": "QUAKED",
+    "pastParticiple": "QUAKED",
+    "translation": "TEMBLAR"
+  },
+  {
+    "infinitive": "QUALIFY",
+    "pastSimple": "QUALIFIED",
+    "pastParticiple": "QUALIFIED",
+    "translation": "CALIFICAR"
+  },
+  {
+    "infinitive": "QUARREL",
+    "pastSimple": "QUARRELED",
+    "pastParticiple": "QUARRELED",
+    "translation": "RE\u00d1IR/DISPUTAR"
+  },
+  {
+    "infinitive": "QUESTION",
+    "pastSimple": "QUESTIONED",
+    "pastParticiple": "QUESTIONED",
+    "translation": "INTERROGAR"
+  },
+  {
+    "infinitive": "QUOTE",
+    "pastSimple": "QUOTED",
+    "pastParticiple": "QUOTED",
+    "translation": "CITAR"
+  },
+  {
+    "infinitive": "QUIT",
+    "pastSimple": "QUIT",
+    "pastParticiple": "QUIT",
+    "translation": "DESISTIR"
+  },
+  {
+    "infinitive": "RACE",
+    "pastSimple": "RACED",
+    "pastParticiple": "RACED",
+    "translation": "COMPETIR"
+  },
+  {
+    "infinitive": "RADIO",
+    "pastSimple": "RADIOED",
+    "pastParticiple": "RADIOED",
+    "translation": "RADIAR"
+  },
+  {
+    "infinitive": "RAFFLE",
+    "pastSimple": "RAFFLED",
+    "pastParticiple": "RAFFLED",
+    "translation": "RIFAR"
+  },
+  {
+    "infinitive": "RAIN",
+    "pastSimple": "RAINED",
+    "pastParticiple": "RAINED",
+    "translation": "LLOVER"
+  },
+  {
+    "infinitive": "RAISE",
+    "pastSimple": "RAISED",
+    "pastParticiple": "RAISED",
+    "translation": "LEVANTAR"
+  },
+  {
+    "infinitive": "RAPE",
+    "pastSimple": "RAPED",
+    "pastParticiple": "RAPED",
+    "translation": "VIOLAR"
+  },
+  {
+    "infinitive": "RATE",
+    "pastSimple": "RATED",
+    "pastParticiple": "RATED",
+    "translation": "ESTIMAR"
+  },
+  {
+    "infinitive": "REACH",
+    "pastSimple": "REACHED",
+    "pastParticiple": "REACHED",
+    "translation": "ALCANZAR"
+  },
+  {
+    "infinitive": "REACT",
+    "pastSimple": "REACTED",
+    "pastParticiple": "REACTED",
+    "translation": "REACCIONAR"
+  },
+  {
+    "infinitive": "REALIZE",
+    "pastSimple": "REALIZED",
+    "pastParticiple": "REALIZED",
+    "translation": "DARSE"
+  },
+  {
+    "infinitive": "REAP",
+    "pastSimple": "REAPED",
+    "pastParticiple": "REAPED",
+    "translation": "COSECHAR"
+  },
+  {
+    "infinitive": "REAPPLY",
+    "pastSimple": "REAPPLIED",
+    "pastParticiple": "REAPPLIED",
+    "translation": "VOLVER"
+  },
+  {
+    "infinitive": "RECALL",
+    "pastSimple": "RECALLED",
+    "pastParticiple": "RECALLED",
+    "translation": "RECORDAR"
+  },
+  {
+    "infinitive": "RECLINE",
+    "pastSimple": "RECLINED",
+    "pastParticiple": "RECLINED",
+    "translation": "RECLINARSE"
+  },
+  {
+    "infinitive": "RECOGNIZE",
+    "pastSimple": "RECOGNIZED",
+    "pastParticiple": "RECOGNIZED",
+    "translation": "RECONOCER"
+  },
+  {
+    "infinitive": "RECOMMEND",
+    "pastSimple": "RECOMMENDED",
+    "pastParticiple": "RECOMMENDED",
+    "translation": "RECOMENDAR"
+  },
+  {
+    "infinitive": "RECOMPENSE",
+    "pastSimple": "RECOMPENSED",
+    "pastParticiple": "RECOMPENSED",
+    "translation": "RECOMPENSAR"
+  },
+  {
+    "infinitive": "RECONCILE",
+    "pastSimple": "RECONCILED",
+    "pastParticiple": "RECONCILED",
+    "translation": "RECONCILIAR"
+  },
+  {
+    "infinitive": "RECONSIDER",
+    "pastSimple": "RECONSIDERED",
+    "pastParticiple": "RECONSIDERED",
+    "translation": "RECONSIDERAR"
+  },
+  {
+    "infinitive": "RECONSTITUTE",
+    "pastSimple": "RECONSTITUTED",
+    "pastParticiple": "RECONSTITUTED",
+    "translation": "RECONSTITUIR"
+  },
+  {
+    "infinitive": "RECONSTRUCT",
+    "pastSimple": "RECONSTRUCTED",
+    "pastParticiple": "RECONSTRUCTED",
+    "translation": "RECONSTRUIR"
+  },
+  {
+    "infinitive": "RECORD",
+    "pastSimple": "RECORDED",
+    "pastParticiple": "RECORDED",
+    "translation": "GRABAR"
+  },
+  {
+    "infinitive": "RECOUNT",
+    "pastSimple": "RECOUNTED",
+    "pastParticiple": "RECOUNTED",
+    "translation": "RECONTAR"
+  },
+  {
+    "infinitive": "RECOVER",
+    "pastSimple": "RECOVERED",
+    "pastParticiple": "RECOVERED",
+    "translation": "RECOBRARSE"
+  },
+  {
+    "infinitive": "RECREATE",
+    "pastSimple": "RECREATED",
+    "pastParticiple": "RECREATED",
+    "translation": "RECREARSE"
+  },
+  {
+    "infinitive": "RECRIMINATE",
+    "pastSimple": "RECRIMINATED",
+    "pastParticiple": "RECRIMINATED",
+    "translation": "RECRIMINAR"
+  },
+  {
+    "infinitive": "RECRUIT",
+    "pastSimple": "RECRUITED",
+    "pastParticiple": "RECRUITED",
+    "translation": "RECLUTAR"
+  },
+  {
+    "infinitive": "RECTIFY",
+    "pastSimple": "RECTIFIED",
+    "pastParticiple": "RECTIFIED",
+    "translation": "RECTIFICAR"
+  },
+  {
+    "infinitive": "RECUPERATE",
+    "pastSimple": "RECUPERATED",
+    "pastParticiple": "RECUPERATED",
+    "translation": "RECUPERAR"
+  },
+  {
+    "infinitive": "RECYCLE",
+    "pastSimple": "RECYCLED",
+    "pastParticiple": "RECYCLED",
+    "translation": "RECICLAR"
+  },
+  {
+    "infinitive": "REDOUBLE",
+    "pastSimple": "REDOUBLED",
+    "pastParticiple": "REDOUBLED",
+    "translation": "REDOBLAR"
+  },
+  {
+    "infinitive": "REDUCE",
+    "pastSimple": "REDUCED",
+    "pastParticiple": "REDUCED",
+    "translation": "REDUCIR"
+  },
+  {
+    "infinitive": "REELECT",
+    "pastSimple": "REELECTED",
+    "pastParticiple": "REELECTED",
+    "translation": "REELEGIR"
+  },
+  {
+    "infinitive": "REFILL",
+    "pastSimple": "REFILLED",
+    "pastParticiple": "REFILLED",
+    "translation": "LLENAR"
+  },
+  {
+    "infinitive": "REFINANCE",
+    "pastSimple": "REFINANCED",
+    "pastParticiple": "REFINANCED",
+    "translation": "REFINANCIAR"
+  },
+  {
+    "infinitive": "REFINE",
+    "pastSimple": "REFINED",
+    "pastParticiple": "REFINED",
+    "translation": "REFINAR"
+  },
+  {
+    "infinitive": "REFORM",
+    "pastSimple": "REFORMED",
+    "pastParticiple": "REFORMED",
+    "translation": "REFORMAR"
+  },
+  {
+    "infinitive": "REFRESH",
+    "pastSimple": "REFRESHED",
+    "pastParticiple": "REFRESHED",
+    "translation": "REFRESCARSE"
+  },
+  {
+    "infinitive": "REFRIGERATE",
+    "pastSimple": "REFRIGERATED",
+    "pastParticiple": "REFRIGERATED",
+    "translation": "REFRIGERAR"
+  },
+  {
+    "infinitive": "REFUSE",
+    "pastSimple": "REFUSED",
+    "pastParticiple": "REFUSED",
+    "translation": "REHUSAR"
+  },
+  {
+    "infinitive": "REGARD",
+    "pastSimple": "REGARDED",
+    "pastParticiple": "REGARDED",
+    "translation": "CONSIDERAR"
+  },
+  {
+    "infinitive": "REGISTER",
+    "pastSimple": "REGISTERED",
+    "pastParticiple": "REGISTERED",
+    "translation": "INSCRIBIRSE"
+  },
+  {
+    "infinitive": "REGRET",
+    "pastSimple": "REGRETTED",
+    "pastParticiple": "REGRETTED",
+    "translation": "ARREPENTIRSE"
+  },
+  {
+    "infinitive": "REGULATE",
+    "pastSimple": "REGULATED",
+    "pastParticiple": "REGULATED",
+    "translation": "REGULAR"
+  },
+  {
+    "infinitive": "REHABILITATE",
+    "pastSimple": "REHABILITATED",
+    "pastParticiple": "REHABILITATED",
+    "translation": "REHABILITAR"
+  },
+  {
+    "infinitive": "REHASH",
+    "pastSimple": "REHASHED",
+    "pastParticiple": "REHASHED",
+    "translation": "FUNDIR"
+  },
+  {
+    "infinitive": "REHEARSE",
+    "pastSimple": "REHEARSED",
+    "pastParticiple": "REHEARSED",
+    "translation": "ENSAYAR"
+  },
+  {
+    "infinitive": "REJECT",
+    "pastSimple": "REJECTED",
+    "pastParticiple": "REJECTED",
+    "translation": "REHUSAR"
+  },
+  {
+    "infinitive": "RELATE",
+    "pastSimple": "RELATED",
+    "pastParticiple": "RELATED",
+    "translation": "RELACIONAR"
+  },
+  {
+    "infinitive": "RELAX",
+    "pastSimple": "RELAXED",
+    "pastParticiple": "RELAXED",
+    "translation": "RELAJARSE"
+  },
+  {
+    "infinitive": "RELEASE",
+    "pastSimple": "RELEASED",
+    "pastParticiple": "RELEASED",
+    "translation": "SOLTAR/LIBERAR"
+  },
+  {
+    "infinitive": "RELIEVE",
+    "pastSimple": "RELIEVED",
+    "pastParticiple": "RELIEVED",
+    "translation": "ALIVIAR"
+  },
+  {
+    "infinitive": "RELOAD",
+    "pastSimple": "RELOADED",
+    "pastParticiple": "RELOADED",
+    "translation": "RECARGAR"
+  },
+  {
+    "infinitive": "REMAIN",
+    "pastSimple": "REMAINED",
+    "pastParticiple": "REMAINED",
+    "translation": "PERMANECER"
+  },
+  {
+    "infinitive": "REMEMBER",
+    "pastSimple": "REMEMBERED",
+    "pastParticiple": "REMEMBERED",
+    "translation": "RECORDAR"
+  },
+  {
+    "infinitive": "REMIND",
+    "pastSimple": "REMINDED",
+    "pastParticiple": "REMINDED",
+    "translation": "RECORDAR"
+  },
+  {
+    "infinitive": "RENEW",
+    "pastSimple": "RENEWED",
+    "pastParticiple": "RENEWED",
+    "translation": "RENOVAR"
+  },
+  {
+    "infinitive": "RENOUNCE",
+    "pastSimple": "RENOUNCED",
+    "pastParticiple": "RENOUNCED",
+    "translation": "RENUNCIAR"
+  },
+  {
+    "infinitive": "RENOVATE",
+    "pastSimple": "RENOVATED",
+    "pastParticiple": "RENOVATED",
+    "translation": "RENOVAR"
+  },
+  {
+    "infinitive": "RENT",
+    "pastSimple": "RENTED",
+    "pastParticiple": "RENTED",
+    "translation": "ALQUILAR"
+  },
+  {
+    "infinitive": "REPAIR",
+    "pastSimple": "REPAIRED",
+    "pastParticiple": "REPAIRED",
+    "translation": "REPARAR"
+  },
+  {
+    "infinitive": "REPEAL",
+    "pastSimple": "REPEALED",
+    "pastParticiple": "REPEALED",
+    "translation": "REVOCAR/ABOLIR"
+  },
+  {
+    "infinitive": "REPEAT",
+    "pastSimple": "REPEATED",
+    "pastParticiple": "REPEATED",
+    "translation": "REPETIR"
+  },
+  {
+    "infinitive": "REPEL",
+    "pastSimple": "REPELLED",
+    "pastParticiple": "REPELLED",
+    "translation": "RECHAZAR/REPELER"
+  },
+  {
+    "infinitive": "REPLACE",
+    "pastSimple": "REPLACED",
+    "pastParticiple": "REPLACED",
+    "translation": "REEMPLAZAR"
+  },
+  {
+    "infinitive": "REPORT",
+    "pastSimple": "REPORTED",
+    "pastParticiple": "REPORTED",
+    "translation": "REPORTAR"
+  },
+  {
+    "infinitive": "REPRESENT",
+    "pastSimple": "REPRESENTED",
+    "pastParticiple": "REPRESENTED",
+    "translation": "REPRESENTAR"
+  },
+  {
+    "infinitive": "REPRESS",
+    "pastSimple": "REPRESSED",
+    "pastParticiple": "REPRESSED",
+    "translation": "REPRIMIR"
+  },
+  {
+    "infinitive": "REPRODUCE",
+    "pastSimple": "REPRODUCED",
+    "pastParticiple": "REPRODUCED",
+    "translation": "REPRODUCIR"
+  },
+  {
+    "infinitive": "REPUDIATE",
+    "pastSimple": "REPUDIATED",
+    "pastParticiple": "REPUDIATED",
+    "translation": "REPUDIAR"
+  },
+  {
+    "infinitive": "REQUEST",
+    "pastSimple": "REQUESTED",
+    "pastParticiple": "REQUESTED",
+    "translation": "SOLICITAR"
+  },
+  {
+    "infinitive": "REQUIRE",
+    "pastSimple": "REQUIRED",
+    "pastParticiple": "REQUIRED",
+    "translation": "REQUERIR"
+  },
+  {
+    "infinitive": "RESIGN",
+    "pastSimple": "RESIGNED",
+    "pastParticiple": "RESIGNED",
+    "translation": "RENUNCIAR"
+  },
+  {
+    "infinitive": "RESIST",
+    "pastSimple": "RESISTED",
+    "pastParticiple": "RESISTED",
+    "translation": "RESISTIR"
+  },
+  {
+    "infinitive": "RESOLVE",
+    "pastSimple": "RESOLVED",
+    "pastParticiple": "RESOLVED",
+    "translation": "RESOLVER"
+  },
+  {
+    "infinitive": "RESPECT",
+    "pastSimple": "RESPECTED",
+    "pastParticiple": "RESPECTED",
+    "translation": "RESPETAR"
+  },
+  {
+    "infinitive": "RESPOND",
+    "pastSimple": "RESPONDED",
+    "pastParticiple": "RESPONDED",
+    "translation": "RESPONDER"
+  },
+  {
+    "infinitive": "REST",
+    "pastSimple": "RESTED",
+    "pastParticiple": "RESTED",
+    "translation": "DESCANSAR"
+  },
+  {
+    "infinitive": "RESTRICT",
+    "pastSimple": "RESTRICTED",
+    "pastParticiple": "RESTRICTED",
+    "translation": "RESTRINGIR"
+  },
+  {
+    "infinitive": "RESUME",
+    "pastSimple": "RESUMED",
+    "pastParticiple": "RESUMED",
+    "translation": "RESUMIR"
+  },
+  {
+    "infinitive": "RESUSCITATE",
+    "pastSimple": "RESUSCITATED",
+    "pastParticiple": "RESUSCITATED",
+    "translation": "RESUCITAR"
+  },
+  {
+    "infinitive": "RETAIL",
+    "pastSimple": "RETAILED",
+    "pastParticiple": "RETAILED",
+    "translation": "VENDER(MENOR)"
+  },
+  {
+    "infinitive": "RETAIN",
+    "pastSimple": "RETAINED",
+    "pastParticiple": "RETAINED",
+    "translation": "RETENER"
+  },
+  {
+    "infinitive": "RETIRE",
+    "pastSimple": "RETIRED",
+    "pastParticiple": "RETIRED",
+    "translation": "JUBILARSE"
+  },
+  {
+    "infinitive": "RETRACT",
+    "pastSimple": "RETRACTED",
+    "pastParticiple": "RETRACTED",
+    "translation": "RETRACTAR"
+  },
+  {
+    "infinitive": "RETREAT",
+    "pastSimple": "RETREATED",
+    "pastParticiple": "RETREATED",
+    "translation": "RETIRARSE"
+  },
+  {
+    "infinitive": "RETRIEVE",
+    "pastSimple": "RETRIEVED",
+    "pastParticiple": "RETRIEVED",
+    "translation": "RECUPERAR"
+  },
+  {
+    "infinitive": "RETURN",
+    "pastSimple": "RETURNED",
+    "pastParticiple": "RETURNED",
+    "translation": "REGRESAR"
+  },
+  {
+    "infinitive": "REVEAL",
+    "pastSimple": "REVEALED",
+    "pastParticiple": "REVEALED",
+    "translation": "REVELAR"
+  },
+  {
+    "infinitive": "REVENGE",
+    "pastSimple": "REVENGED",
+    "pastParticiple": "REVENGED",
+    "translation": "VENGARSE"
+  },
+  {
+    "infinitive": "REVIEW",
+    "pastSimple": "REVIEWED",
+    "pastParticiple": "REVIEWED",
+    "translation": "REVISAR"
+  },
+  {
+    "infinitive": "REVILE",
+    "pastSimple": "REVILED",
+    "pastParticiple": "REVILED",
+    "translation": "INJURIAR"
+  },
+  {
+    "infinitive": "REVISE",
+    "pastSimple": "REVISED",
+    "pastParticiple": "REVISED",
+    "translation": "REVISAR"
+  },
+  {
+    "infinitive": "REVOKE",
+    "pastSimple": "REVOKED",
+    "pastParticiple": "REVOKED",
+    "translation": "REVOCAR"
+  },
+  {
+    "infinitive": "REVOLT",
+    "pastSimple": "REVOLTED",
+    "pastParticiple": "REVOLTED",
+    "translation": "REBELARSE"
+  },
+  {
+    "infinitive": "REWARD",
+    "pastSimple": "REWARDED",
+    "pastParticiple": "REWARDED",
+    "translation": "PREMIAR"
+  },
+  {
+    "infinitive": "RHYME",
+    "pastSimple": "RHYMED",
+    "pastParticiple": "RHYMED",
+    "translation": "RIMAR"
+  },
+  {
+    "infinitive": "RINSE",
+    "pastSimple": "RINSED",
+    "pastParticiple": "RINSED",
+    "translation": "ENJUAGAR"
+  },
+  {
+    "infinitive": "RIPE",
+    "pastSimple": "RIPED",
+    "pastParticiple": "RIPED",
+    "translation": "MADURAR"
+  },
+  {
+    "infinitive": "ROAR",
+    "pastSimple": "ROARED",
+    "pastParticiple": "ROARED",
+    "translation": "RUGIR"
+  },
+  {
+    "infinitive": "ROAST",
+    "pastSimple": "ROASTED",
+    "pastParticiple": "ROASTED",
+    "translation": "ASAR"
+  },
+  {
+    "infinitive": "ROLL",
+    "pastSimple": "ROLLED",
+    "pastParticiple": "ROLLED",
+    "translation": "RODAR"
+  },
+  {
+    "infinitive": "ROOF",
+    "pastSimple": "ROOFED",
+    "pastParticiple": "ROOFED",
+    "translation": "TECHAR"
+  },
+  {
+    "infinitive": "ROW",
+    "pastSimple": "ROWED",
+    "pastParticiple": "ROWED",
+    "translation": "REMAR"
+  },
+  {
+    "infinitive": "RUIN",
+    "pastSimple": "RUINED",
+    "pastParticiple": "RUINED",
+    "translation": "ARRUINAR"
+  },
+  {
+    "infinitive": "RULE",
+    "pastSimple": "RULED",
+    "pastParticiple": "RULED",
+    "translation": "GOBERNAR/MANDAR"
+  },
+  {
+    "infinitive": "RUSH",
+    "pastSimple": "RUSHED",
+    "pastParticiple": "RUSHED",
+    "translation": "APRESURARSE"
+  },
+  {
+    "infinitive": "RUST",
+    "pastSimple": "RUSTED",
+    "pastParticiple": "RUSTED",
+    "translation": "OXIDARSE"
+  },
+  {
+    "infinitive": "READ",
+    "pastSimple": "READ",
+    "pastParticiple": "READ",
+    "translation": "LEER"
+  },
+  {
+    "infinitive": "RIDE",
+    "pastSimple": "RODE",
+    "pastParticiple": "RIDDEN",
+    "translation": "MONTAR(BIKE"
+  },
+  {
+    "infinitive": "RING",
+    "pastSimple": "RANG",
+    "pastParticiple": "RUNG",
+    "translation": "TIMBRAR"
+  },
+  {
+    "infinitive": "RISE",
+    "pastSimple": "ROSE",
+    "pastParticiple": "RISSEN",
+    "translation": "LEVANTAR"
+  },
+  {
+    "infinitive": "RIVE",
+    "pastSimple": "RIVED",
+    "pastParticiple": "RIVEN",
+    "translation": "RAJAR/HENDER"
+  },
+  {
+    "infinitive": "RUN",
+    "pastSimple": "RAN",
+    "pastParticiple": "RUN",
+    "translation": "CORRER"
+  },
+  {
+    "infinitive": "SADDLE",
+    "pastSimple": "SADDLED",
+    "pastParticiple": "SADLLED",
+    "translation": "ENSILLAR"
+  },
+  {
+    "infinitive": "SAVE",
+    "pastSimple": "SAVED",
+    "pastParticiple": "SAVED",
+    "translation": "SALVAR"
+  },
+  {
+    "infinitive": "SCAN",
+    "pastSimple": "SCANNED",
+    "pastParticiple": "SCANNED",
+    "translation": "EXPLORAR"
+  },
+  {
+    "infinitive": "SCHEDULE",
+    "pastSimple": "SCHEDULED",
+    "pastParticiple": "SCHEDULED",
+    "translation": "PROGRAMAR"
+  },
+  {
+    "infinitive": "SCORN",
+    "pastSimple": "SCORNED",
+    "pastParticiple": "SCORNED",
+    "translation": "DESPRECIAR"
+  },
+  {
+    "infinitive": "SCRABBLE",
+    "pastSimple": "SCRABBLED",
+    "pastParticiple": "SCRABBLED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "SCRAPE",
+    "pastSimple": "SCRAPED",
+    "pastParticiple": "SCRAPED",
+    "translation": "RASGU\u00d1AR"
+  },
+  {
+    "infinitive": "SCREAM",
+    "pastSimple": "SCREAMED",
+    "pastParticiple": "SCREAMED",
+    "translation": "GRITAR"
+  },
+  {
+    "infinitive": "SCRAPE",
+    "pastSimple": "SCRAPPED",
+    "pastParticiple": "SCRAPPED",
+    "translation": "RASPARSE/RAER"
+  },
+  {
+    "infinitive": "SCRATCH",
+    "pastSimple": "SCRATCHED",
+    "pastParticiple": "SCRATCHED",
+    "translation": "ARAÑAR/RASPAR"
+  },
+  {
+    "infinitive": "SCREW",
+    "pastSimple": "SCREWED",
+    "pastParticiple": "SCREWED",
+    "translation": "ATORNILLAR"
+  },
+  {
+    "infinitive": "SEAL",
+    "pastSimple": "SEALED",
+    "pastParticiple": "SEALED",
+    "translation": "SELLAR"
+  },
+  {
+    "infinitive": "SEAT",
+    "pastSimple": "SEATED",
+    "pastParticiple": "SEATED",
+    "translation": "SENTARSE"
+  },
+  {
+    "infinitive": "SECLUDE",
+    "pastSimple": "SECLUDED",
+    "pastParticiple": "SECLUDED",
+    "translation": "RECLUIR/AISLAR"
+  },
+  {
+    "infinitive": "SEDUCE",
+    "pastSimple": "SEDUCED",
+    "pastParticiple": "SEDUCED",
+    "translation": "SEDUCIR"
+  },
+  {
+    "infinitive": "SEED",
+    "pastSimple": "SEEDED",
+    "pastParticiple": "SEEDED",
+    "translation": "GRANAR"
+  },
+  {
+    "infinitive": "SEEM",
+    "pastSimple": "SEEMED",
+    "pastParticiple": "SEEMED",
+    "translation": "PARECER"
+  },
+  {
+    "infinitive": "SEEP",
+    "pastSimple": "SEEPED",
+    "pastParticiple": "SEEPED",
+    "translation": "FILTRARSE"
+  },
+  {
+    "infinitive": "SEGREGATE",
+    "pastSimple": "SEGREGATED",
+    "pastParticiple": "SEGREGATED",
+    "translation": "SEGREGAR"
+  },
+  {
+    "infinitive": "SEIZE",
+    "pastSimple": "SEIZED",
+    "pastParticiple": "SEIZED",
+    "translation": "AGARRAR"
+  },
+  {
+    "infinitive": "SELECT",
+    "pastSimple": "SELECTED",
+    "pastParticiple": "SELECTED",
+    "translation": "SELECCIONAR"
+  },
+  {
+    "infinitive": "SENSITIZED",
+    "pastSimple": "SENSITIZED",
+    "pastParticiple": "SENSITIZED",
+    "translation": "SENSIBILIZAR"
+  },
+  {
+    "infinitive": "SENTENCE",
+    "pastSimple": "SENTENCED",
+    "pastParticiple": "SENTENCED",
+    "translation": "SENTENCIAR"
+  },
+  {
+    "infinitive": "SEPARATE",
+    "pastSimple": "SEPARATED",
+    "pastParticiple": "SEPARATED",
+    "translation": "SEPARAR"
+  },
+  {
+    "infinitive": "SERVE",
+    "pastSimple": "SERVED",
+    "pastParticiple": "SERVED",
+    "translation": "SERVIR"
+  },
+  {
+    "infinitive": "SETTLE",
+    "pastSimple": "SETTLED",
+    "pastParticiple": "SETTLED",
+    "translation": "ESTABLECERSE"
+  },
+  {
+    "infinitive": "SHAPE",
+    "pastSimple": "SHAPED",
+    "pastParticiple": "SHAPED",
+    "translation": "MODELAR/IDEAR"
+  },
+  {
+    "infinitive": "SHARE",
+    "pastSimple": "SHARED",
+    "pastParticiple": "SHARED",
+    "translation": "COMPARTIR/PARTIR"
+  },
+  {
+    "infinitive": "SHARPEN",
+    "pastSimple": "SHARPENED",
+    "pastParticiple": "SHARPENED",
+    "translation": "AFILAR/AGUZAR"
+  },
+  {
+    "infinitive": "SHATTER",
+    "pastSimple": "SHATTERED",
+    "pastParticiple": "SHATTERED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "SHEET",
+    "pastSimple": "SHEETED",
+    "pastParticiple": "SHEETED",
+    "translation": "CUBRIR"
+  },
+  {
+    "infinitive": "SHELTER",
+    "pastSimple": "SHELTERED",
+    "pastParticiple": "SHELTERED",
+    "translation": "OCULTARSE"
+  },
+  {
+    "infinitive": "SHELVE",
+    "pastSimple": "SHELVED",
+    "pastParticiple": "SHELVED",
+    "translation": "ARRINCONAR"
+  },
+  {
+    "infinitive": "SHIELD",
+    "pastSimple": "SHIELDED",
+    "pastParticiple": "SHIELDED",
+    "translation": "ESCONDER/AMPARAR"
+  },
+  {
+    "infinitive": "SHIFT",
+    "pastSimple": "SHIFTED",
+    "pastParticiple": "SHIFTED",
+    "translation": "TRANSFERIR/CAMBIAR"
+  },
+  {
+    "infinitive": "SHINE",
+    "pastSimple": "SHINED",
+    "pastParticiple": "SHINED",
+    "translation": "BRILLAR/RELUCIR"
+  },
+  {
+    "infinitive": "SHIP",
+    "pastSimple": "SHIPPED",
+    "pastParticiple": "SHIPPED",
+    "translation": "EMBARCAR"
+  },
+  {
+    "infinitive": "SHIVER",
+    "pastSimple": "SHIVERED",
+    "pastParticiple": "SHIVED",
+    "translation": "TEMBLAR(FRIO)"
+  },
+  {
+    "infinitive": "SHOCK",
+    "pastSimple": "SHOCKED",
+    "pastParticiple": "SHOCKED",
+    "translation": "SOBRESALTAR"
+  },
+  {
+    "infinitive": "SHOUT",
+    "pastSimple": "SHOUTED",
+    "pastParticiple": "SHOUTED",
+    "translation": "GRITAR"
+  },
+  {
+    "infinitive": "SHOVE",
+    "pastSimple": "SHOVED",
+    "pastParticiple": "SHOVED",
+    "translation": "EMPUJAR"
+  },
+  {
+    "infinitive": "SHOVEL",
+    "pastSimple": "SHOVELLED",
+    "pastParticiple": "SHOVELLED",
+    "translation": "PALEAR"
+  },
+  {
+    "infinitive": "SHOW",
+    "pastSimple": "SHOWED",
+    "pastParticiple": "SHOWED",
+    "translation": "MOSTRAR/ENSEÑAR"
+  },
+  {
+    "infinitive": "SHRUG",
+    "pastSimple": "SHRUGGED",
+    "pastParticiple": "SHRUGGED",
+    "translation": "ENCOGERSE"
+  },
+  {
+    "infinitive": "SHUFFLE",
+    "pastSimple": "SHUFFLED",
+    "pastParticiple": "SHUFFLED",
+    "translation": "BARAJAR/MEZCLAR"
+  },
+  {
+    "infinitive": "SIGH",
+    "pastSimple": "SIGHED",
+    "pastParticiple": "SIGHED",
+    "translation": "SUSPIRAR"
+  },
+  {
+    "infinitive": "SIGN",
+    "pastSimple": "SIGNED",
+    "pastParticiple": "SIGNED",
+    "translation": "FIRMAR"
+  },
+  {
+    "infinitive": "SIGNAL",
+    "pastSimple": "SIGNALED",
+    "pastParticiple": "SIGNALED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "SIN",
+    "pastSimple": "SINNED",
+    "pastParticiple": "SINNED",
+    "translation": "PECAR"
+  },
+  {
+    "infinitive": "SITE",
+    "pastSimple": "SITED",
+    "pastParticiple": "SITED",
+    "translation": "LOCALIZAR/SITUAR"
+  },
+  {
+    "infinitive": "SKATE",
+    "pastSimple": "SKATED",
+    "pastParticiple": "SKATED",
+    "translation": "PATINAR"
+  },
+  {
+    "infinitive": "SKECTH",
+    "pastSimple": "SKECTHED",
+    "pastParticiple": "SKECTHED",
+    "translation": "ESBOZAR(BOSQUEJO)"
+  },
+  {
+    "infinitive": "SKI",
+    "pastSimple": "SKIED",
+    "pastParticiple": "SKIED",
+    "translation": "ESQUIAR"
+  },
+  {
+    "infinitive": "SKID",
+    "pastSimple": "SKIDDED",
+    "pastParticiple": "SKIDDED",
+    "translation": "PATINAR"
+  },
+  {
+    "infinitive": "SKIM",
+    "pastSimple": "SKIMMED",
+    "pastParticiple": "SKIMMED",
+    "translation": "DESCREMAR"
+  },
+  {
+    "infinitive": "SKIMP",
+    "pastSimple": "SKIMPED",
+    "pastParticiple": "SKIMPED",
+    "translation": "ESCATIMAR"
+  },
+  {
+    "infinitive": "SKIN",
+    "pastSimple": "SKINNED",
+    "pastParticiple": "SKINNED",
+    "translation": "PELAR/DESPELLEJAR"
+  },
+  {
+    "infinitive": "SKIP",
+    "pastSimple": "SKIPPED",
+    "pastParticiple": "SKIPPED",
+    "translation": "OMITIR/SALTAR"
+  },
+  {
+    "infinitive": "SLAM",
+    "pastSimple": "SLAMMED",
+    "pastParticiple": "SLAMMED",
+    "translation": "TIRAR(DOOR)GOLPEAR"
+  },
+  {
+    "infinitive": "SLAP",
+    "pastSimple": "SLAPPED",
+    "pastParticiple": "SLAPPED",
+    "translation": "ABOFETEAR"
+  },
+  {
+    "infinitive": "SLASH",
+    "pastSimple": "SLASHED",
+    "pastParticiple": "SLASHED",
+    "translation": "ACUCHILLAR"
+  },
+  {
+    "infinitive": "SLIP",
+    "pastSimple": "SLIPPED",
+    "pastParticiple": "SLIPPED",
+    "translation": "RESBALAR"
+  },
+  {
+    "infinitive": "SLOUCH",
+    "pastSimple": "SLOUCHED",
+    "pastParticiple": "SLOUCHED",
+    "translation": "IR"
+  },
+  {
+    "infinitive": "SLOW",
+    "pastSimple": "DOWN",
+    "pastParticiple": "SLOWED",
+    "translation": "SLOWED"
+  },
+  {
+    "infinitive": "SMASH",
+    "pastSimple": "SMASHED",
+    "pastParticiple": "SMASHED",
+    "translation": "APORREAR/TRITURAR"
+  },
+  {
+    "infinitive": "SMUGGLE",
+    "pastSimple": "SMUGGLED",
+    "pastParticiple": "SMUGGLED",
+    "translation": "CONTRABANDEAR"
+  },
+  {
+    "infinitive": "SNAP",
+    "pastSimple": "SNAPPED",
+    "pastParticiple": "SNAPPED",
+    "translation": "SONAR(DEDOS)CERRAR"
+  },
+  {
+    "infinitive": "SNEAK",
+    "pastSimple": "SNEAKED",
+    "pastParticiple": "SNEAKED",
+    "translation": "ANDAR"
+  },
+  {
+    "infinitive": "SNEEZE",
+    "pastSimple": "SNEEZED",
+    "pastParticiple": "SNEEZED",
+    "translation": "ESTORNUDAR"
+  },
+  {
+    "infinitive": "SNIFF",
+    "pastSimple": "SNIFFED",
+    "pastParticiple": "SNIFFED",
+    "translation": "OLFATEAR"
+  },
+  {
+    "infinitive": "SNIVEL",
+    "pastSimple": "SNIVELLED",
+    "pastParticiple": "SNIVELLED",
+    "translation": "LLORIQUEAR"
+  },
+  {
+    "infinitive": "SNOW",
+    "pastSimple": "SNOWED",
+    "pastParticiple": "SNOWED",
+    "translation": "NEVAR"
+  },
+  {
+    "infinitive": "SOLDER",
+    "pastSimple": "SOLDERED",
+    "pastParticiple": "SOLDERED",
+    "translation": "SOLDAR"
+  },
+  {
+    "infinitive": "SOLVE",
+    "pastSimple": "SOLVED",
+    "pastParticiple": "SOLVED",
+    "translation": "RESOLVER"
+  },
+  {
+    "infinitive": "SOUND",
+    "pastSimple": "SOUNDED",
+    "pastParticiple": "SOUNDED",
+    "translation": "SONAR"
+  },
+  {
+    "infinitive": "SOUSE",
+    "pastSimple": "SOUSED",
+    "pastParticiple": "SOUSED",
+    "translation": "ESCABECHAR"
+  },
+  {
+    "infinitive": "SPANK",
+    "pastSimple": "SPANKED",
+    "pastParticiple": "SPANKED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "SPARK",
+    "pastSimple": "SPARKED",
+    "pastParticiple": "SPARKED",
+    "translation": "ECHAR"
+  },
+  {
+    "infinitive": "SPAY",
+    "pastSimple": "SPAYED",
+    "pastParticiple": "SPAYED",
+    "translation": "CASTRAR(HEMBRA)"
+  },
+  {
+    "infinitive": "SPECULATE",
+    "pastSimple": "SPECULATED",
+    "pastParticiple": "SPECULATED",
+    "translation": "ESPECULAR"
+  },
+  {
+    "infinitive": "SPICE",
+    "pastSimple": "SPICED",
+    "pastParticiple": "SPICED",
+    "translation": "CONDIMENTAR/SAZONAR"
+  },
+  {
+    "infinitive": "SPIRT",
+    "pastSimple": "SPIRTED",
+    "pastParticiple": "SPIRTED",
+    "translation": "SALIR"
+  },
+  {
+    "infinitive": "SPITE",
+    "pastSimple": "SPITED",
+    "pastParticiple": "SPITED",
+    "translation": "IRRITAR"
+  },
+  {
+    "infinitive": "SPLASH",
+    "pastSimple": "SPLASHED",
+    "pastParticiple": "SPLASHED",
+    "translation": "SALPICAR(LIQUIDO)"
+  },
+  {
+    "infinitive": "SPLICE",
+    "pastSimple": "SPLICED",
+    "pastParticiple": "SPLICED",
+    "translation": "EMPALMAR/UNIR"
+  },
+  {
+    "infinitive": "SPRAIN",
+    "pastSimple": "SPRAINED",
+    "pastParticiple": "SPRAINED",
+    "translation": "TORCERSE"
+  },
+  {
+    "infinitive": "SPRAWL",
+    "pastSimple": "SPRAWLED",
+    "pastParticiple": "SPRAWLED",
+    "translation": "ESTIRAR"
+  },
+  {
+    "infinitive": "SPRAY",
+    "pastSimple": "SPRAYED",
+    "pastParticiple": "SPRAYED",
+    "translation": "ROCIAR"
+  },
+  {
+    "infinitive": "SPRINKLE",
+    "pastSimple": "SPRINKLED",
+    "pastParticiple": "SPRINKLED",
+    "translation": "ESPARCIR/ROCIAR"
+  },
+  {
+    "infinitive": "SPROUT",
+    "pastSimple": "SPROUTED",
+    "pastParticiple": "SPROUTED",
+    "translation": "RETOÑAR/GERMINAR"
+  },
+  {
+    "infinitive": "SPUR",
+    "pastSimple": "SPURED",
+    "pastParticiple": "SPURED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "SPURN",
+    "pastSimple": "SPURNED",
+    "pastParticiple": "SPURNED",
+    "translation": "MENOSPRECIAR"
+  },
+  {
+    "infinitive": "SPY",
+    "pastSimple": "SPIED",
+    "pastParticiple": "SPIED",
+    "translation": "ESPIAR"
+  },
+  {
+    "infinitive": "SQUARE",
+    "pastSimple": "SQUARED",
+    "pastParticiple": "SQUARED",
+    "translation": "CUADRAR/AJUSTAR"
+  },
+  {
+    "infinitive": "SQUEEZE",
+    "pastSimple": "SQUEEZED",
+    "pastParticiple": "SQUEEZED",
+    "translation": "EXPRIMIR"
+  },
+  {
+    "infinitive": "SQUIRM",
+    "pastSimple": "SQUIRMED",
+    "pastParticiple": "SQUIRMED",
+    "translation": "RETORCERSE"
+  },
+  {
+    "infinitive": "SQUIRT",
+    "pastSimple": "SQUIRTED",
+    "pastParticiple": "SQUIRTED",
+    "translation": "SALIR"
+  },
+  {
+    "infinitive": "STABILIZE",
+    "pastSimple": "STABILIZED",
+    "pastParticiple": "STABILIZED",
+    "translation": "ESTABILIZAR"
+  },
+  {
+    "infinitive": "STACK",
+    "pastSimple": "STACKED",
+    "pastParticiple": "STACKED",
+    "translation": "APILAR/AMONTONAR"
+  },
+  {
+    "infinitive": "STAFF",
+    "pastSimple": "STAFFED",
+    "pastParticiple": "STAFFED",
+    "translation": "DOTAR"
+  },
+  {
+    "infinitive": "STAGE",
+    "pastSimple": "STAGED",
+    "pastParticiple": "STAGED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "STAIN",
+    "pastSimple": "STAINED",
+    "pastParticiple": "STAINED",
+    "translation": "MANCHAR/TEÑIR"
+  },
+  {
+    "infinitive": "STAMP",
+    "pastSimple": "STAMPED",
+    "pastParticiple": "STAMPED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "STARCH",
+    "pastSimple": "STARCHED",
+    "pastParticiple": "STARCHED",
+    "translation": "ALMIDONAR"
+  },
+  {
+    "infinitive": "STARE",
+    "pastSimple": "AT",
+    "pastParticiple": "STARED",
+    "translation": "STARED"
+  },
+  {
+    "infinitive": "START",
+    "pastSimple": "STARTED",
+    "pastParticiple": "STARTED",
+    "translation": "EMPEZAR/COMENZAR"
+  },
+  {
+    "infinitive": "STARVE",
+    "pastSimple": "STARVED",
+    "pastParticiple": "STARVED",
+    "translation": "MORIR"
+  },
+  {
+    "infinitive": "STATE",
+    "pastSimple": "STATED",
+    "pastParticiple": "STATED",
+    "translation": "DECLARAR/EXPRESAR"
+  },
+  {
+    "infinitive": "STATION",
+    "pastSimple": "STATIONED",
+    "pastParticiple": "STATIONED",
+    "translation": "SITUAR/COLOCAR"
+  },
+  {
+    "infinitive": "STAY",
+    "pastSimple": "STAYED",
+    "pastParticiple": "STAYED",
+    "translation": "QUEDARSE"
+  },
+  {
+    "infinitive": "STEAM",
+    "pastSimple": "STEAMED",
+    "pastParticiple": "STEAMED",
+    "translation": "HUMEAR"
+  },
+  {
+    "infinitive": "STEEP",
+    "pastSimple": "STEEPED",
+    "pastParticiple": "STEEPED",
+    "translation": "REMOJAR"
+  },
+  {
+    "infinitive": "STEW",
+    "pastSimple": "STEWED",
+    "pastParticiple": "STEWED",
+    "translation": "ESTOFAR/GUISAR"
+  },
+  {
+    "infinitive": "STITCH",
+    "pastSimple": "STITCHED",
+    "pastParticiple": "STITCHED",
+    "translation": "COSER(DE"
+  },
+  {
+    "infinitive": "STONE",
+    "pastSimple": "STONED",
+    "pastParticiple": "STONED",
+    "translation": "EMPEDRAR/APEDREAR"
+  },
+  {
+    "infinitive": "STOP",
+    "pastSimple": "STOPPED",
+    "pastParticiple": "STOPPED",
+    "translation": "PARAR/DETENER"
+  },
+  {
+    "infinitive": "STORAGE",
+    "pastSimple": "STORAGED",
+    "pastParticiple": "STORAGED",
+    "translation": "ALMACENAR"
+  },
+  {
+    "infinitive": "STRAIN",
+    "pastSimple": "STRAINED",
+    "pastParticiple": "STRAINED",
+    "translation": "TENSAR/ESTIRAR"
+  },
+  {
+    "infinitive": "STRANGLE",
+    "pastSimple": "STRANGLED",
+    "pastParticiple": "STRANGLED",
+    "translation": "ESTRANGULAR"
+  },
+  {
+    "infinitive": "STRUGGLE",
+    "pastSimple": "STRUGGLED",
+    "pastParticiple": "STRUGGLED",
+    "translation": "LUCHAR/ESFORZARSE"
+  },
+  {
+    "infinitive": "STUDY",
+    "pastSimple": "STUDIED",
+    "pastParticiple": "STUDIED",
+    "translation": "ESTUDIAR"
+  },
+  {
+    "infinitive": "SUBDUE",
+    "pastSimple": "SUBDUED",
+    "pastParticiple": "SUBDUED",
+    "translation": "DOMINAR/VENCER"
+  },
+  {
+    "infinitive": "SUBLEASE",
+    "pastSimple": "SUBLEASED",
+    "pastParticiple": "SUBLEASED",
+    "translation": "SUBARRENDAR"
+  },
+  {
+    "infinitive": "SUBLIMATE",
+    "pastSimple": "SUBLIMATED",
+    "pastParticiple": "SUBLIMATED",
+    "translation": "SUBLIMAR"
+  },
+  {
+    "infinitive": "SUBMERGE",
+    "pastSimple": "SUBMERGED",
+    "pastParticiple": "SUBMERGED",
+    "translation": "SUMERGIRSE"
+  },
+  {
+    "infinitive": "SUBORN",
+    "pastSimple": "SUBORNED",
+    "pastParticiple": "SUBORNED",
+    "translation": "SOBORNAR"
+  },
+  {
+    "infinitive": "SUBSCRIBE",
+    "pastSimple": "SUBSCRIBED",
+    "pastParticiple": "SUBSCRIBED",
+    "translation": "SUSCRIBIR"
+  },
+  {
+    "infinitive": "SUBSIDIZE",
+    "pastSimple": "SUBSIDIZED",
+    "pastParticiple": "SUBSIDIZED",
+    "translation": "SUBSIDIAR"
+  },
+  {
+    "infinitive": "SUBSTITUTE",
+    "pastSimple": "SUBSIDIZED",
+    "pastParticiple": "SUBSIDIZED",
+    "translation": "SUSTITUIR"
+  },
+  {
+    "infinitive": "SUBTRACT",
+    "pastSimple": "SUBTRACTED",
+    "pastParticiple": "SUBTRACTED",
+    "translation": "SUSTRER"
+  },
+  {
+    "infinitive": "SUCCEED",
+    "pastSimple": "SUCCEEDED",
+    "pastParticiple": "SUCCEEDED",
+    "translation": "TENER"
+  },
+  {
+    "infinitive": "SUCK",
+    "pastSimple": "SUCKED",
+    "pastParticiple": "SUCKED",
+    "translation": "CHUPAR/MAMAR"
+  },
+  {
+    "infinitive": "SUE",
+    "pastSimple": "SUED",
+    "pastParticiple": "SUED",
+    "translation": "DEMANDAR"
+  },
+  {
+    "infinitive": "SUFFER",
+    "pastSimple": "SUFFERED",
+    "pastParticiple": "SUFFERED",
+    "translation": "SUFRIR"
+  },
+  {
+    "infinitive": "SUFFOCATE",
+    "pastSimple": "SUFFOCATED",
+    "pastParticiple": "SUFFOCATED",
+    "translation": "ASFIXIARSE"
+  },
+  {
+    "infinitive": "SUGGEST",
+    "pastSimple": "SUGGESTED",
+    "pastParticiple": "SUGGESTED",
+    "translation": "SUGERIR"
+  },
+  {
+    "infinitive": "SUIT",
+    "pastSimple": "SUITED",
+    "pastParticiple": "SUITED",
+    "translation": "SATISFACER/CONVENIR"
+  },
+  {
+    "infinitive": "SUPERVISE",
+    "pastSimple": "SUPERVISED",
+    "pastParticiple": "SUPERVISED",
+    "translation": "SUPERVISAR"
+  },
+  {
+    "infinitive": "SUPPLANT",
+    "pastSimple": "SUPPLANTED",
+    "pastParticiple": "SUPPLANTED",
+    "translation": "SUPLANTAR"
+  },
+  {
+    "infinitive": "SUPLLY",
+    "pastSimple": "SUPPLIED",
+    "pastParticiple": "SUPPLIED",
+    "translation": "SUPLIR/SUMINISTRAR"
+  },
+  {
+    "infinitive": "SUPPORT",
+    "pastSimple": "SUPPORTED",
+    "pastParticiple": "SUPPORTED",
+    "translation": "APOYAR/SOSTENER"
+  },
+  {
+    "infinitive": "SUPPOSE",
+    "pastSimple": "SUPPOSED",
+    "pastParticiple": "SUPPOSED",
+    "translation": "SUPONER"
+  },
+  {
+    "infinitive": "SUPPRESS",
+    "pastSimple": "SUPPRESSED",
+    "pastParticiple": "SUPPRESSED",
+    "translation": "SUPRIMIR"
+  },
+  {
+    "infinitive": "SURNAME",
+    "pastSimple": "SURNAMED",
+    "pastParticiple": "SURNAMED",
+    "translation": "APELLIDAR"
+  },
+  {
+    "infinitive": "SURPRISE",
+    "pastSimple": "SURPRISED",
+    "pastParticiple": "SURPRISED",
+    "translation": "SORPRENDER"
+  },
+  {
+    "infinitive": "SURRENDER",
+    "pastSimple": "SURRENDERED",
+    "pastParticiple": "SURRENDERED",
+    "translation": "RENDIRSE"
+  },
+  {
+    "infinitive": "SURROUND",
+    "pastSimple": "SURROUNDED",
+    "pastParticiple": "SURROUNDED",
+    "translation": "RODEAR"
+  },
+  {
+    "infinitive": "SURVIVE",
+    "pastSimple": "SURVIVED",
+    "pastParticiple": "SURVIVED",
+    "translation": "SOBREVIVIR"
+  },
+  {
+    "infinitive": "SUSPECT",
+    "pastSimple": "SUSPECTED",
+    "pastParticiple": "SUSPECTED",
+    "translation": "SOSPECHAR"
+  },
+  {
+    "infinitive": "SUSTAIN",
+    "pastSimple": "SUSTAINED",
+    "pastParticiple": "SUSTAINED",
+    "translation": "SOSTENER"
+  },
+  {
+    "infinitive": "SWALLOW",
+    "pastSimple": "SWALLOWED",
+    "pastParticiple": "SWALLOWED",
+    "translation": "TRAGAR/DEGLUTIR"
+  },
+  {
+    "infinitive": "SWAP",
+    "pastSimple": "SWAPPED",
+    "pastParticiple": "SWAPPED",
+    "translation": "INTERCAMBIAR"
+  },
+  {
+    "infinitive": "SWARM",
+    "pastSimple": "SWARMED",
+    "pastParticiple": "SWARMED",
+    "translation": "TREPAR(POR)"
+  },
+  {
+    "infinitive": "SWASH",
+    "pastSimple": "SWASHED",
+    "pastParticiple": "SWASHED",
+    "translation": "CHAPOTEAR"
+  },
+  {
+    "infinitive": "SWEAT",
+    "pastSimple": "SWEATED",
+    "pastParticiple": "SWEATED",
+    "translation": "SUDAR"
+  },
+  {
+    "infinitive": "SAW",
+    "pastSimple": "SAWED",
+    "pastParticiple": "SAWED/SAWN",
+    "translation": "ASERRAR"
+  },
+  {
+    "infinitive": "SAY",
+    "pastSimple": "SAID",
+    "pastParticiple": "SAID",
+    "translation": "DECIR"
+  },
+  {
+    "infinitive": "SEE",
+    "pastSimple": "SAW",
+    "pastParticiple": "SEEN",
+    "translation": "VER"
+  },
+  {
+    "infinitive": "SEEK",
+    "pastSimple": "SOUGHT",
+    "pastParticiple": "SOUGHT",
+    "translation": "BUSCAR"
+  },
+  {
+    "infinitive": "SELL",
+    "pastSimple": "SOLD",
+    "pastParticiple": "SOLD",
+    "translation": "VENDER"
+  },
+  {
+    "infinitive": "SEND",
+    "pastSimple": "SENT",
+    "pastParticiple": "SENT",
+    "translation": "ENVIAR"
+  },
+  {
+    "infinitive": "SET",
+    "pastSimple": "SET",
+    "pastParticiple": "SET",
+    "translation": "COLOCAR/PONER"
+  },
+  {
+    "infinitive": "SEW",
+    "pastSimple": "SEWED",
+    "pastParticiple": "SEWED",
+    "translation": "COSER"
+  },
+  {
+    "infinitive": "SEW",
+    "pastSimple": "UP",
+    "pastParticiple": "SEWED",
+    "translation": "UP"
+  },
+  {
+    "infinitive": "SHAKE",
+    "pastSimple": "SHOOK",
+    "pastParticiple": "SHAKEN",
+    "translation": "BATIR/SACUDIR"
+  },
+  {
+    "infinitive": "SHAKE",
+    "pastSimple": "HANDS",
+    "pastParticiple": "SHAKE",
+    "translation": "HANDS"
+  },
+  {
+    "infinitive": "SHAVE",
+    "pastSimple": "SHAVED",
+    "pastParticiple": "SHAVED",
+    "translation": "AFEITARSE"
+  },
+  {
+    "infinitive": "SHEAR",
+    "pastSimple": "SHORE",
+    "pastParticiple": "SHORN",
+    "translation": "CORTAR(PELO)"
+  },
+  {
+    "infinitive": "SHED",
+    "pastSimple": "SHED",
+    "pastParticiple": "SHED",
+    "translation": "DERRAMAR(SANGRE,LAGRIMAS"
+  },
+  {
+    "infinitive": "SHINE",
+    "pastSimple": "SHONE",
+    "pastParticiple": "SHONE",
+    "translation": "BRILLAR"
+  },
+  {
+    "infinitive": "SHOE",
+    "pastSimple": "SHOD",
+    "pastParticiple": "SHOD",
+    "translation": "CALZARSE"
+  },
+  {
+    "infinitive": "SHOOT",
+    "pastSimple": "SHOT",
+    "pastParticiple": "SHOT",
+    "translation": "DISPARAR"
+  },
+  {
+    "infinitive": "SHOW",
+    "pastSimple": "SHOWED",
+    "pastParticiple": "SHOWN",
+    "translation": "PRESENTAR"
+  },
+  {
+    "infinitive": "SHRED",
+    "pastSimple": "SHREDED",
+    "pastParticiple": "SHREDED",
+    "translation": "DESMENUZAR/PELAR(ORANGE)"
+  },
+  {
+    "infinitive": "SHRINK",
+    "pastSimple": "SHRANK",
+    "pastParticiple": "SHRUNK",
+    "translation": "ENCOGERSE/ARRUGAR"
+  },
+  {
+    "infinitive": "SHRIVE",
+    "pastSimple": "SHROVE/...D",
+    "pastParticiple": "SHRIVEN/..D",
+    "translation": "CONFESAR"
+  },
+  {
+    "infinitive": "SHUT",
+    "pastSimple": "SHUT",
+    "pastParticiple": "SHUT",
+    "translation": "CERRAR"
+  },
+  {
+    "infinitive": "SING",
+    "pastSimple": "SANG",
+    "pastParticiple": "SUNG",
+    "translation": "CANTAR"
+  },
+  {
+    "infinitive": "SINK",
+    "pastSimple": "SANK",
+    "pastParticiple": "SUNK",
+    "translation": "HUNDIR"
+  },
+  {
+    "infinitive": "SIT",
+    "pastSimple": "SIT",
+    "pastParticiple": "SIT",
+    "translation": "SENTARSE"
+  },
+  {
+    "infinitive": "SLAY",
+    "pastSimple": "SLEW",
+    "pastParticiple": "SLAIN",
+    "translation": "ASESINAR/MATAR"
+  },
+  {
+    "infinitive": "SLEEP",
+    "pastSimple": "SLEPT",
+    "pastParticiple": "SLEPT",
+    "translation": "DORMIR"
+  },
+  {
+    "infinitive": "SLIDE",
+    "pastSimple": "SLID",
+    "pastParticiple": "SLID",
+    "translation": "DESLIZAR"
+  },
+  {
+    "infinitive": "SLING",
+    "pastSimple": "SLUNG",
+    "pastParticiple": "SLUNG",
+    "translation": "LANZAR/ARROJAR"
+  },
+  {
+    "infinitive": "SLINK",
+    "pastSimple": "SLUNK",
+    "pastParticiple": "SLUNK",
+    "translation": "ABORTAR"
+  },
+  {
+    "infinitive": "SLIT",
+    "pastSimple": "SLIT",
+    "pastParticiple": "SLIT",
+    "translation": "RAJARSE/HENDERSE"
+  },
+  {
+    "infinitive": "SMELL",
+    "pastSimple": "SMELT",
+    "pastParticiple": "SMELT",
+    "translation": "OLER"
+  },
+  {
+    "infinitive": "SOW",
+    "pastSimple": "SOWED",
+    "pastParticiple": "SOWN",
+    "translation": "SEMBRAR(CONCIENCIA)"
+  },
+  {
+    "infinitive": "SPEAK",
+    "pastSimple": "SPOKE",
+    "pastParticiple": "SPOKEN",
+    "translation": "HABLAR"
+  },
+  {
+    "infinitive": "SPEED",
+    "pastSimple": "SPEEDED",
+    "pastParticiple": "SPPEDED",
+    "translation": "HANDAR"
+  },
+  {
+    "infinitive": "SPELL",
+    "pastSimple": "SPELT",
+    "pastParticiple": "SPELT",
+    "translation": "DELETREAR"
+  },
+  {
+    "infinitive": "SPEND",
+    "pastSimple": "SPENT",
+    "pastParticiple": "SPENT",
+    "translation": "GASTAR(TIEMPO,DINERO)"
+  },
+  {
+    "infinitive": "SPILL",
+    "pastSimple": "SPILT",
+    "pastParticiple": "SPILT",
+    "translation": "DERRAMAR/VERTER"
+  },
+  {
+    "infinitive": "SPIN",
+    "pastSimple": "SPUN/SPAN",
+    "pastParticiple": "SPUN",
+    "translation": "GIRAR"
+  },
+  {
+    "infinitive": "SPIT",
+    "pastSimple": "SPAT",
+    "pastParticiple": "SPAT",
+    "translation": "ESCUPIR"
+  },
+  {
+    "infinitive": "SPLIT",
+    "pastSimple": "SPLIT",
+    "pastParticiple": "SPLIT",
+    "translation": "SEPARAR/PARTIR"
+  },
+  {
+    "infinitive": "SPOIL",
+    "pastSimple": "SPOILED",
+    "pastParticiple": "SPOILED",
+    "translation": "ARRUINAR/ESTROPEAR"
+  },
+  {
+    "infinitive": "SPREAD",
+    "pastSimple": "SPREAD",
+    "pastParticiple": "SPREAD",
+    "translation": "REGAR(NOTICIAS)"
+  },
+  {
+    "infinitive": "SPRING",
+    "pastSimple": "SPRANG",
+    "pastParticiple": "SPRUNG",
+    "translation": "BRINCAR"
+  },
+  {
+    "infinitive": "STAND",
+    "pastSimple": "STOOD",
+    "pastParticiple": "STOOD",
+    "translation": "PARARSE"
+  },
+  {
+    "infinitive": "STEAL",
+    "pastSimple": "STOLE",
+    "pastParticiple": "STOLEN",
+    "translation": "ROBAR/HURTAR"
+  },
+  {
+    "infinitive": "STICK",
+    "pastSimple": "STUCK",
+    "pastParticiple": "STUCK",
+    "translation": "PAGAR/ADHERIR"
+  },
+  {
+    "infinitive": "STING",
+    "pastSimple": "STUNG",
+    "pastParticiple": "STUNG",
+    "translation": "PINCHAR/PICAR(ANIMAL"
+  },
+  {
+    "infinitive": "STINK",
+    "pastSimple": "STANK",
+    "pastParticiple": "STUNK",
+    "translation": "OLER"
+  },
+  {
+    "infinitive": "STREW",
+    "pastSimple": "STREWED",
+    "pastParticiple": "STREWN",
+    "translation": "ESPARCIR/DESPARRAMAR"
+  },
+  {
+    "infinitive": "STRIDE",
+    "pastSimple": "STRODE",
+    "pastParticiple": "STRIDDEN",
+    "translation": "ANDAR"
+  },
+  {
+    "infinitive": "STRIKE",
+    "pastSimple": "STRUCK",
+    "pastParticiple": "STRUCK",
+    "translation": "GOLPEAR/PEGAR"
+  },
+  {
+    "infinitive": "STRING",
+    "pastSimple": "STRUNG",
+    "pastParticiple": "STRUNG",
+    "translation": "ATAR/AMARRAR"
+  },
+  {
+    "infinitive": "STRIVE",
+    "pastSimple": "STROVE",
+    "pastParticiple": "STRIVEN",
+    "translation": "ESFORZARSE"
+  },
+  {
+    "infinitive": "SWEAR",
+    "pastSimple": "SWORE",
+    "pastParticiple": "SWORN",
+    "translation": "JURAR"
+  },
+  {
+    "infinitive": "SWEEP",
+    "pastSimple": "SWEPT",
+    "pastParticiple": "SWEPT",
+    "translation": "BARRER"
+  },
+  {
+    "infinitive": "SWELL",
+    "pastSimple": "SWELLED",
+    "pastParticiple": "SWELLED",
+    "translation": "HINCHAR"
+  },
+  {
+    "infinitive": "SWIM",
+    "pastSimple": "SWAM",
+    "pastParticiple": "SWAM",
+    "translation": "NADAR"
+  },
+  {
+    "infinitive": "SWING",
+    "pastSimple": "SWANG",
+    "pastParticiple": "SWUNG",
+    "translation": "BALANCEAR/MECER"
+  },
+  {
+    "infinitive": "TABLE",
+    "pastSimple": "TABLED",
+    "pastParticiple": "TABLED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "TABULATE",
+    "pastSimple": "TABULATED",
+    "pastParticiple": "TABULATED",
+    "translation": "TABULAR"
+  },
+  {
+    "infinitive": "TACK",
+    "pastSimple": "TACKED",
+    "pastParticiple": "TACKED",
+    "translation": "CLAVAR"
+  },
+  {
+    "infinitive": "TAG",
+    "pastSimple": "TAGGED",
+    "pastParticiple": "TAGGED",
+    "translation": "ETIQUETAR"
+  },
+  {
+    "infinitive": "TAILOR",
+    "pastSimple": "TAILORED",
+    "pastParticiple": "TAILORED",
+    "translation": "CONFECCIONAR(TRAJE)"
+  },
+  {
+    "infinitive": "TALKED",
+    "pastSimple": "TALKED",
+    "pastParticiple": "TALKED",
+    "translation": "HABLAR/CONVERSAR"
+  },
+  {
+    "infinitive": "TAME",
+    "pastSimple": "TAMED",
+    "pastParticiple": "TAMED",
+    "translation": "DOMAR/DOMESTICAR"
+  },
+  {
+    "infinitive": "TAN",
+    "pastSimple": "TANNED",
+    "pastParticiple": "TANNED",
+    "translation": "BRONCEARSE"
+  },
+  {
+    "infinitive": "TAP",
+    "pastSimple": "TAPPED",
+    "pastParticiple": "TAPPED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "TAUNT",
+    "pastSimple": "TAUNTED",
+    "pastParticiple": "TAUNTED",
+    "translation": "VILIPENDIAR"
+  },
+  {
+    "infinitive": "TEASE",
+    "pastSimple": "TEASED",
+    "pastParticiple": "TEASED",
+    "translation": "BROMEAR"
+  },
+  {
+    "infinitive": "TELEGRAPH",
+    "pastSimple": "TELEGRAPHED",
+    "pastParticiple": "TELEGRAPHED",
+    "translation": "TELEGRAFIAR"
+  },
+  {
+    "infinitive": "TEST",
+    "pastSimple": "TESTED",
+    "pastParticiple": "TESTED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "TICKET",
+    "pastSimple": "TICKETED",
+    "pastParticiple": "TICKETED",
+    "translation": "ROTULAR/ETIQUETAR"
+  },
+  {
+    "infinitive": "TICKLE",
+    "pastSimple": "TICKLED",
+    "pastParticiple": "TICKLED",
+    "translation": "HACER"
+  },
+  {
+    "infinitive": "TIE",
+    "pastSimple": "TIED",
+    "pastParticiple": "TIED",
+    "translation": "ATAR"
+  },
+  {
+    "infinitive": "TIP",
+    "pastSimple": "TIPPED",
+    "pastParticiple": "TIPPED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "TIRE",
+    "pastSimple": "TIRED",
+    "pastParticiple": "TIRED",
+    "translation": "CANSAR/FATIGAR"
+  },
+  {
+    "infinitive": "TITLE",
+    "pastSimple": "TITLED",
+    "pastParticiple": "TITLED",
+    "translation": "TITULAR"
+  },
+  {
+    "infinitive": "TOAST",
+    "pastSimple": "TOASTED",
+    "pastParticiple": "TOASTED",
+    "translation": "BRINDAR/TOSTAR"
+  },
+  {
+    "infinitive": "TOPPLE",
+    "pastSimple": "TOPPLED",
+    "pastParticiple": "TOPPLED",
+    "translation": "DERRIBAR/VOLCAR"
+  },
+  {
+    "infinitive": "TORTURE",
+    "pastSimple": "TORTURED",
+    "pastParticiple": "TORTURED",
+    "translation": "TORTURAR"
+  },
+  {
+    "infinitive": "TOW",
+    "pastSimple": "TOWED",
+    "pastParticiple": "TOWED",
+    "translation": "REMOLCAR"
+  },
+  {
+    "infinitive": "TRACE",
+    "pastSimple": "TRACED",
+    "pastParticiple": "TRACED",
+    "translation": "SEGUIR"
+  },
+  {
+    "infinitive": "TRACK",
+    "pastSimple": "TRACKED",
+    "pastParticiple": "TRACKED",
+    "translation": "SEGUIE"
+  },
+  {
+    "infinitive": "TRADE",
+    "pastSimple": "TRADED",
+    "pastParticiple": "TRADED",
+    "translation": "INTERCAMBIAR"
+  },
+  {
+    "infinitive": "TRADUCE",
+    "pastSimple": "TRADUCED",
+    "pastParticiple": "TRADUCED",
+    "translation": "DIFAMAR/CALUMNIAR"
+  },
+  {
+    "infinitive": "TRANSCRIBE",
+    "pastSimple": "TRANSCRIBED",
+    "pastParticiple": "TRANCRIBED",
+    "translation": "TRANSCRIBIR"
+  },
+  {
+    "infinitive": "TRANSFER",
+    "pastSimple": "TRANSFERED",
+    "pastParticiple": "TRANSFERED",
+    "translation": "TRANSFERIR"
+  },
+  {
+    "infinitive": "TRANSFUGURATE",
+    "pastSimple": "TRANSFUGURATED",
+    "pastParticiple": "TRANSFUGURATED",
+    "translation": "TRANSFIGURAR"
+  },
+  {
+    "infinitive": "TRANSFORM",
+    "pastSimple": "TRANSFORMED",
+    "pastParticiple": "TRANSFORMED",
+    "translation": "TRANSFORMAR"
+  },
+  {
+    "infinitive": "TRANSFUSE",
+    "pastSimple": "TRANSFUDED",
+    "pastParticiple": "TRANSFUSED",
+    "translation": "TRANSFUNDIR"
+  },
+  {
+    "infinitive": "TRANSGRESS",
+    "pastSimple": "TRANSGRESSED",
+    "pastParticiple": "TRANSGRESSED",
+    "translation": "INFRINGIR"
+  },
+  {
+    "infinitive": "TRANSLATE",
+    "pastSimple": "TRANSLATED",
+    "pastParticiple": "TRANSLATED",
+    "translation": "TRADUCIR"
+  },
+  {
+    "infinitive": "TRANSMIT",
+    "pastSimple": "TRANSMITTED",
+    "pastParticiple": "TRANSMITTED",
+    "translation": "TRANSMITIR"
+  },
+  {
+    "infinitive": "TRANSPLANT",
+    "pastSimple": "TRANSPLANTED",
+    "pastParticiple": "TRANSPLANTED",
+    "translation": "TRANSPLANTAR"
+  },
+  {
+    "infinitive": "TRANSPORT",
+    "pastSimple": "TRANSPORTED",
+    "pastParticiple": "TRANSPORTED",
+    "translation": "TRANSPORTAR"
+  },
+  {
+    "infinitive": "TRAP",
+    "pastSimple": "TRAPPED",
+    "pastParticiple": "TRAPPED",
+    "translation": "ATRAPAR"
+  },
+  {
+    "infinitive": "TRAVEL",
+    "pastSimple": "TRAVELLED",
+    "pastParticiple": "TRAVELLED",
+    "translation": "VIAJAR"
+  },
+  {
+    "infinitive": "TREAT",
+    "pastSimple": "TREATED",
+    "pastParticiple": "TREATED",
+    "translation": "TRATAR(BIEN,MAL)"
+  },
+  {
+    "infinitive": "TREND",
+    "pastSimple": "TRENDED",
+    "pastParticiple": "TRENDED",
+    "translation": "TENDER"
+  },
+  {
+    "infinitive": "TRESPASS",
+    "pastSimple": "TRESPASSED",
+    "pastParticiple": "TRESPASSED",
+    "translation": "TRASPASAR(FINCA)"
+  },
+  {
+    "infinitive": "TRICK",
+    "pastSimple": "TRICKED",
+    "pastParticiple": "TRICKED",
+    "translation": "ENGAÑAR/BURLARSE"
+  },
+  {
+    "infinitive": "TRIPLE",
+    "pastSimple": "TRIPLED",
+    "pastParticiple": "TRIPLED",
+    "translation": "TRIPLICAR"
+  },
+  {
+    "infinitive": "TRITURATE",
+    "pastSimple": "TRITURATED",
+    "pastParticiple": "TRITURATED",
+    "translation": "TRITURAR"
+  },
+  {
+    "infinitive": "TROT",
+    "pastSimple": "TROTTED",
+    "pastParticiple": "TROTTED",
+    "translation": "TROTAR"
+  },
+  {
+    "infinitive": "TROUBLE",
+    "pastSimple": "TROUBLED",
+    "pastParticiple": "TROUBLED",
+    "translation": "INQUIETAR/MOLESTAR"
+  },
+  {
+    "infinitive": "TRUST",
+    "pastSimple": "TRUSTED",
+    "pastParticiple": "TRUSTED",
+    "translation": "CONFIAR"
+  },
+  {
+    "infinitive": "TRY",
+    "pastSimple": "TRIED",
+    "pastParticiple": "TRIED",
+    "translation": "TRATAR/INTENTAR"
+  },
+  {
+    "infinitive": "TUMBLE",
+    "pastSimple": "TUMBLED",
+    "pastParticiple": "TUMBLED",
+    "translation": "DERRIBAR/TUMBAR"
+  },
+  {
+    "infinitive": "TUNE",
+    "pastSimple": "TUNED",
+    "pastParticiple": "TUNED",
+    "translation": "AFINAR"
+  },
+  {
+    "infinitive": "TURN",
+    "pastSimple": "TURNED",
+    "pastParticiple": "TURNED",
+    "translation": "GIRAR"
+  },
+  {
+    "infinitive": "TWEAK",
+    "pastSimple": "TWEAKED",
+    "pastParticiple": "TWEAKED",
+    "translation": "PELLIZCAR"
+  },
+  {
+    "infinitive": "TWINKLE",
+    "pastSimple": "TWINKLED",
+    "pastParticiple": "TWINKLED",
+    "translation": "PARPADEAR/CENTELLAR"
+  },
+  {
+    "infinitive": "TWIST",
+    "pastSimple": "TWISTED",
+    "pastParticiple": "TWISTED",
+    "translation": "TORCER(SE)"
+  },
+  {
+    "infinitive": "TYPE",
+    "pastSimple": "TYPED",
+    "pastParticiple": "TYPED",
+    "translation": "TIPIAR"
+  },
+  {
+    "infinitive": "TAKE",
+    "pastSimple": "TOOK",
+    "pastParticiple": "TAKEN",
+    "translation": "TOMAR/AGARRAR"
+  },
+  {
+    "infinitive": "TEACH",
+    "pastSimple": "TAUGHT",
+    "pastParticiple": "TAUGHT",
+    "translation": "ENSEÑAR"
+  },
+  {
+    "infinitive": "TEAR",
+    "pastSimple": "TORE",
+    "pastParticiple": "TORN",
+    "translation": "ROMPER/RASGAR"
+  },
+  {
+    "infinitive": "TELL",
+    "pastSimple": "TOLD",
+    "pastParticiple": "TOLD",
+    "translation": "CONTAR/DECIR"
+  },
+  {
+    "infinitive": "THINK",
+    "pastSimple": "THOUGHT",
+    "pastParticiple": "THOUGHT",
+    "translation": "PENSAR"
+  },
+  {
+    "infinitive": "THRIVE",
+    "pastSimple": "THROVE",
+    "pastParticiple": "THRIVEN",
+    "translation": "PROSPERAR/IR"
+  },
+  {
+    "infinitive": "THROW",
+    "pastSimple": "THREW",
+    "pastParticiple": "THROWN",
+    "translation": "LANZAR/TIRAR"
+  },
+  {
+    "infinitive": "THRUST",
+    "pastSimple": "THRUSTED",
+    "pastParticiple": "THRUSTED",
+    "translation": "EMPUJAR"
+  },
+  {
+    "infinitive": "TREAD",
+    "pastSimple": "TROD",
+    "pastParticiple": "TRODDEN",
+    "translation": "PISAR/PISOTEAR"
+  },
+  {
+    "infinitive": "UMPIRE",
+    "pastSimple": "UMPIRED",
+    "pastParticiple": "UMPIRED",
+    "translation": "ARBITRAR"
+  },
+  {
+    "infinitive": "UNDERTAKE",
+    "pastSimple": "UNDERTOOK",
+    "pastParticiple": "UNDERTAKEN",
+    "translation": "COMPROMETRESE"
+  },
+  {
+    "infinitive": "UNDO",
+    "pastSimple": "UNDID",
+    "pastParticiple": "UNDONE",
+    "translation": "DESATAR(PAQUETE)"
+  },
+  {
+    "infinitive": "UNITE",
+    "pastSimple": "UNITED",
+    "pastParticiple": "UNITED",
+    "translation": "UNIR/JUNTAR"
+  },
+  {
+    "infinitive": "UNPLUG",
+    "pastSimple": "UNPLUGGED",
+    "pastParticiple": "UNPLUGGED",
+    "translation": "DESENCHUFAR"
+  },
+  {
+    "infinitive": "UNTIE",
+    "pastSimple": "UNTIED",
+    "pastParticiple": "UNTIED",
+    "translation": "DESATAR"
+  },
+  {
+    "infinitive": "UPGRADE",
+    "pastSimple": "UPGRADED",
+    "pastParticiple": "UPGRADED",
+    "translation": "ASCENDER"
+  },
+  {
+    "infinitive": "USE",
+    "pastSimple": "USED",
+    "pastParticiple": "USED",
+    "translation": "USAR"
+  },
+  {
+    "infinitive": "UNBEND",
+    "pastSimple": "UNBENT",
+    "pastParticiple": "UNBENT",
+    "translation": "ENDEREZAR"
+  },
+  {
+    "infinitive": "UNDERSTAND",
+    "pastSimple": "UNDERSTOOD",
+    "pastParticiple": "UNDERSTOOD",
+    "translation": "ENTENDER"
+  },
+  {
+    "infinitive": "VACCINATE",
+    "pastSimple": "VACCINATED",
+    "pastParticiple": "VACCINATED",
+    "translation": "VACUNAR"
+  },
+  {
+    "infinitive": "VALIDATE",
+    "pastSimple": "VALIDATED",
+    "pastParticiple": "VALIDATED",
+    "translation": "VALIDAR"
+  },
+  {
+    "infinitive": "VALUE",
+    "pastSimple": "VALUED",
+    "pastParticiple": "VALUED",
+    "translation": "VALORAR"
+  },
+  {
+    "infinitive": "VANISH",
+    "pastSimple": "VANISHED",
+    "pastParticiple": "VANISHED",
+    "translation": "ESFUMARSE"
+  },
+  {
+    "infinitive": "VARY",
+    "pastSimple": "VARIED",
+    "pastParticiple": "VARIED",
+    "translation": "VARIAR/CAMBIAR"
+  },
+  {
+    "infinitive": "VENTILATE",
+    "pastSimple": "VENTILATED",
+    "pastParticiple": "VENTILATED",
+    "translation": "VENTILAR"
+  },
+  {
+    "infinitive": "VENTURE",
+    "pastSimple": "VENTURED",
+    "pastParticiple": "VENTURED",
+    "translation": "AVENTURAR"
+  },
+  {
+    "infinitive": "VIBRATE",
+    "pastSimple": "VIBRATED",
+    "pastParticiple": "VIBRATED",
+    "translation": "VIBRAR"
+  },
+  {
+    "infinitive": "VIOLATE",
+    "pastSimple": "VIOLATED",
+    "pastParticiple": "VIOLATED",
+    "translation": "VIOLAR"
+  },
+  {
+    "infinitive": "VOID",
+    "pastSimple": "VOIDED",
+    "pastParticiple": "VOIDED",
+    "translation": "ANULAR"
+  },
+  {
+    "infinitive": "WAIT",
+    "pastSimple": "WAITED",
+    "pastParticiple": "WAITED",
+    "translation": "ESPERAR"
+  },
+  {
+    "infinitive": "WALK",
+    "pastSimple": "WALKED",
+    "pastParticiple": "WALKED",
+    "translation": "CAMINAR"
+  },
+  {
+    "infinitive": "WANT",
+    "pastSimple": "WANTED",
+    "pastParticiple": "WANTED",
+    "translation": "QUERER/DESEAR"
+  },
+  {
+    "infinitive": "WARM",
+    "pastSimple": "UP",
+    "pastParticiple": "WARMED",
+    "translation": "WARMED"
+  },
+  {
+    "infinitive": "WARN",
+    "pastSimple": "WARNED",
+    "pastParticiple": "WARNED",
+    "translation": "PREVENIR/AVISAR"
+  },
+  {
+    "infinitive": "WARRANT",
+    "pastSimple": "WARRANTED",
+    "pastParticiple": "WARRANTED",
+    "translation": "AUTORIZAR"
+  },
+  {
+    "infinitive": "WASH",
+    "pastSimple": "WASHED",
+    "pastParticiple": "WASHED",
+    "translation": "LAVAR"
+  },
+  {
+    "infinitive": "WASTE",
+    "pastSimple": "WASTED",
+    "pastParticiple": "WASTED",
+    "translation": "PERDER"
+  },
+  {
+    "infinitive": "WATCH",
+    "pastSimple": "WATCHED",
+    "pastParticiple": "WATCHED",
+    "translation": "OBSERVAR/MIRAR"
+  },
+  {
+    "infinitive": "WAVE",
+    "pastSimple": "AT",
+    "pastParticiple": "WAVED",
+    "translation": "AT"
+  },
+  {
+    "infinitive": "WAX",
+    "pastSimple": "WAXED",
+    "pastParticiple": "WAXED",
+    "translation": "ENCERAR"
+  },
+  {
+    "infinitive": "WEAN",
+    "pastSimple": "FROM",
+    "pastParticiple": "WEANED",
+    "translation": "WEANED"
+  },
+  {
+    "infinitive": "WEIGH",
+    "pastSimple": "WEIGHED",
+    "pastParticiple": "WEIGHED",
+    "translation": "PESAR"
+  },
+  {
+    "infinitive": "WELCOME",
+    "pastSimple": "WELCOMED",
+    "pastParticiple": "WELCOMED",
+    "translation": "DAR"
+  },
+  {
+    "infinitive": "WELD",
+    "pastSimple": "WELDED",
+    "pastParticiple": "WELDED",
+    "translation": "SOLDAR"
+  },
+  {
+    "infinitive": "WENCH",
+    "pastSimple": "WENCHED",
+    "pastParticiple": "WENCHED",
+    "translation": "PUTEAR"
+  },
+  {
+    "infinitive": "WHIP",
+    "pastSimple": "WHIPPED",
+    "pastParticiple": "WHIPPED",
+    "translation": "AZOTAR/FUSTIGAR"
+  },
+  {
+    "infinitive": "WHISPER",
+    "pastSimple": "WHISPERED",
+    "pastParticiple": "WHISPERED",
+    "translation": "SUSURRAR"
+  },
+  {
+    "infinitive": "WHISTLE",
+    "pastSimple": "WHISTLED",
+    "pastParticiple": "WHISTLED",
+    "translation": "SILBAR"
+  },
+  {
+    "infinitive": "WIELD",
+    "pastSimple": "WIELDED",
+    "pastParticiple": "WIELDED",
+    "translation": "EMPUÑAR(ARMA)"
+  },
+  {
+    "infinitive": "WILL",
+    "pastSimple": "WILLED",
+    "pastParticiple": "WILLED",
+    "translation": "DESEAR"
+  },
+  {
+    "infinitive": "WIND",
+    "pastSimple": "UP",
+    "pastParticiple": "WINDED",
+    "translation": "UP"
+  },
+  {
+    "infinitive": "WINK",
+    "pastSimple": "WINKED",
+    "pastParticiple": "WINKED",
+    "translation": "GUIÑAR EL OJO"
+  },
+  {
+    "infinitive": "WIPE",
+    "pastSimple": "WIPED",
+    "pastParticiple": "WIPED",
+    "translation": "SECAR/LIMPIAR"
+  },
+  {
+    "infinitive": "WIRE",
+    "pastSimple": "WIRED",
+    "pastParticiple": "WIRED",
+    "translation": "PONER"
+  },
+  {
+    "infinitive": "WISH",
+    "pastSimple": "WISHED",
+    "pastParticiple": "WISHED",
+    "translation": "DESEAR/ANHELAR"
+  },
+  {
+    "infinitive": "WITCH",
+    "pastSimple": "WITCHED",
+    "pastParticiple": "WITCHED",
+    "translation": "EMBRUJAR"
+  },
+  {
+    "infinitive": "WONDER",
+    "pastSimple": "WONDERED",
+    "pastParticiple": "WONDERED",
+    "translation": "SENTIR"
+  },
+  {
+    "infinitive": "WORK",
+    "pastSimple": "WORKED",
+    "pastParticiple": "WORKED",
+    "translation": "TRABAJAR"
+  },
+  {
+    "infinitive": "WORRY",
+    "pastSimple": "WORRIED",
+    "pastParticiple": "WORRIED",
+    "translation": "PREOCUPARSE"
+  },
+  {
+    "infinitive": "WRAP",
+    "pastSimple": "WRAPPED",
+    "pastParticiple": "WRAPPED",
+    "translation": "ENVOLVER/ENROLLAR"
+  },
+  {
+    "infinitive": "WRECK",
+    "pastSimple": "WRECKED",
+    "pastParticiple": "WRECKED",
+    "translation": "NEUFRAGAR/CHOCAR"
+  },
+  {
+    "infinitive": "WREST",
+    "pastSimple": "WRESTED",
+    "pastParticiple": "WRESTED",
+    "translation": "ESTIRAR"
+  },
+  {
+    "infinitive": "WRESTLE",
+    "pastSimple": "WRESTLED",
+    "pastParticiple": "WRESTLED",
+    "translation": "LUCHAR"
+  },
+  {
+    "infinitive": "WRINKLE",
+    "pastSimple": "WRINKLED",
+    "pastParticiple": "WRINKLED",
+    "translation": "ARRUGARSE"
+  },
+  {
+    "infinitive": "WAKE",
+    "pastSimple": "WOKE",
+    "pastParticiple": "WOKE/WOKEN",
+    "translation": "LEVANTARSE"
+  },
+  {
+    "infinitive": "WEAR",
+    "pastSimple": "WORE",
+    "pastParticiple": "WORN",
+    "translation": "USAR(ROPA)DESGASTAR"
+  },
+  {
+    "infinitive": "WEAVE",
+    "pastSimple": "WOVE",
+    "pastParticiple": "WOVEN",
+    "translation": "TEJER"
+  },
+  {
+    "infinitive": "WEEP",
+    "pastSimple": "WEPT",
+    "pastParticiple": "WEPT",
+    "translation": "LLORAR"
+  },
+  {
+    "infinitive": "WIN",
+    "pastSimple": "WON",
+    "pastParticiple": "WON",
+    "translation": "GANAR"
+  },
+  {
+    "infinitive": "WIND",
+    "pastSimple": "WOUND",
+    "pastParticiple": "WOUND",
+    "translation": "ENROLLAR/OVILLAR"
+  },
+  {
+    "infinitive": "WITHDRAW",
+    "pastSimple": "WITHDREW",
+    "pastParticiple": "WITHDRAWN",
+    "translation": "SACAR(DINERO)"
+  },
+  {
+    "infinitive": "WRING",
+    "pastSimple": "WRUNG",
+    "pastParticiple": "WRUNG",
+    "translation": "RETORCER"
+  },
+  {
+    "infinitive": "WRITE",
+    "pastSimple": "WROTE",
+    "pastParticiple": "WRITTEN",
+    "translation": "ESCRIBIR"
+  },
+  {
+    "infinitive": "X-RAY",
+    "pastSimple": "X-RAYED",
+    "pastParticiple": "X-RAYED",
+    "translation": "RADIOGRAFIAR"
+  },
+  {
+    "infinitive": "XEROXCOPY",
+    "pastSimple": "XEROXCOPIED",
+    "pastParticiple": "XEROXCOPIED",
+    "translation": "FOTOCOPIAR"
+  },
+  {
+    "infinitive": "YELL",
+    "pastSimple": "YELLED",
+    "pastParticiple": "YELLED",
+    "translation": "GRITAR"
+  },
+  {
+    "infinitive": "YIELD",
+    "pastSimple": "YIELDED",
+    "pastParticiple": "YIELDED",
+    "translation": "CEDER"
+  },
+  {
+    "infinitive": "ZIP",
+    "pastSimple": "ZIPPED",
+    "pastParticiple": "ZIPPED",
+    "translation": "CERRAR"
+  },
+  {
+    "infinitive": "ZOOM",
+    "pastSimple": "ZOOMED",
+    "pastParticiple": "ZOOMED",
+    "translation": "ZUMBAR/DISPARARSE"
+  }
+]
