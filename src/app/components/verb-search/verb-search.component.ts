@@ -20,9 +20,25 @@ export class VerbSearchComponent {
 
   loadVerbs() {
     this.http.get<any[]>('assets/verbs.json').subscribe((data) => {
-      this.verbs = data;
-      this.filteredVerbs = data;
+      this.verbs = data.map(verb => ({
+        ...verb,
+        type: this.determineVerbType(verb)
+      }));
+      this.filteredVerbs = this.verbs;
     });
+  }
+  
+  determineVerbType(verb: any): string {
+    // Un verbo es regular si su pasado simple y participio pasado
+    // se forman añadiendo -ed al infinitivo (quitando -E final si existe)
+    const base = verb.infinitive.endsWith('E') 
+      ? verb.infinitive.slice(0, -1) 
+      : verb.infinitive;
+      
+    const isRegular = verb.pastSimple === `${base}ED` && 
+                      verb.pastParticiple === `${base}ED`;
+                      
+    return isRegular ? 'regular' : 'irregular';
   }
 
   onInputChange(event: Event) {

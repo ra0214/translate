@@ -1,4 +1,4 @@
-  <div class="app-container">
+<div class="app-container">
     <header>
       <h1>Buscador de Verbos</h1>
     </header>
@@ -15,11 +15,18 @@
           <h3>{{ verb.infinitive }} <span>({{ verb.translation }})</span></h3>
           <p><strong>Pasado:</strong> {{ verb.pastSimple }}</p>
           <p><strong>Participio:</strong> {{ verb.pastParticiple }}</p>
+          <p><strong>Tipo:</strong> <span [class]="verb.type">{{ verb.type === 'regular' ? 'Regular' : 'Irregular' }}</span></p>
+          <div class="examples" *ngIf="verb.examples">
+            <h4>Ejemplos de uso:</h4>
+            <ul>
+              <li *ngFor="let example of verb.examples">{{ example }}</li>
+            </ul>
+          </div>
         </li>
       </ul>
       <p *ngIf="filteredVerbs.length === 0" class="no-results">
         No se encontraron resultados.
       </p>
     </main>
-  </div>
+</div>
 
